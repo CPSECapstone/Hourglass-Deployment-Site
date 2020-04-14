@@ -48,3305 +48,4957 @@ The Explore page is a way for users to view stories built by others using the St
 
 #### Open Source Licensing
 
-@babel/code-frame@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-code-frame
+[@babel/code-frame@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-code-frame
+) (**MIT**)
 
-@babel/compat-data@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-compat-data
+[@babel/compat-data@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-compat-data
+) (**MIT**)
 
-@babel/core@7.8.4 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-core
+[@babel/core@7.8.4](https://github.com/babel/babel/tree/master/packages/babel-core
+) (**MIT**)
 
-@babel/generator@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-generator
+[@babel/generator@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-generator
+) (**MIT**)
 
-@babel/helper-annotate-as-pure@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-annotate-as-pure
+[@babel/helper-annotate-as-pure@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-annotate-as-pure
+) (**MIT**)
 
-@babel/helper-builder-binary-assignment-operator-visitor@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-builder-binary-assignment-operator-visitor
+[@babel/helper-builder-binary-assignment-operator-visitor@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-builder-binary-assignment-operator-visitor
+) (**MIT**)
 
-@babel/helper-builder-react-jsx@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-builder-react-jsx
+[@babel/helper-builder-react-jsx@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-builder-react-jsx
+) (**MIT**)
 
-@babel/helper-call-delegate@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate
+[@babel/helper-call-delegate@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-helper-call-delegate
+) (**MIT**)
 
-@babel/helper-compilation-targets@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-compilation-targets
+[@babel/helper-compilation-targets@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-helper-compilation-targets
+) (**MIT**)
 
-@babel/helper-create-class-features-plugin@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-create-class-features-plugin
+[@babel/helper-create-class-features-plugin@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-helper-create-class-features-plugin
+) (**MIT**)
 
-@babel/helper-create-regexp-features-plugin@7.8.6 (MIT) - https://github.com/babel/babel
+[@babel/helper-create-regexp-features-plugin@7.8.6](https://github.com/babel/babel
+) (**MIT**)
 
-@babel/helper-define-map@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-define-map
+[@babel/helper-define-map@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-define-map
+) (**MIT**)
 
-@babel/helper-explode-assignable-expression@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression
+[@babel/helper-explode-assignable-expression@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-explode-assignable-expression
+) (**MIT**)
 
-@babel/helper-function-name@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-function-name
+[@babel/helper-function-name@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-function-name
+) (**MIT**)
 
-@babel/helper-get-function-arity@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity
+[@babel/helper-get-function-arity@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-get-function-arity
+) (**MIT**)
 
-@babel/helper-hoist-variables@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables
+[@babel/helper-hoist-variables@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-hoist-variables
+) (**MIT**)
 
-@babel/helper-member-expression-to-functions@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-member-expression-to-functions
+[@babel/helper-member-expression-to-functions@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-member-expression-to-functions
+) (**MIT**)
 
-@babel/helper-module-imports@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-module-imports
+[@babel/helper-module-imports@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-module-imports
+) (**MIT**)
 
-@babel/helper-module-transforms@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-module-transforms
+[@babel/helper-module-transforms@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-helper-module-transforms
+) (**MIT**)
 
-@babel/helper-optimise-call-expression@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression
+[@babel/helper-optimise-call-expression@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-optimise-call-expression
+) (**MIT**)
 
-@babel/helper-plugin-utils@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-plugin-utils
+[@babel/helper-plugin-utils@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-plugin-utils
+) (**MIT**)
 
-@babel/helper-regex@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-regex
+[@babel/helper-regex@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-regex
+) (**MIT**)
 
-@babel/helper-remap-async-to-generator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-remap-async-to-generator
+[@babel/helper-remap-async-to-generator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-remap-async-to-generator
+) (**MIT**)
 
-@babel/helper-replace-supers@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers
+[@babel/helper-replace-supers@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-helper-replace-supers
+) (**MIT**)
 
-@babel/helper-simple-access@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-simple-access
+[@babel/helper-simple-access@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-simple-access
+) (**MIT**)
 
-@babel/helper-split-export-declaration@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-split-export-declaration
+[@babel/helper-split-export-declaration@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-split-export-declaration
+) (**MIT**)
 
-@babel/helper-wrap-function@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helper-wrap-function
+[@babel/helper-wrap-function@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-helper-wrap-function
+) (**MIT**)
 
-@babel/helpers@7.8.4 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-helpers
+[@babel/helpers@7.8.4](https://github.com/babel/babel/tree/master/packages/babel-helpers
+) (**MIT**)
 
-@babel/highlight@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-highlight
+[@babel/highlight@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-highlight
+) (**MIT**)
 
-@babel/parser@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-parser
+[@babel/parser@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-parser
+) (**MIT**)
 
-@babel/plugin-proposal-async-generator-functions@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-async-generator-functions
+[@babel/plugin-proposal-async-generator-functions@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-async-generator-functions
+) (**MIT**)
 
-@babel/plugin-proposal-class-properties@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-class-properties
+[@babel/plugin-proposal-class-properties@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-class-properties
+) (**MIT**)
 
-@babel/plugin-proposal-decorators@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-decorators
+[@babel/plugin-proposal-decorators@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-decorators
+) (**MIT**)
 
-@babel/plugin-proposal-dynamic-import@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-dynamic-import
+[@babel/plugin-proposal-dynamic-import@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-dynamic-import
+) (**MIT**)
 
-@babel/plugin-proposal-json-strings@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-json-strings
+[@babel/plugin-proposal-json-strings@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-json-strings
+) (**MIT**)
 
-@babel/plugin-proposal-nullish-coalescing-operator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-nullish-coalescing-operator
+[@babel/plugin-proposal-nullish-coalescing-operator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-nullish-coalescing-operator
+) (**MIT**)
 
-@babel/plugin-proposal-numeric-separator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-numeric-separator
+[@babel/plugin-proposal-numeric-separator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-numeric-separator
+) (**MIT**)
 
-@babel/plugin-proposal-object-rest-spread@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-object-rest-spread
+[@babel/plugin-proposal-object-rest-spread@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-object-rest-spread
+) (**MIT**)
 
-@babel/plugin-proposal-optional-catch-binding@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-optional-catch-binding
+[@babel/plugin-proposal-optional-catch-binding@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-optional-catch-binding
+) (**MIT**)
 
-@babel/plugin-proposal-optional-chaining@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-optional-chaining
+[@babel/plugin-proposal-optional-chaining@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-optional-chaining
+) (**MIT**)
 
-@babel/plugin-proposal-unicode-property-regex@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-unicode-property-regex
+[@babel/plugin-proposal-unicode-property-regex@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-proposal-unicode-property-regex
+) (**MIT**)
 
-@babel/plugin-syntax-async-generators@7.8.4 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-generators
+[@babel/plugin-syntax-async-generators@7.8.4](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-async-generators
+) (**MIT**)
 
-@babel/plugin-syntax-decorators@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-decorators
+[@babel/plugin-syntax-decorators@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-decorators
+) (**MIT**)
 
-@babel/plugin-syntax-dynamic-import@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-dynamic-import
+[@babel/plugin-syntax-dynamic-import@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-dynamic-import
+) (**MIT**)
 
-@babel/plugin-syntax-flow@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-flow
+[@babel/plugin-syntax-flow@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-flow
+) (**MIT**)
 
-@babel/plugin-syntax-json-strings@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-json-strings
+[@babel/plugin-syntax-json-strings@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-json-strings
+) (**MIT**)
 
-@babel/plugin-syntax-jsx@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx
+[@babel/plugin-syntax-jsx@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx
+) (**MIT**)
 
-@babel/plugin-syntax-nullish-coalescing-operator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-nullish-coalescing-operator
+[@babel/plugin-syntax-nullish-coalescing-operator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-nullish-coalescing-operator
+) (**MIT**)
 
-@babel/plugin-syntax-numeric-separator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-numeric-separator
+[@babel/plugin-syntax-numeric-separator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-numeric-separator
+) (**MIT**)
 
-@babel/plugin-syntax-object-rest-spread@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread
+[@babel/plugin-syntax-object-rest-spread@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread
+) (**MIT**)
 
-@babel/plugin-syntax-optional-catch-binding@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-optional-catch-binding
+[@babel/plugin-syntax-optional-catch-binding@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-optional-catch-binding
+) (**MIT**)
 
-@babel/plugin-syntax-optional-chaining@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-optional-chaining
+[@babel/plugin-syntax-optional-chaining@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-optional-chaining
+) (**MIT**)
 
-@babel/plugin-syntax-top-level-await@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-top-level-await
+[@babel/plugin-syntax-top-level-await@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-top-level-await
+) (**MIT**)
 
-@babel/plugin-syntax-typescript@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-typescript
+[@babel/plugin-syntax-typescript@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-typescript
+) (**MIT**)
 
-@babel/plugin-transform-arrow-functions@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-arrow-functions
+[@babel/plugin-transform-arrow-functions@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-arrow-functions
+) (**MIT**)
 
-@babel/plugin-transform-async-to-generator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-to-generator
+[@babel/plugin-transform-async-to-generator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-async-to-generator
+) (**MIT**)
 
-@babel/plugin-transform-block-scoped-functions@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-block-scoped-functions
+[@babel/plugin-transform-block-scoped-functions@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-block-scoped-functions
+) (**MIT**)
 
-@babel/plugin-transform-block-scoping@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-block-scoping
+[@babel/plugin-transform-block-scoping@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-block-scoping
+) (**MIT**)
 
-@babel/plugin-transform-classes@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-classes
+[@babel/plugin-transform-classes@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-classes
+) (**MIT**)
 
-@babel/plugin-transform-computed-properties@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-computed-properties
+[@babel/plugin-transform-computed-properties@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-computed-properties
+) (**MIT**)
 
-@babel/plugin-transform-destructuring@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-destructuring
+[@babel/plugin-transform-destructuring@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-destructuring
+) (**MIT**)
 
-@babel/plugin-transform-dotall-regex@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-dotall-regex
+[@babel/plugin-transform-dotall-regex@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-dotall-regex
+) (**MIT**)
 
-@babel/plugin-transform-duplicate-keys@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-duplicate-keys
+[@babel/plugin-transform-duplicate-keys@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-duplicate-keys
+) (**MIT**)
 
-@babel/plugin-transform-exponentiation-operator@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-exponentiation-operator
+[@babel/plugin-transform-exponentiation-operator@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-exponentiation-operator
+) (**MIT**)
 
-@babel/plugin-transform-flow-strip-types@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-strip-types
+[@babel/plugin-transform-flow-strip-types@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-strip-types
+) (**MIT**)
 
-@babel/plugin-transform-for-of@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-for-of
+[@babel/plugin-transform-for-of@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-for-of
+) (**MIT**)
 
-@babel/plugin-transform-function-name@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-function-name
+[@babel/plugin-transform-function-name@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-function-name
+) (**MIT**)
 
-@babel/plugin-transform-literals@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-literals
+[@babel/plugin-transform-literals@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-literals
+) (**MIT**)
 
-@babel/plugin-transform-member-expression-literals@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-member-expression-literals
+[@babel/plugin-transform-member-expression-literals@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-member-expression-literals
+) (**MIT**)
 
-@babel/plugin-transform-modules-amd@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-amd
+[@babel/plugin-transform-modules-amd@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-amd
+) (**MIT**)
 
-@babel/plugin-transform-modules-commonjs@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-commonjs
+[@babel/plugin-transform-modules-commonjs@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-commonjs
+) (**MIT**)
 
-@babel/plugin-transform-modules-systemjs@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-systemjs
+[@babel/plugin-transform-modules-systemjs@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-systemjs
+) (**MIT**)
 
-@babel/plugin-transform-modules-umd@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-umd
+[@babel/plugin-transform-modules-umd@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-modules-umd
+) (**MIT**)
 
-@babel/plugin-transform-named-capturing-groups-regex@7.8.3 (MIT) - https://github.com/babel/babel
+[@babel/plugin-transform-named-capturing-groups-regex@7.8.3](https://github.com/babel/babel
+) (**MIT**)
 
-@babel/plugin-transform-new-target@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-new-target
+[@babel/plugin-transform-new-target@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-new-target
+) (**MIT**)
 
-@babel/plugin-transform-object-super@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-super
+[@babel/plugin-transform-object-super@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-super
+) (**MIT**)
 
-@babel/plugin-transform-parameters@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-parameters
+[@babel/plugin-transform-parameters@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-parameters
+) (**MIT**)
 
-@babel/plugin-transform-property-literals@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-property-literals
+[@babel/plugin-transform-property-literals@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-property-literals
+) (**MIT**)
 
-@babel/plugin-transform-react-constant-elements@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-constant-elements
+[@babel/plugin-transform-react-constant-elements@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-constant-elements
+) (**MIT**)
 
-@babel/plugin-transform-react-display-name@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-display-name
+[@babel/plugin-transform-react-display-name@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-display-name
+) (**MIT**)
 
-@babel/plugin-transform-react-jsx-self@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self
+[@babel/plugin-transform-react-jsx-self@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self
+) (**MIT**)
 
-@babel/plugin-transform-react-jsx-source@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source
+[@babel/plugin-transform-react-jsx-source@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source
+) (**MIT**)
 
-@babel/plugin-transform-react-jsx@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx
+[@babel/plugin-transform-react-jsx@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx
+) (**MIT**)
 
-@babel/plugin-transform-regenerator@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator
+[@babel/plugin-transform-regenerator@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-regenerator
+) (**MIT**)
 
-@babel/plugin-transform-reserved-words@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-reserved-words
+[@babel/plugin-transform-reserved-words@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-reserved-words
+) (**MIT**)
 
-@babel/plugin-transform-runtime@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-runtime
+[@babel/plugin-transform-runtime@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-runtime
+) (**MIT**)
 
-@babel/plugin-transform-shorthand-properties@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-shorthand-properties
+[@babel/plugin-transform-shorthand-properties@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-shorthand-properties
+) (**MIT**)
 
-@babel/plugin-transform-spread@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-spread
+[@babel/plugin-transform-spread@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-spread
+) (**MIT**)
 
-@babel/plugin-transform-sticky-regex@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-sticky-regex
+[@babel/plugin-transform-sticky-regex@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-sticky-regex
+) (**MIT**)
 
-@babel/plugin-transform-template-literals@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-template-literals
+[@babel/plugin-transform-template-literals@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-template-literals
+) (**MIT**)
 
-@babel/plugin-transform-typeof-symbol@7.8.4 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-typeof-symbol
+[@babel/plugin-transform-typeof-symbol@7.8.4](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-typeof-symbol
+) (**MIT**)
 
-@babel/plugin-transform-typescript@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-typescript
+[@babel/plugin-transform-typescript@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-typescript
+) (**MIT**)
 
-@babel/plugin-transform-unicode-regex@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-unicode-regex
+[@babel/plugin-transform-unicode-regex@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-unicode-regex
+) (**MIT**)
 
-@babel/preset-env@7.8.4 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-preset-env
+[@babel/preset-env@7.8.4](https://github.com/babel/babel/tree/master/packages/babel-preset-env
+) (**MIT**)
 
-@babel/preset-env@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-preset-env
+[@babel/preset-env@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-preset-env
+) (**MIT**)
 
-@babel/preset-react@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-preset-react
+[@babel/preset-react@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-preset-react
+) (**MIT**)
 
-@babel/preset-typescript@7.8.3 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-preset-typescript
+[@babel/preset-typescript@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-preset-typescript
+) (**MIT**)
 
-@babel/runtime-corejs3@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-runtime-corejs3
+[@babel/runtime-corejs3@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-runtime-corejs3
+) (**MIT**)
 
-@babel/runtime@7.8.4 (MIT) - https://github.com/babel/babel
+[@babel/runtime@7.8.4](https://github.com/babel/babel
+) (**MIT**)
 
-@babel/runtime@7.8.7 (MIT) - https://github.com/babel/babel
+[@babel/runtime@7.8.7](https://github.com/babel/babel
+) (**MIT**)
 
-@babel/template@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-template
+[@babel/template@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-template
+) (**MIT**)
 
-@babel/traverse@7.8.6 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-traverse
+[@babel/traverse@7.8.6](https://github.com/babel/babel/tree/master/packages/babel-traverse
+) (**MIT**)
 
-@babel/types@7.8.7 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-types
+[@babel/types@7.8.7](https://github.com/babel/babel/tree/master/packages/babel-types
+) (**MIT**)
 
-@cnakazawa/watch@1.0.4 (Apache-2.0) - https://github.com/mikeal/watch
+[@cnakazawa/watch@1.0.4](https://github.com/mikeal/watch
+) (**Apache-2.0**)
 
-@csstools/convert-colors@1.4.0 (CC0-1.0) - https://github.com/jonathantneal/convert-colors
+[@csstools/convert-colors@1.4.0](https://github.com/jonathantneal/convert-colors
+) (**CC0-1.0**)
 
-@csstools/normalize.css@10.1.0 (CC0-1.0) - https://github.com/csstools/normalize.css
+[@csstools/normalize.css@10.1.0](https://github.com/csstools/normalize.css
+) (**CC0-1.0**)
 
-@date-io/core@1.3.13 (MIT) - https://github.com/dmtrKovalenko/date-io
+[@date-io/core@1.3.13](https://github.com/dmtrKovalenko/date-io
+) (**MIT**)
 
-@date-io/date-fns@1.3.13 (MIT) - https://github.com/dmtrKovalenko/date-io
+[@date-io/date-fns@1.3.13](https://github.com/dmtrKovalenko/date-io
+) (**MIT**)
 
-@emotion/hash@0.7.4 (MIT) - https://github.com/emotion-js/emotion/tree/master/packages/hash
+[@emotion/hash@0.7.4](https://github.com/emotion-js/emotion/tree/master/packages/hash
+) (**MIT**)
 
-@hapi/address@2.1.4 (BSD-3-Clause) - https://github.com/hapijs/address
+[@hapi/address@2.1.4](https://github.com/hapijs/address
+) (**BSD-3-Clause**)
 
-@hapi/bourne@1.3.2 (BSD-3-Clause) - https://github.com/hapijs/bourne
+[@hapi/bourne@1.3.2](https://github.com/hapijs/bourne
+) (**BSD-3-Clause**)
 
-@hapi/hoek@8.5.1 (BSD-3-Clause) - https://github.com/hapijs/hoek
+[@hapi/hoek@8.5.1](https://github.com/hapijs/hoek
+) (**BSD-3-Clause**)
 
-@hapi/joi@15.1.1 (BSD-3-Clause) - https://github.com/hapijs/joi
+[@hapi/joi@15.1.1](https://github.com/hapijs/joi
+) (**BSD-3-Clause**)
 
-@hapi/topo@3.1.6 (BSD-3-Clause) - https://github.com/hapijs/topo
+[@hapi/topo@3.1.6](https://github.com/hapijs/topo
+) (**BSD-3-Clause**)
 
-@jest/console@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/console@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/core@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/core@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/environment@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/environment@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/fake-timers@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/fake-timers@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/reporters@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/reporters@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/source-map@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/source-map@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/test-result@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/test-result@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/test-sequencer@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/test-sequencer@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/transform@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/transform@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/types@24.9.0 (MIT) - https://github.com/facebook/jest
+[@jest/types@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@jest/types@25.1.0 (MIT) - https://github.com/facebook/jest
+[@jest/types@25.1.0](https://github.com/facebook/jest
+) (**MIT**)
 
-@mapbox/geojson-area@0.2.2 (BSD-2-Clause) - https://github.com/mapbox/geojson-area
+[@mapbox/geojson-area@0.2.2](https://github.com/mapbox/geojson-area
+) (**BSD-2-Clause**)
 
-@mapbox/geojson-rewind@0.4.0 (ISC) - https://github.com/mapbox/geojson-rewind
+[@mapbox/geojson-rewind@0.4.0](https://github.com/mapbox/geojson-rewind
+) (**ISC**)
 
-@mapbox/geojson-types@1.0.2 (ISC) - 
+[@mapbox/geojson-types@1.0.2](
+) (**ISC**)
 
-@mapbox/jsonlint-lines-primitives@2.0.2 (Custom: https://github.com/tmcw/jsonlint) - https://github.com/mapbox/jsonlint
+[@mapbox/jsonlint-lines-primitives@2.0.2](https://github.com/mapbox/jsonlint
+) (**Custom: https://github.com/tmcw/jsonlint**)
 
-@mapbox/mapbox-gl-supported@1.5.0 (BSD-3-Clause) - https://github.com/mapbox/mapbox-gl-supported
+[@mapbox/mapbox-gl-supported@1.5.0](https://github.com/mapbox/mapbox-gl-supported
+) (**BSD-3-Clause**)
 
-@mapbox/point-geometry@0.1.0 (ISC) - https://github.com/mapbox/point-geometry
+[@mapbox/point-geometry@0.1.0](https://github.com/mapbox/point-geometry
+) (**ISC**)
 
-@mapbox/tiny-sdf@1.1.1 (BSD-2-Clause) - https://github.com/mapbox/tiny-sdf
+[@mapbox/tiny-sdf@1.1.1](https://github.com/mapbox/tiny-sdf
+) (**BSD-2-Clause**)
 
-@mapbox/unitbezier@0.0.0 (BSD-2-Clause) - https://github.com/mapbox/unitbezier
+[@mapbox/unitbezier@0.0.0](https://github.com/mapbox/unitbezier
+) (**BSD-2-Clause**)
 
-@mapbox/vector-tile@1.3.1 (BSD-3-Clause) - https://github.com/mapbox/vector-tile-js
+[@mapbox/vector-tile@1.3.1](https://github.com/mapbox/vector-tile-js
+) (**BSD-3-Clause**)
 
-@mapbox/whoots-js@3.1.0 (ISC) - https://github.com/mapbox/whoots-js
+[@mapbox/whoots-js@3.1.0](https://github.com/mapbox/whoots-js
+) (**ISC**)
 
-@material-ui/core@4.9.5 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/core@4.9.5](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@material-ui/icons@4.9.1 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/icons@4.9.1](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@material-ui/lab@4.0.0-alpha.45 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/lab@4.0.0-alpha.45](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@material-ui/pickers@3.2.10 (MIT) - https://github.com/mui-org/material-ui-pickers
+[@material-ui/pickers@3.2.10](https://github.com/mui-org/material-ui-pickers
+) (**MIT**)
 
-@material-ui/styles@4.9.0 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/styles@4.9.0](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@material-ui/system@4.9.3 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/system@4.9.3](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@material-ui/types@5.0.0 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/types@5.0.0](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@material-ui/utils@4.7.1 (MIT) - https://github.com/mui-org/material-ui
+[@material-ui/utils@4.7.1](https://github.com/mui-org/material-ui
+) (**MIT**)
 
-@math.gl/web-mercator@3.1.3 (MIT) - https://github.com/uber-web/math.gl
+[@math.gl/web-mercator@3.1.3](https://github.com/uber-web/math.gl
+) (**MIT**)
 
-@mrmlnc/readdir-enhanced@2.2.1 (MIT) - https://github.com/bigstickcarpet/readdir-enhanced
+[@mrmlnc/readdir-enhanced@2.2.1](https://github.com/bigstickcarpet/readdir-enhanced
+) (**MIT**)
 
-@nodelib/fs.stat@1.1.3 (MIT) - https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat
+[@nodelib/fs.stat@1.1.3](https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat
+) (**MIT**)
 
-@sheerun/mutationobserver-shim@0.3.3 (MIT) - github.com/megawac/MutationObserver.js
+[@sheerun/mutationobserver-shim@0.3.3](github.com/megawac/MutationObserver.js
+) (**MIT**)
 
-@svgr/babel-plugin-add-jsx-attribute@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-add-jsx-attribute
+[@svgr/babel-plugin-add-jsx-attribute@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-add-jsx-attribute
+) (**MIT**)
 
-@svgr/babel-plugin-remove-jsx-attribute@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-remove-jsx-attribute
+[@svgr/babel-plugin-remove-jsx-attribute@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-remove-jsx-attribute
+) (**MIT**)
 
-@svgr/babel-plugin-remove-jsx-empty-expression@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-remove-jsx-empty-expression
+[@svgr/babel-plugin-remove-jsx-empty-expression@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-remove-jsx-empty-expression
+) (**MIT**)
 
-@svgr/babel-plugin-replace-jsx-attribute-value@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-replace-jsx-attribute-value
+[@svgr/babel-plugin-replace-jsx-attribute-value@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-replace-jsx-attribute-value
+) (**MIT**)
 
-@svgr/babel-plugin-svg-dynamic-title@4.3.3 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-svg-dynamic-title
+[@svgr/babel-plugin-svg-dynamic-title@4.3.3](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-svg-dynamic-title
+) (**MIT**)
 
-@svgr/babel-plugin-svg-em-dimensions@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-svg-em-dimensions
+[@svgr/babel-plugin-svg-em-dimensions@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-svg-em-dimensions
+) (**MIT**)
 
-@svgr/babel-plugin-transform-react-native-svg@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-transform-react-native-svg
+[@svgr/babel-plugin-transform-react-native-svg@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-transform-react-native-svg
+) (**MIT**)
 
-@svgr/babel-plugin-transform-svg-component@4.2.0 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-transform-svg-component
+[@svgr/babel-plugin-transform-svg-component@4.2.0](https://github.com/smooth-code/svgr/tree/master/packages/babel-plugin-transform-svg-component
+) (**MIT**)
 
-@svgr/babel-preset@4.3.3 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/babel-preset
+[@svgr/babel-preset@4.3.3](https://github.com/smooth-code/svgr/tree/master/packages/babel-preset
+) (**MIT**)
 
-@svgr/core@4.3.3 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/core
+[@svgr/core@4.3.3](https://github.com/smooth-code/svgr/tree/master/packages/core
+) (**MIT**)
 
-@svgr/hast-util-to-babel-ast@4.3.2 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/hast-util-to-babel-ast
+[@svgr/hast-util-to-babel-ast@4.3.2](https://github.com/smooth-code/svgr/tree/master/packages/hast-util-to-babel-ast
+) (**MIT**)
 
-@svgr/plugin-jsx@4.3.3 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/plugin-jsx
+[@svgr/plugin-jsx@4.3.3](https://github.com/smooth-code/svgr/tree/master/packages/plugin-jsx
+) (**MIT**)
 
-@svgr/plugin-svgo@4.3.1 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/plugin-svgo
+[@svgr/plugin-svgo@4.3.1](https://github.com/smooth-code/svgr/tree/master/packages/plugin-svgo
+) (**MIT**)
 
-@svgr/webpack@4.3.3 (MIT) - https://github.com/smooth-code/svgr/tree/master/packages/webpack
+[@svgr/webpack@4.3.3](https://github.com/smooth-code/svgr/tree/master/packages/webpack
+) (**MIT**)
 
-@testing-library/dom@6.15.0 (MIT) - https://github.com/testing-library/dom-testing-library
+[@testing-library/dom@6.15.0](https://github.com/testing-library/dom-testing-library
+) (**MIT**)
 
-@testing-library/jest-dom@4.2.4 (MIT) - https://github.com/testing-library/jest-dom
+[@testing-library/jest-dom@4.2.4](https://github.com/testing-library/jest-dom
+) (**MIT**)
 
-@testing-library/react@9.5.0 (MIT) - https://github.com/testing-library/react-testing-library
+[@testing-library/react@9.5.0](https://github.com/testing-library/react-testing-library
+) (**MIT**)
 
-@testing-library/user-event@7.2.1 (MIT) - https://github.com/testing-library/user-event
+[@testing-library/user-event@7.2.1](https://github.com/testing-library/user-event
+) (**MIT**)
 
-@types/babel__core@7.1.6 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/babel__core@7.1.6](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/babel__generator@7.6.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/babel__generator@7.6.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/babel__template@7.0.2 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/babel__template@7.0.2](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/babel__traverse@7.0.9 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/babel__traverse@7.0.9](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/cheerio@0.22.16 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/cheerio@0.22.16](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/chroma-js@2.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/chroma-js@2.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/color-name@1.1.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/color-name@1.1.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/date-fns@2.6.0 (MIT) - https://github.com/date-fns/date-fns
+[@types/date-fns@2.6.0](https://github.com/date-fns/date-fns
+) (**MIT**)
 
-@types/domhandler@2.4.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/domhandler@2.4.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/domutils@1.7.2 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/domutils@1.7.2](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/draft-js@0.10.38 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/draft-js@0.10.38](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/draftjs-to-html@0.8.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/draftjs-to-html@0.8.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/enzyme-adapter-react-16@1.0.6 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/enzyme-adapter-react-16@1.0.6](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/enzyme@3.10.5 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/enzyme@3.10.5](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/eslint-visitor-keys@1.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/eslint-visitor-keys@1.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/events@3.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/events@3.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/gapi.auth2@0.0.51 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/gapi.auth2@0.0.51](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/gapi@0.0.39 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/gapi@0.0.39](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/geojson@7946.0.7 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/geojson@7946.0.7](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/gl-matrix@2.4.5 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/gl-matrix@2.4.5](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/glob@7.1.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/glob@7.1.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/history@4.7.5 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/history@4.7.5](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/hoist-non-react-statics@3.3.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/hoist-non-react-statics@3.3.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/htmlparser2@3.10.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/htmlparser2@3.10.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/istanbul-lib-coverage@2.0.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/istanbul-lib-coverage@2.0.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/istanbul-lib-report@3.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/istanbul-lib-report@3.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/istanbul-reports@1.1.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/istanbul-reports@1.1.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/jest@24.9.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/jest@24.9.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/json-schema@7.0.4 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/json-schema@7.0.4](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/lodash@4.14.149 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/lodash@4.14.149](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/mapbox-gl@1.8.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/mapbox-gl@1.8.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/minimatch@3.0.3 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/minimatch@3.0.3](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/node@12.12.29 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/node@12.12.29](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/parse-json@4.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/parse-json@4.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/prop-types@15.7.3 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/prop-types@15.7.3](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/q@1.5.2 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/q@1.5.2](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-dom@16.9.5 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-dom@16.9.5](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-facebook-login@4.1.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-facebook-login@4.1.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-html-parser@2.0.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-html-parser@2.0.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-map-gl@5.2.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-map-gl@5.2.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-redux@7.1.7 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-redux@7.1.7](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-router-dom@5.1.3 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-router-dom@5.1.3](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-router@5.1.4 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-router@5.1.4](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-splitter-layout@3.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-splitter-layout@3.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react-transition-group@4.2.4 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react-transition-group@4.2.4](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/react@16.9.23 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/react@16.9.23](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/stack-utils@1.0.1 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/stack-utils@1.0.1](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/styled-jsx@2.2.8 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/styled-jsx@2.2.8](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/testing-library__dom@6.14.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/testing-library__dom@6.14.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/testing-library__react@9.1.3 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/testing-library__react@9.1.3](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/uuid@7.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/uuid@7.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/viewport-mercator-project@6.1.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/viewport-mercator-project@6.1.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/yargs-parser@15.0.0 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/yargs-parser@15.0.0](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/yargs@13.0.8 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/yargs@13.0.8](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@types/yargs@15.0.4 (MIT) - https://github.com/DefinitelyTyped/DefinitelyTyped
+[@types/yargs@15.0.4](https://github.com/DefinitelyTyped/DefinitelyTyped
+) (**MIT**)
 
-@typescript-eslint/eslint-plugin@2.23.0 (MIT) - https://github.com/typescript-eslint/typescript-eslint
+[@typescript-eslint/eslint-plugin@2.23.0](https://github.com/typescript-eslint/typescript-eslint
+) (**MIT**)
 
-@typescript-eslint/experimental-utils@2.23.0 (MIT) - https://github.com/typescript-eslint/typescript-eslint
+[@typescript-eslint/experimental-utils@2.23.0](https://github.com/typescript-eslint/typescript-eslint
+) (**MIT**)
 
-@typescript-eslint/parser@2.23.0 (BSD-2-Clause) - https://github.com/typescript-eslint/typescript-eslint
+[@typescript-eslint/parser@2.23.0](https://github.com/typescript-eslint/typescript-eslint
+) (**BSD-2-Clause**)
 
-@typescript-eslint/typescript-estree@2.23.0 (BSD-2-Clause) - https://github.com/typescript-eslint/typescript-eslint
+[@typescript-eslint/typescript-estree@2.23.0](https://github.com/typescript-eslint/typescript-eslint
+) (**BSD-2-Clause**)
 
-@webassemblyjs/ast@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/ast@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/floating-point-hex-parser@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/floating-point-hex-parser@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/helper-api-error@1.8.5 (MIT) - 
+[@webassemblyjs/helper-api-error@1.8.5](
+) (**MIT**)
 
-@webassemblyjs/helper-buffer@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/helper-buffer@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/helper-code-frame@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/helper-code-frame@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/helper-fsm@1.8.5 (ISC) - 
+[@webassemblyjs/helper-fsm@1.8.5](
+) (**ISC**)
 
-@webassemblyjs/helper-module-context@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/helper-module-context@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/helper-wasm-bytecode@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/helper-wasm-bytecode@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/helper-wasm-section@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/helper-wasm-section@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/ieee754@1.8.5 (MIT) - 
+[@webassemblyjs/ieee754@1.8.5](
+) (**MIT**)
 
-@webassemblyjs/leb128@1.8.5 (MIT) - 
+[@webassemblyjs/leb128@1.8.5](
+) (**MIT**)
 
-@webassemblyjs/utf8@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/utf8@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/wasm-edit@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/wasm-edit@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/wasm-gen@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/wasm-gen@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/wasm-opt@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/wasm-opt@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/wasm-parser@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/wasm-parser@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/wast-parser@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/wast-parser@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@webassemblyjs/wast-printer@1.8.5 (MIT) - https://github.com/xtuc/webassemblyjs
+[@webassemblyjs/wast-printer@1.8.5](https://github.com/xtuc/webassemblyjs
+) (**MIT**)
 
-@xtuc/ieee754@1.2.0 (BSD-3-Clause) - https://github.com/feross/ieee754
+[@xtuc/ieee754@1.2.0](https://github.com/feross/ieee754
+) (**BSD-3-Clause**)
 
-@xtuc/long@4.2.2 (Apache-2.0) - https://github.com/dcodeIO/long.js
+[@xtuc/long@4.2.2](https://github.com/dcodeIO/long.js
+) (**Apache-2.0**)
 
-abab@2.0.3 (BSD-3-Clause) - https://github.com/jsdom/abab
+[abab@2.0.3](https://github.com/jsdom/abab
+) (**BSD-3-Clause**)
 
-abbrev@1.1.1 (ISC) - https://github.com/isaacs/abbrev-js
+[abbrev@1.1.1](https://github.com/isaacs/abbrev-js
+) (**ISC**)
 
-accepts@1.3.7 (MIT) - https://github.com/jshttp/accepts
+[accepts@1.3.7](https://github.com/jshttp/accepts
+) (**MIT**)
 
-acorn-globals@4.3.4 (MIT) - https://github.com/ForbesLindesay/acorn-globals
+[acorn-globals@4.3.4](https://github.com/ForbesLindesay/acorn-globals
+) (**MIT**)
 
-acorn-jsx@5.2.0 (MIT) - https://github.com/acornjs/acorn-jsx
+[acorn-jsx@5.2.0](https://github.com/acornjs/acorn-jsx
+) (**MIT**)
 
-acorn-walk@6.2.0 (MIT) - https://github.com/acornjs/acorn
+[acorn-walk@6.2.0](https://github.com/acornjs/acorn
+) (**MIT**)
 
-acorn@5.7.4 (MIT) - https://github.com/acornjs/acorn
+[acorn@5.7.4](https://github.com/acornjs/acorn
+) (**MIT**)
 
-acorn@6.4.1 (MIT) - https://github.com/acornjs/acorn
+[acorn@6.4.1](https://github.com/acornjs/acorn
+) (**MIT**)
 
-acorn@7.1.1 (MIT) - https://github.com/acornjs/acorn
+[acorn@7.1.1](https://github.com/acornjs/acorn
+) (**MIT**)
 
-address@1.1.2 (MIT) - https://github.com/node-modules/address
+[address@1.1.2](https://github.com/node-modules/address
+) (**MIT**)
 
-adjust-sourcemap-loader@2.0.0 (MIT) - https://github.com/bholloway/adjust-sourcemap-loader
+[adjust-sourcemap-loader@2.0.0](https://github.com/bholloway/adjust-sourcemap-loader
+) (**MIT**)
 
-aggregate-error@3.0.1 (MIT) - https://github.com/sindresorhus/aggregate-error
+[aggregate-error@3.0.1](https://github.com/sindresorhus/aggregate-error
+) (**MIT**)
 
-airbnb-prop-types@2.15.0 (MIT) - https://github.com/airbnb/prop-types
+[airbnb-prop-types@2.15.0](https://github.com/airbnb/prop-types
+) (**MIT**)
 
-ajv-errors@1.0.1 (MIT) - https://github.com/epoberezkin/ajv-errors
+[ajv-errors@1.0.1](https://github.com/epoberezkin/ajv-errors
+) (**MIT**)
 
-ajv-keywords@3.4.1 (MIT) - https://github.com/epoberezkin/ajv-keywords
+[ajv-keywords@3.4.1](https://github.com/epoberezkin/ajv-keywords
+) (**MIT**)
 
-ajv@6.12.0 (MIT) - https://github.com/epoberezkin/ajv
+[ajv@6.12.0](https://github.com/epoberezkin/ajv
+) (**MIT**)
 
-alphanum-sort@1.0.2 (MIT) - https://github.com/TrySound/alphanum-sort
+[alphanum-sort@1.0.2](https://github.com/TrySound/alphanum-sort
+) (**MIT**)
 
-amdefine@1.0.1 (BSD-3-Clause OR MIT) - https://github.com/jrburke/amdefine
+[amdefine@1.0.1](https://github.com/jrburke/amdefine
+) (**BSD-3-Clause OR MIT**)
 
-ansi-colors@3.2.4 (MIT) - https://github.com/doowb/ansi-colors
+[ansi-colors@3.2.4](https://github.com/doowb/ansi-colors
+) (**MIT**)
 
-ansi-escapes@3.2.0 (MIT) - https://github.com/sindresorhus/ansi-escapes
+[ansi-escapes@3.2.0](https://github.com/sindresorhus/ansi-escapes
+) (**MIT**)
 
-ansi-escapes@4.3.1 (MIT) - https://github.com/sindresorhus/ansi-escapes
+[ansi-escapes@4.3.1](https://github.com/sindresorhus/ansi-escapes
+) (**MIT**)
 
-ansi-html@0.0.7 (Apache-2.0) - https://github.com/Tjatse/ansi-html
+[ansi-html@0.0.7](https://github.com/Tjatse/ansi-html
+) (**Apache-2.0**)
 
-ansi-regex@2.1.1 (MIT) - https://github.com/chalk/ansi-regex
+[ansi-regex@2.1.1](https://github.com/chalk/ansi-regex
+) (**MIT**)
 
-ansi-regex@3.0.0 (MIT) - https://github.com/chalk/ansi-regex
+[ansi-regex@3.0.0](https://github.com/chalk/ansi-regex
+) (**MIT**)
 
-ansi-regex@4.1.0 (MIT) - https://github.com/chalk/ansi-regex
+[ansi-regex@4.1.0](https://github.com/chalk/ansi-regex
+) (**MIT**)
 
-ansi-regex@5.0.0 (MIT) - https://github.com/chalk/ansi-regex
+[ansi-regex@5.0.0](https://github.com/chalk/ansi-regex
+) (**MIT**)
 
-ansi-styles@2.2.1 (MIT) - https://github.com/chalk/ansi-styles
+[ansi-styles@2.2.1](https://github.com/chalk/ansi-styles
+) (**MIT**)
 
-ansi-styles@3.2.1 (MIT) - https://github.com/chalk/ansi-styles
+[ansi-styles@3.2.1](https://github.com/chalk/ansi-styles
+) (**MIT**)
 
-ansi-styles@4.2.1 (MIT) - https://github.com/chalk/ansi-styles
+[ansi-styles@4.2.1](https://github.com/chalk/ansi-styles
+) (**MIT**)
 
-ansicolors@0.2.1 (MIT) - https://github.com/thlorenz/ansicolors
+[ansicolors@0.2.1](https://github.com/thlorenz/ansicolors
+) (**MIT**)
 
-anymatch@2.0.0 (ISC) - https://github.com/micromatch/anymatch
+[anymatch@2.0.0](https://github.com/micromatch/anymatch
+) (**ISC**)
 
-anymatch@3.1.1 (ISC) - https://github.com/micromatch/anymatch
+[anymatch@3.1.1](https://github.com/micromatch/anymatch
+) (**ISC**)
 
-aproba@1.2.0 (ISC) - https://github.com/iarna/aproba
+[aproba@1.2.0](https://github.com/iarna/aproba
+) (**ISC**)
 
-are-we-there-yet@1.1.5 (ISC) - https://github.com/iarna/are-we-there-yet
+[are-we-there-yet@1.1.5](https://github.com/iarna/are-we-there-yet
+) (**ISC**)
 
-argparse@1.0.10 (MIT) - https://github.com/nodeca/argparse
+[argparse@1.0.10](https://github.com/nodeca/argparse
+) (**MIT**)
 
-aria-query@3.0.0 (Apache-2.0) - https://github.com/A11yance/aria-query
+[aria-query@3.0.0](https://github.com/A11yance/aria-query
+) (**Apache-2.0**)
 
-aria-query@4.0.2 (Apache-2.0) - https://github.com/A11yance/aria-query
+[aria-query@4.0.2](https://github.com/A11yance/aria-query
+) (**Apache-2.0**)
 
-arity-n@1.0.4 (MIT) - https://github.com/stoeffel/arityN
+[arity-n@1.0.4](https://github.com/stoeffel/arityN
+) (**MIT**)
 
-arr-diff@4.0.0 (MIT) - https://github.com/jonschlinkert/arr-diff
+[arr-diff@4.0.0](https://github.com/jonschlinkert/arr-diff
+) (**MIT**)
 
-arr-flatten@1.1.0 (MIT) - https://github.com/jonschlinkert/arr-flatten
+[arr-flatten@1.1.0](https://github.com/jonschlinkert/arr-flatten
+) (**MIT**)
 
-arr-union@3.1.0 (MIT) - https://github.com/jonschlinkert/arr-union
+[arr-union@3.1.0](https://github.com/jonschlinkert/arr-union
+) (**MIT**)
 
-array-equal@1.0.0 (MIT) - https://github.com/component/array-equal
+[array-equal@1.0.0](https://github.com/component/array-equal
+) (**MIT**)
 
-array-filter@1.0.0 (MIT) - https://github.com/juliangruber/array-filter
+[array-filter@1.0.0](https://github.com/juliangruber/array-filter
+) (**MIT**)
 
-array-find-index@1.0.2 (MIT) - https://github.com/sindresorhus/array-find-index
+[array-find-index@1.0.2](https://github.com/sindresorhus/array-find-index
+) (**MIT**)
 
-array-flatten@1.1.1 (MIT) - https://github.com/blakeembrey/array-flatten
+[array-flatten@1.1.1](https://github.com/blakeembrey/array-flatten
+) (**MIT**)
 
-array-flatten@2.1.2 (MIT) - https://github.com/blakeembrey/array-flatten
+[array-flatten@2.1.2](https://github.com/blakeembrey/array-flatten
+) (**MIT**)
 
-array-includes@3.1.1 (MIT) - https://github.com/es-shims/array-includes
+[array-includes@3.1.1](https://github.com/es-shims/array-includes
+) (**MIT**)
 
-array-move@2.2.1 (MIT) - https://github.com/sindresorhus/array-move
+[array-move@2.2.1](https://github.com/sindresorhus/array-move
+) (**MIT**)
 
-array-union@1.0.2 (MIT) - https://github.com/sindresorhus/array-union
+[array-union@1.0.2](https://github.com/sindresorhus/array-union
+) (**MIT**)
 
-array-uniq@1.0.3 (MIT) - https://github.com/sindresorhus/array-uniq
+[array-uniq@1.0.3](https://github.com/sindresorhus/array-uniq
+) (**MIT**)
 
-array-unique@0.3.2 (MIT) - https://github.com/jonschlinkert/array-unique
+[array-unique@0.3.2](https://github.com/jonschlinkert/array-unique
+) (**MIT**)
 
-array.prototype.find@2.1.1 (MIT) - https://github.com/paulmillr/Array.prototype.find
+[array.prototype.find@2.1.1](https://github.com/paulmillr/Array.prototype.find
+) (**MIT**)
 
-array.prototype.flat@1.2.3 (MIT) - https://github.com/es-shims/Array.prototype.flat
+[array.prototype.flat@1.2.3](https://github.com/es-shims/Array.prototype.flat
+) (**MIT**)
 
-arrify@1.0.1 (MIT) - https://github.com/sindresorhus/arrify
+[arrify@1.0.1](https://github.com/sindresorhus/arrify
+) (**MIT**)
 
-asap@2.0.6 (MIT) - https://github.com/kriskowal/asap
+[asap@2.0.6](https://github.com/kriskowal/asap
+) (**MIT**)
 
-asn1.js@4.10.1 (MIT) - https://github.com/indutny/asn1.js
+[asn1.js@4.10.1](https://github.com/indutny/asn1.js
+) (**MIT**)
 
-asn1@0.2.4 (MIT) - https://github.com/joyent/node-asn1
+[asn1@0.2.4](https://github.com/joyent/node-asn1
+) (**MIT**)
 
-assert-plus@1.0.0 (MIT) - https://github.com/mcavage/node-assert-plus
+[assert-plus@1.0.0](https://github.com/mcavage/node-assert-plus
+) (**MIT**)
 
-assert@1.4.1 (MIT) - https://github.com/defunctzombie/commonjs-assert
+[assert@1.4.1](https://github.com/defunctzombie/commonjs-assert
+) (**MIT**)
 
-assign-symbols@1.0.0 (MIT) - https://github.com/jonschlinkert/assign-symbols
+[assign-symbols@1.0.0](https://github.com/jonschlinkert/assign-symbols
+) (**MIT**)
 
-ast-types-flow@0.0.7 (ISC) - https://github.com/kyldvs/ast-types-flow
+[ast-types-flow@0.0.7](https://github.com/kyldvs/ast-types-flow
+) (**ISC**)
 
-astral-regex@1.0.0 (MIT) - https://github.com/kevva/astral-regex
+[astral-regex@1.0.0](https://github.com/kevva/astral-regex
+) (**MIT**)
 
-async-each@1.0.3 (MIT) - https://github.com/paulmillr/async-each
+[async-each@1.0.3](https://github.com/paulmillr/async-each
+) (**MIT**)
 
-async-foreach@0.1.3 (MIT*) - https://github.com/cowboy/javascript-sync-async-foreach
+[async-foreach@0.1.3](https://github.com/cowboy/javascript-sync-async-foreach
+) (**MIT***)
 
-async-limiter@1.0.1 (MIT) - https://github.com/strml/async-limiter
+[async-limiter@1.0.1](https://github.com/strml/async-limiter
+) (**MIT**)
 
-async@2.6.3 (MIT) - https://github.com/caolan/async
+[async@2.6.3](https://github.com/caolan/async
+) (**MIT**)
 
-asynckit@0.4.0 (MIT) - https://github.com/alexindigo/asynckit
+[asynckit@0.4.0](https://github.com/alexindigo/asynckit
+) (**MIT**)
 
-atob@2.1.2 ((MIT OR Apache-2.0)) - git://git.coolaj86.com/coolaj86/atob.js
+[atob@2.1.2](git://git.coolaj86.com/coolaj86/atob.js
+) (**(MIT OR Apache-2.0)**)
 
-autoprefixer@9.7.4 (MIT) - https://github.com/postcss/autoprefixer
+[autoprefixer@9.7.4](https://github.com/postcss/autoprefixer
+) (**MIT**)
 
-aws-sign2@0.7.0 (Apache-2.0) - https://github.com/mikeal/aws-sign
+[aws-sign2@0.7.0](https://github.com/mikeal/aws-sign
+) (**Apache-2.0**)
 
-aws4@1.9.1 (MIT) - https://github.com/mhart/aws4
+[aws4@1.9.1](https://github.com/mhart/aws4
+) (**MIT**)
 
-axobject-query@2.1.2 (Apache-2.0) - https://github.com/A11yance/axobject-query
+[axobject-query@2.1.2](https://github.com/A11yance/axobject-query
+) (**Apache-2.0**)
 
-babel-code-frame@6.26.0 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-code-frame
+[babel-code-frame@6.26.0](https://github.com/babel/babel/tree/master/packages/babel-code-frame
+) (**MIT**)
 
-babel-eslint@10.0.3 (MIT) - https://github.com/babel/babel-eslint
+[babel-eslint@10.0.3](https://github.com/babel/babel-eslint
+) (**MIT**)
 
-babel-extract-comments@1.0.0 (MIT) - https://github.com/jonschlinkert/babel-extract-comments
+[babel-extract-comments@1.0.0](https://github.com/jonschlinkert/babel-extract-comments
+) (**MIT**)
 
-babel-jest@24.9.0 (MIT) - https://github.com/facebook/jest
+[babel-jest@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-babel-loader@8.0.6 (MIT) - https://github.com/babel/babel-loader
+[babel-loader@8.0.6](https://github.com/babel/babel-loader
+) (**MIT**)
 
-babel-plugin-dynamic-import-node@2.3.0 (MIT) - https://github.com/airbnb/babel-plugin-dynamic-import-node
+[babel-plugin-dynamic-import-node@2.3.0](https://github.com/airbnb/babel-plugin-dynamic-import-node
+) (**MIT**)
 
-babel-plugin-istanbul@5.2.0 (BSD-3-Clause) - https://github.com/istanbuljs/babel-plugin-istanbul
+[babel-plugin-istanbul@5.2.0](https://github.com/istanbuljs/babel-plugin-istanbul
+) (**BSD-3-Clause**)
 
-babel-plugin-jest-hoist@24.9.0 (MIT) - https://github.com/facebook/jest
+[babel-plugin-jest-hoist@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-babel-plugin-macros@2.8.0 (MIT) - https://github.com/kentcdodds/babel-plugin-macros
+[babel-plugin-macros@2.8.0](https://github.com/kentcdodds/babel-plugin-macros
+) (**MIT**)
 
-babel-plugin-named-asset-import@0.3.6 (MIT) - https://github.com/facebook/create-react-app
+[babel-plugin-named-asset-import@0.3.6](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-babel-plugin-syntax-object-rest-spread@6.13.0 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread
+[babel-plugin-syntax-object-rest-spread@6.13.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread
+) (**MIT**)
 
-babel-plugin-transform-object-rest-spread@6.26.0 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-rest-spread
+[babel-plugin-transform-object-rest-spread@6.26.0](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-object-rest-spread
+) (**MIT**)
 
-babel-plugin-transform-react-remove-prop-types@0.4.24 (MIT) - https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types
+[babel-plugin-transform-react-remove-prop-types@0.4.24](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types
+) (**MIT**)
 
-babel-preset-jest@24.9.0 (MIT) - https://github.com/facebook/jest
+[babel-preset-jest@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-babel-preset-react-app@9.1.1 (MIT) - https://github.com/facebook/create-react-app
+[babel-preset-react-app@9.1.1](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-babel-runtime@6.26.0 (MIT) - https://github.com/babel/babel/tree/master/packages/babel-runtime
+[babel-runtime@6.26.0](https://github.com/babel/babel/tree/master/packages/babel-runtime
+) (**MIT**)
 
-babylon@6.18.0 (MIT) - https://github.com/babel/babylon
+[babylon@6.18.0](https://github.com/babel/babylon
+) (**MIT**)
 
-balanced-match@1.0.0 (MIT) - https://github.com/juliangruber/balanced-match
+[balanced-match@1.0.0](https://github.com/juliangruber/balanced-match
+) (**MIT**)
 
-base64-js@1.3.1 (MIT) - https://github.com/beatgammit/base64-js
+[base64-js@1.3.1](https://github.com/beatgammit/base64-js
+) (**MIT**)
 
-base@0.11.2 (MIT) - https://github.com/node-base/base
+[base@0.11.2](https://github.com/node-base/base
+) (**MIT**)
 
-batch@0.6.1 (MIT) - https://github.com/visionmedia/batch
+[batch@0.6.1](https://github.com/visionmedia/batch
+) (**MIT**)
 
-bcrypt-pbkdf@1.0.2 (BSD-3-Clause) - https://github.com/joyent/node-bcrypt-pbkdf
+[bcrypt-pbkdf@1.0.2](https://github.com/joyent/node-bcrypt-pbkdf
+) (**BSD-3-Clause**)
 
-big.js@5.2.2 (MIT) - https://github.com/MikeMcl/big.js
+[big.js@5.2.2](https://github.com/MikeMcl/big.js
+) (**MIT**)
 
-binary-extensions@1.13.1 (MIT) - https://github.com/sindresorhus/binary-extensions
+[binary-extensions@1.13.1](https://github.com/sindresorhus/binary-extensions
+) (**MIT**)
 
-binary-extensions@2.0.0 (MIT) - https://github.com/sindresorhus/binary-extensions
+[binary-extensions@2.0.0](https://github.com/sindresorhus/binary-extensions
+) (**MIT**)
 
-bindings@1.5.0 (MIT) - https://github.com/TooTallNate/node-bindings
+[bindings@1.5.0](https://github.com/TooTallNate/node-bindings
+) (**MIT**)
 
-block-stream@0.0.9 (ISC) - https://github.com/isaacs/block-stream
+[block-stream@0.0.9](https://github.com/isaacs/block-stream
+) (**ISC**)
 
-bluebird@3.7.2 (MIT) - https://github.com/petkaantonov/bluebird
+[bluebird@3.7.2](https://github.com/petkaantonov/bluebird
+) (**MIT**)
 
-bn.js@4.11.8 (MIT) - https://github.com/indutny/bn.js
+[bn.js@4.11.8](https://github.com/indutny/bn.js
+) (**MIT**)
 
-body-parser@1.19.0 (MIT) - https://github.com/expressjs/body-parser
+[body-parser@1.19.0](https://github.com/expressjs/body-parser
+) (**MIT**)
 
-bonjour@3.5.0 (MIT) - https://github.com/watson/bonjour
+[bonjour@3.5.0](https://github.com/watson/bonjour
+) (**MIT**)
 
-boolbase@1.0.0 (ISC) - https://github.com/fb55/boolbase
+[boolbase@1.0.0](https://github.com/fb55/boolbase
+) (**ISC**)
 
-brace-expansion@1.1.11 (MIT) - https://github.com/juliangruber/brace-expansion
+[brace-expansion@1.1.11](https://github.com/juliangruber/brace-expansion
+) (**MIT**)
 
-braces@2.3.2 (MIT) - https://github.com/micromatch/braces
+[braces@2.3.2](https://github.com/micromatch/braces
+) (**MIT**)
 
-braces@3.0.2 (MIT) - https://github.com/micromatch/braces
+[braces@3.0.2](https://github.com/micromatch/braces
+) (**MIT**)
 
-brorand@1.1.0 (MIT) - https://github.com/indutny/brorand
+[brorand@1.1.0](https://github.com/indutny/brorand
+) (**MIT**)
 
-browser-process-hrtime@1.0.0 (BSD-2-Clause) - https://github.com/kumavis/browser-process-hrtime
+[browser-process-hrtime@1.0.0](https://github.com/kumavis/browser-process-hrtime
+) (**BSD-2-Clause**)
 
-browser-resolve@1.11.3 (MIT) - https://github.com/shtylman/node-browser-resolve
+[browser-resolve@1.11.3](https://github.com/shtylman/node-browser-resolve
+) (**MIT**)
 
-browserify-aes@1.2.0 (MIT) - https://github.com/crypto-browserify/browserify-aes
+[browserify-aes@1.2.0](https://github.com/crypto-browserify/browserify-aes
+) (**MIT**)
 
-browserify-cipher@1.0.1 (MIT) - https://github.com/crypto-browserify/browserify-cipher
+[browserify-cipher@1.0.1](https://github.com/crypto-browserify/browserify-cipher
+) (**MIT**)
 
-browserify-des@1.0.2 (MIT) - https://github.com/crypto-browserify/browserify-des
+[browserify-des@1.0.2](https://github.com/crypto-browserify/browserify-des
+) (**MIT**)
 
-browserify-rsa@4.0.1 (MIT) - https://github.com/crypto-browserify/browserify-rsa
+[browserify-rsa@4.0.1](https://github.com/crypto-browserify/browserify-rsa
+) (**MIT**)
 
-browserify-sign@4.0.4 (ISC) - https://github.com/crypto-browserify/browserify-sign
+[browserify-sign@4.0.4](https://github.com/crypto-browserify/browserify-sign
+) (**ISC**)
 
-browserify-zlib@0.2.0 (MIT) - https://github.com/devongovett/browserify-zlib
+[browserify-zlib@0.2.0](https://github.com/devongovett/browserify-zlib
+) (**MIT**)
 
-browserslist@4.8.6 (MIT) - https://github.com/browserslist/browserslist
+[browserslist@4.8.6](https://github.com/browserslist/browserslist
+) (**MIT**)
 
-browserslist@4.9.1 (MIT) - https://github.com/browserslist/browserslist
+[browserslist@4.9.1](https://github.com/browserslist/browserslist
+) (**MIT**)
 
-bser@2.1.1 (Apache-2.0) - https://github.com/facebook/watchman
+[bser@2.1.1](https://github.com/facebook/watchman
+) (**Apache-2.0**)
 
-buffer-from@1.1.1 (MIT) - https://github.com/LinusU/buffer-from
+[buffer-from@1.1.1](https://github.com/LinusU/buffer-from
+) (**MIT**)
 
-buffer-indexof@1.1.1 (MIT) - https://github.com/soldair/node-buffer-indexof
+[buffer-indexof@1.1.1](https://github.com/soldair/node-buffer-indexof
+) (**MIT**)
 
-buffer-xor@1.0.3 (MIT) - https://github.com/crypto-browserify/buffer-xor
+[buffer-xor@1.0.3](https://github.com/crypto-browserify/buffer-xor
+) (**MIT**)
 
-buffer@4.9.2 (MIT) - https://github.com/feross/buffer
+[buffer@4.9.2](https://github.com/feross/buffer
+) (**MIT**)
 
-builtin-status-codes@3.0.0 (MIT) - https://github.com/bendrucker/builtin-status-codes
+[builtin-status-codes@3.0.0](https://github.com/bendrucker/builtin-status-codes
+) (**MIT**)
 
-bytes@3.0.0 (MIT) - https://github.com/visionmedia/bytes.js
+[bytes@3.0.0](https://github.com/visionmedia/bytes.js
+) (**MIT**)
 
-bytes@3.1.0 (MIT) - https://github.com/visionmedia/bytes.js
+[bytes@3.1.0](https://github.com/visionmedia/bytes.js
+) (**MIT**)
 
-cacache@12.0.3 (ISC) - https://github.com/npm/cacache
+[cacache@12.0.3](https://github.com/npm/cacache
+) (**ISC**)
 
-cacache@13.0.1 (ISC) - https://github.com/npm/cacache
+[cacache@13.0.1](https://github.com/npm/cacache
+) (**ISC**)
 
-cache-base@1.0.1 (MIT) - https://github.com/jonschlinkert/cache-base
+[cache-base@1.0.1](https://github.com/jonschlinkert/cache-base
+) (**MIT**)
 
-call-me-maybe@1.0.1 (MIT) - https://github.com/limulus/call-me-maybe
+[call-me-maybe@1.0.1](https://github.com/limulus/call-me-maybe
+) (**MIT**)
 
-caller-callsite@2.0.0 (MIT) - https://github.com/sindresorhus/caller-callsite
+[caller-callsite@2.0.0](https://github.com/sindresorhus/caller-callsite
+) (**MIT**)
 
-caller-path@2.0.0 (MIT) - https://github.com/sindresorhus/caller-path
+[caller-path@2.0.0](https://github.com/sindresorhus/caller-path
+) (**MIT**)
 
-callsites@2.0.0 (MIT) - https://github.com/sindresorhus/callsites
+[callsites@2.0.0](https://github.com/sindresorhus/callsites
+) (**MIT**)
 
-callsites@3.1.0 (MIT) - https://github.com/sindresorhus/callsites
+[callsites@3.1.0](https://github.com/sindresorhus/callsites
+) (**MIT**)
 
-camel-case@4.1.1 (MIT) - https://github.com/blakeembrey/change-case
+[camel-case@4.1.1](https://github.com/blakeembrey/change-case
+) (**MIT**)
 
-camelcase-keys@2.1.0 (MIT) - https://github.com/sindresorhus/camelcase-keys
+[camelcase-keys@2.1.0](https://github.com/sindresorhus/camelcase-keys
+) (**MIT**)
 
-camelcase@2.1.1 (MIT) - https://github.com/sindresorhus/camelcase
+[camelcase@2.1.1](https://github.com/sindresorhus/camelcase
+) (**MIT**)
 
-camelcase@3.0.0 (MIT) - https://github.com/sindresorhus/camelcase
+[camelcase@3.0.0](https://github.com/sindresorhus/camelcase
+) (**MIT**)
 
-camelcase@5.0.0 (MIT) - https://github.com/sindresorhus/camelcase
+[camelcase@5.0.0](https://github.com/sindresorhus/camelcase
+) (**MIT**)
 
-camelcase@5.3.1 (MIT) - https://github.com/sindresorhus/camelcase
+[camelcase@5.3.1](https://github.com/sindresorhus/camelcase
+) (**MIT**)
 
-caniuse-api@3.0.0 (MIT) - https://github.com/nyalab/caniuse-api
+[caniuse-api@3.0.0](https://github.com/nyalab/caniuse-api
+) (**MIT**)
 
-caniuse-lite@1.0.30001033 (CC-BY-4.0) - https://github.com/ben-eb/caniuse-lite
+[caniuse-lite@1.0.30001033](https://github.com/ben-eb/caniuse-lite
+) (**CC-BY-4.0**)
 
-capture-exit@2.0.0 (ISC) - https://github.com/stefanpenner/capture-exit
+[capture-exit@2.0.0](https://github.com/stefanpenner/capture-exit
+) (**ISC**)
 
-cardinal@0.4.4 (MIT) - https://github.com/thlorenz/cardinal
+[cardinal@0.4.4](https://github.com/thlorenz/cardinal
+) (**MIT**)
 
-case-sensitive-paths-webpack-plugin@2.3.0 (MIT) - https://github.com/Urthen/case-sensitive-paths-webpack-plugin
+[case-sensitive-paths-webpack-plugin@2.3.0](https://github.com/Urthen/case-sensitive-paths-webpack-plugin
+) (**MIT**)
 
-caseless@0.12.0 (Apache-2.0) - https://github.com/mikeal/caseless
+[caseless@0.12.0](https://github.com/mikeal/caseless
+) (**Apache-2.0**)
 
-chalk@1.1.3 (MIT) - https://github.com/chalk/chalk
+[chalk@1.1.3](https://github.com/chalk/chalk
+) (**MIT**)
 
-chalk@2.4.2 (MIT) - https://github.com/chalk/chalk
+[chalk@2.4.2](https://github.com/chalk/chalk
+) (**MIT**)
 
-chalk@3.0.0 (MIT) - https://github.com/chalk/chalk
+[chalk@3.0.0](https://github.com/chalk/chalk
+) (**MIT**)
 
-chardet@0.7.0 (MIT) - https://github.com/runk/node-chardet
+[chardet@0.7.0](https://github.com/runk/node-chardet
+) (**MIT**)
 
-cheerio@1.0.0-rc.3 (MIT) - https://github.com/cheeriojs/cheerio
+[cheerio@1.0.0-rc.3](https://github.com/cheeriojs/cheerio
+) (**MIT**)
 
-chokidar@2.1.8 (MIT) - https://github.com/paulmillr/chokidar
+[chokidar@2.1.8](https://github.com/paulmillr/chokidar
+) (**MIT**)
 
-chokidar@3.3.1 (MIT) - https://github.com/paulmillr/chokidar
+[chokidar@3.3.1](https://github.com/paulmillr/chokidar
+) (**MIT**)
 
-chownr@1.1.3 (ISC) - https://github.com/isaacs/chownr
+[chownr@1.1.3](https://github.com/isaacs/chownr
+) (**ISC**)
 
-chownr@1.1.4 (ISC) - https://github.com/isaacs/chownr
+[chownr@1.1.4](https://github.com/isaacs/chownr
+) (**ISC**)
 
-chroma-js@2.1.0 ((BSD-3-Clause AND Apache-2.0)) - https://github.com/gka/chroma.js
+[chroma-js@2.1.0](https://github.com/gka/chroma.js
+) (**(BSD-3-Clause AND Apache-2.0)**)
 
-chrome-trace-event@1.0.2 (MIT) - github.com:samccone/chrome-trace-event
+[chrome-trace-event@1.0.2](github.com:samccone/chrome-trace-event
+) (**MIT**)
 
-ci-info@2.0.0 (MIT) - https://github.com/watson/ci-info
+[ci-info@2.0.0](https://github.com/watson/ci-info
+) (**MIT**)
 
-cipher-base@1.0.4 (MIT) - https://github.com/crypto-browserify/cipher-base
+[cipher-base@1.0.4](https://github.com/crypto-browserify/cipher-base
+) (**MIT**)
 
-class-utils@0.3.6 (MIT) - https://github.com/jonschlinkert/class-utils
+[class-utils@0.3.6](https://github.com/jonschlinkert/class-utils
+) (**MIT**)
 
-classnames@2.2.6 (MIT) - https://github.com/JedWatson/classnames
+[classnames@2.2.6](https://github.com/JedWatson/classnames
+) (**MIT**)
 
-clean-css@4.2.3 (MIT) - https://github.com/jakubpawlowicz/clean-css
+[clean-css@4.2.3](https://github.com/jakubpawlowicz/clean-css
+) (**MIT**)
 
-clean-stack@2.2.0 (MIT) - https://github.com/sindresorhus/clean-stack
+[clean-stack@2.2.0](https://github.com/sindresorhus/clean-stack
+) (**MIT**)
 
-cli-cursor@3.1.0 (MIT) - https://github.com/sindresorhus/cli-cursor
+[cli-cursor@3.1.0](https://github.com/sindresorhus/cli-cursor
+) (**MIT**)
 
-cli-width@2.2.0 (ISC) - https://github.com/knownasilya/cli-width
+[cli-width@2.2.0](https://github.com/knownasilya/cli-width
+) (**ISC**)
 
-cliui@3.2.0 (ISC) - https://github.com/yargs/cliui
+[cliui@3.2.0](https://github.com/yargs/cliui
+) (**ISC**)
 
-cliui@4.1.0 (ISC) - https://github.com/yargs/cliui
+[cliui@4.1.0](https://github.com/yargs/cliui
+) (**ISC**)
 
-cliui@5.0.0 (ISC) - https://github.com/yargs/cliui
+[cliui@5.0.0](https://github.com/yargs/cliui
+) (**ISC**)
 
-clone-deep@0.2.4 (MIT) - https://github.com/jonschlinkert/clone-deep
+[clone-deep@0.2.4](https://github.com/jonschlinkert/clone-deep
+) (**MIT**)
 
-clone-deep@4.0.1 (MIT) - https://github.com/jonschlinkert/clone-deep
+[clone-deep@4.0.1](https://github.com/jonschlinkert/clone-deep
+) (**MIT**)
 
-clsx@1.1.0 (MIT) - https://github.com/lukeed/clsx
+[clsx@1.1.0](https://github.com/lukeed/clsx
+) (**MIT**)
 
-co@4.6.0 (MIT) - https://github.com/tj/co
+[co@4.6.0](https://github.com/tj/co
+) (**MIT**)
 
-coa@2.0.2 (MIT) - https://github.com/veged/coa
+[coa@2.0.2](https://github.com/veged/coa
+) (**MIT**)
 
-code-point-at@1.1.0 (MIT) - https://github.com/sindresorhus/code-point-at
+[code-point-at@1.1.0](https://github.com/sindresorhus/code-point-at
+) (**MIT**)
 
-coffee-script@1.12.7 (MIT) - https://github.com/jashkenas/coffeescript
+[coffee-script@1.12.7](https://github.com/jashkenas/coffeescript
+) (**MIT**)
 
-collection-visit@1.0.0 (MIT) - https://github.com/jonschlinkert/collection-visit
+[collection-visit@1.0.0](https://github.com/jonschlinkert/collection-visit
+) (**MIT**)
 
-color-convert@1.9.3 (MIT) - https://github.com/Qix-/color-convert
+[color-convert@1.9.3](https://github.com/Qix-/color-convert
+) (**MIT**)
 
-color-convert@2.0.1 (MIT) - https://github.com/Qix-/color-convert
+[color-convert@2.0.1](https://github.com/Qix-/color-convert
+) (**MIT**)
 
-color-name@1.1.3 (MIT) - https://github.com/dfcreative/color-name
+[color-name@1.1.3](https://github.com/dfcreative/color-name
+) (**MIT**)
 
-color-name@1.1.4 (MIT) - https://github.com/colorjs/color-name
+[color-name@1.1.4](https://github.com/colorjs/color-name
+) (**MIT**)
 
-color-string@1.5.3 (MIT) - https://github.com/Qix-/color-string
+[color-string@1.5.3](https://github.com/Qix-/color-string
+) (**MIT**)
 
-color@3.1.2 (MIT) - https://github.com/Qix-/color
+[color@3.1.2](https://github.com/Qix-/color
+) (**MIT**)
 
-combined-stream@1.0.8 (MIT) - https://github.com/felixge/node-combined-stream
+[combined-stream@1.0.8](https://github.com/felixge/node-combined-stream
+) (**MIT**)
 
-commander@2.20.3 (MIT) - https://github.com/tj/commander.js
+[commander@2.20.3](https://github.com/tj/commander.js
+) (**MIT**)
 
-commander@4.1.1 (MIT) - https://github.com/tj/commander.js
+[commander@4.1.1](https://github.com/tj/commander.js
+) (**MIT**)
 
-common-tags@1.8.0 (MIT) - https://github.com/declandewet/common-tags
+[common-tags@1.8.0](https://github.com/declandewet/common-tags
+) (**MIT**)
 
-commondir@1.0.1 (MIT) - https://github.com/substack/node-commondir
+[commondir@1.0.1](https://github.com/substack/node-commondir
+) (**MIT**)
 
-component-emitter@1.3.0 (MIT) - https://github.com/component/emitter
+[component-emitter@1.3.0](https://github.com/component/emitter
+) (**MIT**)
 
-compose-function@3.0.3 (MIT) - https://github.com/stoeffel/compose-function
+[compose-function@3.0.3](https://github.com/stoeffel/compose-function
+) (**MIT**)
 
-compressible@2.0.18 (MIT) - https://github.com/jshttp/compressible
+[compressible@2.0.18](https://github.com/jshttp/compressible
+) (**MIT**)
 
-compression@1.7.4 (MIT) - https://github.com/expressjs/compression
+[compression@1.7.4](https://github.com/expressjs/compression
+) (**MIT**)
 
-concat-map@0.0.1 (MIT) - https://github.com/substack/node-concat-map
+[concat-map@0.0.1](https://github.com/substack/node-concat-map
+) (**MIT**)
 
-concat-stream@1.6.2 (MIT) - https://github.com/maxogden/concat-stream
+[concat-stream@1.6.2](https://github.com/maxogden/concat-stream
+) (**MIT**)
 
-confusing-browser-globals@1.0.9 (MIT) - https://github.com/facebook/create-react-app
+[confusing-browser-globals@1.0.9](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-connect-history-api-fallback@1.6.0 (MIT) - https://github.com/bripkens/connect-history-api-fallback
+[connect-history-api-fallback@1.6.0](https://github.com/bripkens/connect-history-api-fallback
+) (**MIT**)
 
-connected-react-router@6.7.0 (MIT) - https://github.com/supasate/connected-react-router
+[connected-react-router@6.7.0](https://github.com/supasate/connected-react-router
+) (**MIT**)
 
-console-browserify@1.2.0 (MIT) - https://github.com/browserify/console-browserify
+[console-browserify@1.2.0](https://github.com/browserify/console-browserify
+) (**MIT**)
 
-console-control-strings@1.1.0 (ISC) - https://github.com/iarna/console-control-strings
+[console-control-strings@1.1.0](https://github.com/iarna/console-control-strings
+) (**ISC**)
 
-constants-browserify@1.0.0 (MIT) - https://github.com/juliangruber/constants-browserify
+[constants-browserify@1.0.0](https://github.com/juliangruber/constants-browserify
+) (**MIT**)
 
-contains-path@0.1.0 (MIT) - https://github.com/jonschlinkert/contains-path
+[contains-path@0.1.0](https://github.com/jonschlinkert/contains-path
+) (**MIT**)
 
-content-disposition@0.5.3 (MIT) - https://github.com/jshttp/content-disposition
+[content-disposition@0.5.3](https://github.com/jshttp/content-disposition
+) (**MIT**)
 
-content-type@1.0.4 (MIT) - https://github.com/jshttp/content-type
+[content-type@1.0.4](https://github.com/jshttp/content-type
+) (**MIT**)
 
-convert-source-map@0.3.5 (MIT) - https://github.com/thlorenz/convert-source-map
+[convert-source-map@0.3.5](https://github.com/thlorenz/convert-source-map
+) (**MIT**)
 
-convert-source-map@1.7.0 (MIT) - https://github.com/thlorenz/convert-source-map
+[convert-source-map@1.7.0](https://github.com/thlorenz/convert-source-map
+) (**MIT**)
 
-cookie-signature@1.0.6 (MIT) - https://github.com/visionmedia/node-cookie-signature
+[cookie-signature@1.0.6](https://github.com/visionmedia/node-cookie-signature
+) (**MIT**)
 
-cookie@0.4.0 (MIT) - https://github.com/jshttp/cookie
+[cookie@0.4.0](https://github.com/jshttp/cookie
+) (**MIT**)
 
-copy-concurrently@1.0.5 (ISC) - https://github.com/npm/copy-concurrently
+[copy-concurrently@1.0.5](https://github.com/npm/copy-concurrently
+) (**ISC**)
 
-copy-descriptor@0.1.1 (MIT) - https://github.com/jonschlinkert/copy-descriptor
+[copy-descriptor@0.1.1](https://github.com/jonschlinkert/copy-descriptor
+) (**MIT**)
 
-core-js-compat@3.6.4 (MIT) - https://github.com/zloirock/core-js
+[core-js-compat@3.6.4](https://github.com/zloirock/core-js
+) (**MIT**)
 
-core-js-pure@3.6.4 (MIT) - https://github.com/zloirock/core-js
+[core-js-pure@3.6.4](https://github.com/zloirock/core-js
+) (**MIT**)
 
-core-js@2.6.11 (MIT) - https://github.com/zloirock/core-js
+[core-js@2.6.11](https://github.com/zloirock/core-js
+) (**MIT**)
 
-core-js@3.6.4 (MIT) - https://github.com/zloirock/core-js
+[core-js@3.6.4](https://github.com/zloirock/core-js
+) (**MIT**)
 
-core-util-is@1.0.2 (MIT) - https://github.com/isaacs/core-util-is
+[core-util-is@1.0.2](https://github.com/isaacs/core-util-is
+) (**MIT**)
 
-cosmiconfig@5.2.1 (MIT) - https://github.com/davidtheclark/cosmiconfig
+[cosmiconfig@5.2.1](https://github.com/davidtheclark/cosmiconfig
+) (**MIT**)
 
-cosmiconfig@6.0.0 (MIT) - https://github.com/davidtheclark/cosmiconfig
+[cosmiconfig@6.0.0](https://github.com/davidtheclark/cosmiconfig
+) (**MIT**)
 
-create-ecdh@4.0.3 (MIT) - https://github.com/crypto-browserify/createECDH
+[create-ecdh@4.0.3](https://github.com/crypto-browserify/createECDH
+) (**MIT**)
 
-create-hash@1.2.0 (MIT) - https://github.com/crypto-browserify/createHash
+[create-hash@1.2.0](https://github.com/crypto-browserify/createHash
+) (**MIT**)
 
-create-hmac@1.1.7 (MIT) - https://github.com/crypto-browserify/createHmac
+[create-hmac@1.1.7](https://github.com/crypto-browserify/createHmac
+) (**MIT**)
 
-cross-env@6.0.3 (MIT) - https://github.com/kentcdodds/cross-env
+[cross-env@6.0.3](https://github.com/kentcdodds/cross-env
+) (**MIT**)
 
-cross-spawn@3.0.1 (MIT) - https://github.com/IndigoUnited/node-cross-spawn
+[cross-spawn@3.0.1](https://github.com/IndigoUnited/node-cross-spawn
+) (**MIT**)
 
-cross-spawn@6.0.5 (MIT) - https://github.com/moxystudio/node-cross-spawn
+[cross-spawn@6.0.5](https://github.com/moxystudio/node-cross-spawn
+) (**MIT**)
 
-cross-spawn@7.0.1 (MIT) - https://github.com/moxystudio/node-cross-spawn
+[cross-spawn@7.0.1](https://github.com/moxystudio/node-cross-spawn
+) (**MIT**)
 
-crypto-browserify@3.12.0 (MIT) - https://github.com/crypto-browserify/crypto-browserify
+[crypto-browserify@3.12.0](https://github.com/crypto-browserify/crypto-browserify
+) (**MIT**)
 
-css-blank-pseudo@0.1.4 (CC0-1.0) - https://github.com/csstools/css-blank-pseudo
+[css-blank-pseudo@0.1.4](https://github.com/csstools/css-blank-pseudo
+) (**CC0-1.0**)
 
-css-color-names@0.0.4 (MIT) - https://github.com/bahamas10/css-color-names
+[css-color-names@0.0.4](https://github.com/bahamas10/css-color-names
+) (**MIT**)
 
-css-declaration-sorter@4.0.1 (MIT) - https://github.com/Siilwyn/css-declaration-sorter
+[css-declaration-sorter@4.0.1](https://github.com/Siilwyn/css-declaration-sorter
+) (**MIT**)
 
-css-has-pseudo@0.10.0 (CC0-1.0) - https://github.com/csstools/css-has-pseudo
+[css-has-pseudo@0.10.0](https://github.com/csstools/css-has-pseudo
+) (**CC0-1.0**)
 
-css-loader@3.4.2 (MIT) - https://github.com/webpack-contrib/css-loader
+[css-loader@3.4.2](https://github.com/webpack-contrib/css-loader
+) (**MIT**)
 
-css-prefers-color-scheme@3.1.1 (CC0-1.0) - https://github.com/csstools/css-prefers-color-scheme
+[css-prefers-color-scheme@3.1.1](https://github.com/csstools/css-prefers-color-scheme
+) (**CC0-1.0**)
 
-css-select-base-adapter@0.1.1 (MIT) - https://github.com/nrkn/css-select-base-adapter
+[css-select-base-adapter@0.1.1](https://github.com/nrkn/css-select-base-adapter
+) (**MIT**)
 
-css-select@1.2.0 (BSD*) - https://github.com/fb55/css-select
+[css-select@1.2.0](https://github.com/fb55/css-select
+) (**BSD***)
 
-css-select@2.1.0 (BSD-2-Clause) - https://github.com/fb55/css-select
+[css-select@2.1.0](https://github.com/fb55/css-select
+) (**BSD-2-Clause**)
 
-css-tree@1.0.0-alpha.37 (MIT) - https://github.com/csstree/csstree
+[css-tree@1.0.0-alpha.37](https://github.com/csstree/csstree
+) (**MIT**)
 
-css-vendor@2.0.7 (MIT) - https://github.com/cssinjs/css-vendor
+[css-vendor@2.0.7](https://github.com/cssinjs/css-vendor
+) (**MIT**)
 
-css-what@2.1.3 (BSD-2-Clause) - https://github.com/fb55/css-what
+[css-what@2.1.3](https://github.com/fb55/css-what
+) (**BSD-2-Clause**)
 
-css-what@3.2.1 (BSD-2-Clause) - https://github.com/fb55/css-what
+[css-what@3.2.1](https://github.com/fb55/css-what
+) (**BSD-2-Clause**)
 
-css.escape@1.5.1 (MIT) - https://github.com/mathiasbynens/CSS.escape
+[css.escape@1.5.1](https://github.com/mathiasbynens/CSS.escape
+) (**MIT**)
 
-css@2.2.4 (MIT) - https://github.com/reworkcss/css
+[css@2.2.4](https://github.com/reworkcss/css
+) (**MIT**)
 
-csscolorparser@1.0.3 (MIT) - https://github.com/deanm/css-color-parser-js
+[csscolorparser@1.0.3](https://github.com/deanm/css-color-parser-js
+) (**MIT**)
 
-cssdb@4.4.0 (CC0-1.0) - https://github.com/csstools/cssdb
+[cssdb@4.4.0](https://github.com/csstools/cssdb
+) (**CC0-1.0**)
 
-cssesc@2.0.0 (MIT) - https://github.com/mathiasbynens/cssesc
+[cssesc@2.0.0](https://github.com/mathiasbynens/cssesc
+) (**MIT**)
 
-cssesc@3.0.0 (MIT) - https://github.com/mathiasbynens/cssesc
+[cssesc@3.0.0](https://github.com/mathiasbynens/cssesc
+) (**MIT**)
 
-cssnano-preset-default@4.0.7 (MIT) - https://github.com/cssnano/cssnano
+[cssnano-preset-default@4.0.7](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-cssnano-util-get-arguments@4.0.0 (MIT) - https://github.com/cssnano/cssnano
+[cssnano-util-get-arguments@4.0.0](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-cssnano-util-get-match@4.0.0 (MIT) - https://github.com/cssnano/cssnano
+[cssnano-util-get-match@4.0.0](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-cssnano-util-raw-cache@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[cssnano-util-raw-cache@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-cssnano-util-same-parent@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[cssnano-util-same-parent@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-cssnano@4.1.10 (MIT) - https://github.com/cssnano/cssnano
+[cssnano@4.1.10](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-csso@4.0.2 (MIT) - https://github.com/css/csso
+[csso@4.0.2](https://github.com/css/csso
+) (**MIT**)
 
-cssom@0.3.8 (MIT) - https://github.com/NV/CSSOM
+[cssom@0.3.8](https://github.com/NV/CSSOM
+) (**MIT**)
 
-cssstyle@1.4.0 (MIT) - https://github.com/jsakas/CSSStyleDeclaration
+[cssstyle@1.4.0](https://github.com/jsakas/CSSStyleDeclaration
+) (**MIT**)
 
-csstype@2.6.9 (MIT) - https://github.com/frenic/csstype
+[csstype@2.6.9](https://github.com/frenic/csstype
+) (**MIT**)
 
-currently-unhandled@0.4.1 (MIT) - https://github.com/jamestalmage/currently-unhandled
+[currently-unhandled@0.4.1](https://github.com/jamestalmage/currently-unhandled
+) (**MIT**)
 
-cyclist@1.0.1 (MIT) - https://github.com/mafintosh/cyclist
+[cyclist@1.0.1](https://github.com/mafintosh/cyclist
+) (**MIT**)
 
-d@1.0.1 (ISC) - https://github.com/medikoo/d
+[d@1.0.1](https://github.com/medikoo/d
+) (**ISC**)
 
-damerau-levenshtein@1.0.6 (BSD-2-Clause) - https://github.com/tad-lispy/node-damerau-levenshtein
+[damerau-levenshtein@1.0.6](https://github.com/tad-lispy/node-damerau-levenshtein
+) (**BSD-2-Clause**)
 
-dashdash@1.14.1 (MIT) - https://github.com/trentm/node-dashdash
+[dashdash@1.14.1](https://github.com/trentm/node-dashdash
+) (**MIT**)
 
-data-urls@1.1.0 (MIT) - https://github.com/jsdom/data-urls
+[data-urls@1.1.0](https://github.com/jsdom/data-urls
+) (**MIT**)
 
-date-fns@2.10.0 (MIT) - https://github.com/date-fns/date-fns
+[date-fns@2.10.0](https://github.com/date-fns/date-fns
+) (**MIT**)
 
-debug@2.6.9 (MIT) - https://github.com/visionmedia/debug
+[debug@2.6.9](https://github.com/visionmedia/debug
+) (**MIT**)
 
-debug@3.2.6 (MIT) - https://github.com/visionmedia/debug
+[debug@3.2.6](https://github.com/visionmedia/debug
+) (**MIT**)
 
-debug@4.1.1 (MIT) - https://github.com/visionmedia/debug
+[debug@4.1.1](https://github.com/visionmedia/debug
+) (**MIT**)
 
-decamelize@1.2.0 (MIT) - https://github.com/sindresorhus/decamelize
+[decamelize@1.2.0](https://github.com/sindresorhus/decamelize
+) (**MIT**)
 
-decode-uri-component@0.2.0 (MIT) - https://github.com/SamVerschueren/decode-uri-component
+[decode-uri-component@0.2.0](https://github.com/SamVerschueren/decode-uri-component
+) (**MIT**)
 
-deep-equal@1.1.1 (MIT) - https://github.com/substack/node-deep-equal
+[deep-equal@1.1.1](https://github.com/substack/node-deep-equal
+) (**MIT**)
 
-deep-extend@0.6.0 (MIT) - https://github.com/unclechu/node-deep-extend
+[deep-extend@0.6.0](https://github.com/unclechu/node-deep-extend
+) (**MIT**)
 
-deep-is@0.1.3 (MIT) - https://github.com/thlorenz/deep-is
+[deep-is@0.1.3](https://github.com/thlorenz/deep-is
+) (**MIT**)
 
-default-gateway@4.2.0 (BSD-2-Clause) - https://github.com/silverwind/default-gateway
+[default-gateway@4.2.0](https://github.com/silverwind/default-gateway
+) (**BSD-2-Clause**)
 
-define-properties@1.1.3 (MIT) - https://github.com/ljharb/define-properties
+[define-properties@1.1.3](https://github.com/ljharb/define-properties
+) (**MIT**)
 
-define-property@0.2.5 (MIT) - https://github.com/jonschlinkert/define-property
+[define-property@0.2.5](https://github.com/jonschlinkert/define-property
+) (**MIT**)
 
-define-property@1.0.0 (MIT) - https://github.com/jonschlinkert/define-property
+[define-property@1.0.0](https://github.com/jonschlinkert/define-property
+) (**MIT**)
 
-define-property@2.0.2 (MIT) - https://github.com/jonschlinkert/define-property
+[define-property@2.0.2](https://github.com/jonschlinkert/define-property
+) (**MIT**)
 
-del@4.1.1 (MIT) - https://github.com/sindresorhus/del
+[del@4.1.1](https://github.com/sindresorhus/del
+) (**MIT**)
 
-delayed-stream@1.0.0 (MIT) - https://github.com/felixge/node-delayed-stream
+[delayed-stream@1.0.0](https://github.com/felixge/node-delayed-stream
+) (**MIT**)
 
-delegates@1.0.0 (MIT) - https://github.com/visionmedia/node-delegates
+[delegates@1.0.0](https://github.com/visionmedia/node-delegates
+) (**MIT**)
 
-depd@1.1.2 (MIT) - https://github.com/dougwilson/nodejs-depd
+[depd@1.1.2](https://github.com/dougwilson/nodejs-depd
+) (**MIT**)
 
-des.js@1.0.1 (MIT) - https://github.com/indutny/des.js
+[des.js@1.0.1](https://github.com/indutny/des.js
+) (**MIT**)
 
-destroy@1.0.4 (MIT) - https://github.com/stream-utils/destroy
+[destroy@1.0.4](https://github.com/stream-utils/destroy
+) (**MIT**)
 
-detect-libc@1.0.3 (Apache-2.0) - https://github.com/lovell/detect-libc
+[detect-libc@1.0.3](https://github.com/lovell/detect-libc
+) (**Apache-2.0**)
 
-detect-newline@2.1.0 (MIT) - https://github.com/sindresorhus/detect-newline
+[detect-newline@2.1.0](https://github.com/sindresorhus/detect-newline
+) (**MIT**)
 
-detect-node@2.0.4 (ISC) - https://github.com/iliakan/detect-node
+[detect-node@2.0.4](https://github.com/iliakan/detect-node
+) (**ISC**)
 
-detect-port-alt@1.1.6 (MIT) - https://github.com/node-modules/detect-port
+[detect-port-alt@1.1.6](https://github.com/node-modules/detect-port
+) (**MIT**)
 
-diff-sequences@24.9.0 (MIT) - https://github.com/facebook/jest
+[diff-sequences@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-diffie-hellman@5.0.3 (MIT) - https://github.com/crypto-browserify/diffie-hellman
+[diffie-hellman@5.0.3](https://github.com/crypto-browserify/diffie-hellman
+) (**MIT**)
 
-dir-glob@2.0.0 (MIT) - https://github.com/kevva/dir-glob
+[dir-glob@2.0.0](https://github.com/kevva/dir-glob
+) (**MIT**)
 
-discontinuous-range@1.0.0 (MIT) - https://github.com/dtudury/discontinuous-range
+[discontinuous-range@1.0.0](https://github.com/dtudury/discontinuous-range
+) (**MIT**)
 
-dns-equal@1.0.0 (MIT) - https://github.com/watson/dns-equal
+[dns-equal@1.0.0](https://github.com/watson/dns-equal
+) (**MIT**)
 
-dns-packet@1.3.1 (MIT) - https://github.com/mafintosh/dns-packet
+[dns-packet@1.3.1](https://github.com/mafintosh/dns-packet
+) (**MIT**)
 
-dns-txt@2.0.2 (MIT) - https://github.com/watson/dns-txt
+[dns-txt@2.0.2](https://github.com/watson/dns-txt
+) (**MIT**)
 
-doctrine@1.5.0 (BSD) - https://github.com/eslint/doctrine
+[doctrine@1.5.0](https://github.com/eslint/doctrine
+) (**BSD**)
 
-doctrine@2.1.0 (Apache-2.0) - https://github.com/eslint/doctrine
+[doctrine@2.1.0](https://github.com/eslint/doctrine
+) (**Apache-2.0**)
 
-doctrine@3.0.0 (Apache-2.0) - https://github.com/eslint/doctrine
+[doctrine@3.0.0](https://github.com/eslint/doctrine
+) (**Apache-2.0**)
 
-dom-accessibility-api@0.3.0 (MIT) - https://github.com/eps1lon/dom-accessibility-api
+[dom-accessibility-api@0.3.0](https://github.com/eps1lon/dom-accessibility-api
+) (**MIT**)
 
-dom-converter@0.2.0 (MIT) - https://github.com/AriaMinaei/dom-converter
+[dom-converter@0.2.0](https://github.com/AriaMinaei/dom-converter
+) (**MIT**)
 
-dom-helpers@5.1.3 (MIT) - https://github.com/jquense/dom-helpers
+[dom-helpers@5.1.3](https://github.com/jquense/dom-helpers
+) (**MIT**)
 
-dom-serializer@0.1.1 (MIT) - https://github.com/cheeriojs/dom-renderer
+[dom-serializer@0.1.1](https://github.com/cheeriojs/dom-renderer
+) (**MIT**)
 
-domain-browser@1.2.0 (MIT) - https://github.com/bevry/domain-browser
+[domain-browser@1.2.0](https://github.com/bevry/domain-browser
+) (**MIT**)
 
-domelementtype@1.3.1 (BSD-2-Clause) - https://github.com/fb55/domelementtype
+[domelementtype@1.3.1](https://github.com/fb55/domelementtype
+) (**BSD-2-Clause**)
 
-domexception@1.0.1 (MIT) - https://github.com/jsdom/domexception
+[domexception@1.0.1](https://github.com/jsdom/domexception
+) (**MIT**)
 
-domhandler@2.4.2 (BSD-2-Clause) - https://github.com/fb55/DomHandler
+[domhandler@2.4.2](https://github.com/fb55/DomHandler
+) (**BSD-2-Clause**)
 
-domutils@1.5.1 (BSD*) - https://github.com/FB55/domutils
+[domutils@1.5.1](https://github.com/FB55/domutils
+) (**BSD***)
 
-domutils@1.7.0 (BSD-2-Clause) - https://github.com/FB55/domutils
+[domutils@1.7.0](https://github.com/FB55/domutils
+) (**BSD-2-Clause**)
 
-dot-case@3.0.3 (MIT) - https://github.com/blakeembrey/change-case
+[dot-case@3.0.3](https://github.com/blakeembrey/change-case
+) (**MIT**)
 
-dot-prop@5.2.0 (MIT) - https://github.com/sindresorhus/dot-prop
+[dot-prop@5.2.0](https://github.com/sindresorhus/dot-prop
+) (**MIT**)
 
-dotenv-expand@5.1.0 (BSD-2-Clause) - 
+[dotenv-expand@5.1.0](
+) (**BSD-2-Clause**)
 
-dotenv@8.2.0 (BSD-2-Clause) - https://github.com/motdotla/dotenv
+[dotenv@8.2.0](https://github.com/motdotla/dotenv
+) (**BSD-2-Clause**)
 
-draft-js-plugins-editor@3.0.0 (MIT) - https://github.com/draft-js-plugins/draft-js-plugins
+[draft-js-plugins-editor@3.0.0](https://github.com/draft-js-plugins/draft-js-plugins
+) (**MIT**)
 
-draft-js@0.11.4 (MIT) - https://github.com/facebook/draft-js
+[draft-js@0.11.4](https://github.com/facebook/draft-js
+) (**MIT**)
 
-draftjs-to-html@0.9.1 (MIT) - https://github.com/jpuri/draftjs-to-html
+[draftjs-to-html@0.9.1](https://github.com/jpuri/draftjs-to-html
+) (**MIT**)
 
-duplexer@0.1.1 (MIT) - https://github.com/Raynos/duplexer
+[duplexer@0.1.1](https://github.com/Raynos/duplexer
+) (**MIT**)
 
-duplexify@3.7.1 (MIT) - https://github.com/mafintosh/duplexify
+[duplexify@3.7.1](https://github.com/mafintosh/duplexify
+) (**MIT**)
 
-earcut@2.2.2 (ISC) - https://github.com/mapbox/earcut
+[earcut@2.2.2](https://github.com/mapbox/earcut
+) (**ISC**)
 
-ecc-jsbn@0.1.2 (MIT) - https://github.com/quartzjer/ecc-jsbn
+[ecc-jsbn@0.1.2](https://github.com/quartzjer/ecc-jsbn
+) (**MIT**)
 
-ee-first@1.1.1 (MIT) - https://github.com/jonathanong/ee-first
+[ee-first@1.1.1](https://github.com/jonathanong/ee-first
+) (**MIT**)
 
-electron-to-chromium@1.3.375 (ISC) - https://github.com/kilian/electron-to-chromium
+[electron-to-chromium@1.3.375](https://github.com/kilian/electron-to-chromium
+) (**ISC**)
 
-elliptic@6.5.2 (MIT) - https://github.com/indutny/elliptic
+[elliptic@6.5.2](https://github.com/indutny/elliptic
+) (**MIT**)
 
-emoji-regex@7.0.3 (MIT) - https://github.com/mathiasbynens/emoji-regex
+[emoji-regex@7.0.3](https://github.com/mathiasbynens/emoji-regex
+) (**MIT**)
 
-emoji-regex@8.0.0 (MIT) - https://github.com/mathiasbynens/emoji-regex
+[emoji-regex@8.0.0](https://github.com/mathiasbynens/emoji-regex
+) (**MIT**)
 
-emojis-list@2.1.0 (MIT) - https://github.com/kikobeats/emojis-list
+[emojis-list@2.1.0](https://github.com/kikobeats/emojis-list
+) (**MIT**)
 
-emojis-list@3.0.0 (MIT) - https://github.com/kikobeats/emojis-list
+[emojis-list@3.0.0](https://github.com/kikobeats/emojis-list
+) (**MIT**)
 
-encodeurl@1.0.2 (MIT) - https://github.com/pillarjs/encodeurl
+[encodeurl@1.0.2](https://github.com/pillarjs/encodeurl
+) (**MIT**)
 
-encoding@0.1.12 (MIT) - https://github.com/andris9/encoding
+[encoding@0.1.12](https://github.com/andris9/encoding
+) (**MIT**)
 
-end-of-stream@1.4.4 (MIT) - https://github.com/mafintosh/end-of-stream
+[end-of-stream@1.4.4](https://github.com/mafintosh/end-of-stream
+) (**MIT**)
 
-enhanced-resolve@4.1.1 (MIT) - https://github.com/webpack/enhanced-resolve
+[enhanced-resolve@4.1.1](https://github.com/webpack/enhanced-resolve
+) (**MIT**)
 
-entities@1.1.2 (BSD-2-Clause) - https://github.com/fb55/entities
+[entities@1.1.2](https://github.com/fb55/entities
+) (**BSD-2-Clause**)
 
-enzyme-adapter-react-16@1.15.2 (MIT) - https://github.com/airbnb/enzyme
+[enzyme-adapter-react-16@1.15.2](https://github.com/airbnb/enzyme
+) (**MIT**)
 
-enzyme-adapter-utils@1.13.0 (MIT) - https://github.com/airbnb/enzyme
+[enzyme-adapter-utils@1.13.0](https://github.com/airbnb/enzyme
+) (**MIT**)
 
-enzyme-shallow-equal@1.0.1 (MIT) - https://github.com/airbnb/enzyme
+[enzyme-shallow-equal@1.0.1](https://github.com/airbnb/enzyme
+) (**MIT**)
 
-enzyme@3.11.0 (MIT) - https://github.com/airbnb/enzyme
+[enzyme@3.11.0](https://github.com/airbnb/enzyme
+) (**MIT**)
 
-errno@0.1.7 (MIT) - https://github.com/rvagg/node-errno
+[errno@0.1.7](https://github.com/rvagg/node-errno
+) (**MIT**)
 
-error-ex@1.3.2 (MIT) - https://github.com/qix-/node-error-ex
+[error-ex@1.3.2](https://github.com/qix-/node-error-ex
+) (**MIT**)
 
-es-abstract@1.17.4 (MIT) - https://github.com/ljharb/es-abstract
+[es-abstract@1.17.4](https://github.com/ljharb/es-abstract
+) (**MIT**)
 
-es-to-primitive@1.2.1 (MIT) - https://github.com/ljharb/es-to-primitive
+[es-to-primitive@1.2.1](https://github.com/ljharb/es-to-primitive
+) (**MIT**)
 
-es5-ext@0.10.53 (ISC) - https://github.com/medikoo/es5-ext
+[es5-ext@0.10.53](https://github.com/medikoo/es5-ext
+) (**ISC**)
 
-es6-iterator@2.0.3 (MIT) - https://github.com/medikoo/es6-iterator
+[es6-iterator@2.0.3](https://github.com/medikoo/es6-iterator
+) (**MIT**)
 
-es6-symbol@3.1.3 (ISC) - https://github.com/medikoo/es6-symbol
+[es6-symbol@3.1.3](https://github.com/medikoo/es6-symbol
+) (**ISC**)
 
-escape-html@1.0.3 (MIT) - https://github.com/component/escape-html
+[escape-html@1.0.3](https://github.com/component/escape-html
+) (**MIT**)
 
-escape-string-regexp@1.0.5 (MIT) - https://github.com/sindresorhus/escape-string-regexp
+[escape-string-regexp@1.0.5](https://github.com/sindresorhus/escape-string-regexp
+) (**MIT**)
 
-escape-string-regexp@2.0.0 (MIT) - https://github.com/sindresorhus/escape-string-regexp
+[escape-string-regexp@2.0.0](https://github.com/sindresorhus/escape-string-regexp
+) (**MIT**)
 
-escodegen@1.14.1 (BSD-2-Clause) - https://github.com/estools/escodegen
+[escodegen@1.14.1](https://github.com/estools/escodegen
+) (**BSD-2-Clause**)
 
-eslint-config-prettier@6.10.0 (MIT) - https://github.com/prettier/eslint-config-prettier
+[eslint-config-prettier@6.10.0](https://github.com/prettier/eslint-config-prettier
+) (**MIT**)
 
-eslint-config-react-app@5.2.0 (MIT) - https://github.com/facebook/create-react-app
+[eslint-config-react-app@5.2.0](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-eslint-config-react@1.1.7 (MIT) - https://github.com/patrio/eslint-config-react
+[eslint-config-react@1.1.7](https://github.com/patrio/eslint-config-react
+) (**MIT**)
 
-eslint-import-resolver-node@0.3.3 (MIT) - https://github.com/benmosher/eslint-plugin-import
+[eslint-import-resolver-node@0.3.3](https://github.com/benmosher/eslint-plugin-import
+) (**MIT**)
 
-eslint-loader@3.0.3 (MIT) - https://github.com/webpack-contrib/eslint-loader
+[eslint-loader@3.0.3](https://github.com/webpack-contrib/eslint-loader
+) (**MIT**)
 
-eslint-module-utils@2.5.2 (MIT) - https://github.com/benmosher/eslint-plugin-import
+[eslint-module-utils@2.5.2](https://github.com/benmosher/eslint-plugin-import
+) (**MIT**)
 
-eslint-plugin-flowtype@4.6.0 (BSD-3-Clause) - https://github.com/gajus/eslint-plugin-flowtype
+[eslint-plugin-flowtype@4.6.0](https://github.com/gajus/eslint-plugin-flowtype
+) (**BSD-3-Clause**)
 
-eslint-plugin-import@2.20.0 (MIT) - https://github.com/benmosher/eslint-plugin-import
+[eslint-plugin-import@2.20.0](https://github.com/benmosher/eslint-plugin-import
+) (**MIT**)
 
-eslint-plugin-jsx-a11y@6.2.3 (MIT) - https://github.com/evcohen/eslint-plugin-jsx-a11y
+[eslint-plugin-jsx-a11y@6.2.3](https://github.com/evcohen/eslint-plugin-jsx-a11y
+) (**MIT**)
 
-eslint-plugin-prettier@3.1.2 (MIT) - https://github.com/prettier/eslint-plugin-prettier
+[eslint-plugin-prettier@3.1.2](https://github.com/prettier/eslint-plugin-prettier
+) (**MIT**)
 
-eslint-plugin-react-hooks@1.7.0 (MIT) - https://github.com/facebook/react
+[eslint-plugin-react-hooks@1.7.0](https://github.com/facebook/react
+) (**MIT**)
 
-eslint-plugin-react@7.18.0 (MIT) - https://github.com/yannickcr/eslint-plugin-react
+[eslint-plugin-react@7.18.0](https://github.com/yannickcr/eslint-plugin-react
+) (**MIT**)
 
-eslint-plugin-react@7.19.0 (MIT) - https://github.com/yannickcr/eslint-plugin-react
+[eslint-plugin-react@7.19.0](https://github.com/yannickcr/eslint-plugin-react
+) (**MIT**)
 
-eslint-scope@4.0.3 (BSD-2-Clause) - https://github.com/eslint/eslint-scope
+[eslint-scope@4.0.3](https://github.com/eslint/eslint-scope
+) (**BSD-2-Clause**)
 
-eslint-scope@5.0.0 (BSD-2-Clause) - https://github.com/eslint/eslint-scope
+[eslint-scope@5.0.0](https://github.com/eslint/eslint-scope
+) (**BSD-2-Clause**)
 
-eslint-utils@1.4.3 (MIT) - https://github.com/mysticatea/eslint-utils
+[eslint-utils@1.4.3](https://github.com/mysticatea/eslint-utils
+) (**MIT**)
 
-eslint-visitor-keys@1.1.0 (Apache-2.0) - https://github.com/eslint/eslint-visitor-keys
+[eslint-visitor-keys@1.1.0](https://github.com/eslint/eslint-visitor-keys
+) (**Apache-2.0**)
 
-eslint@6.8.0 (MIT) - https://github.com/eslint/eslint
+[eslint@6.8.0](https://github.com/eslint/eslint
+) (**MIT**)
 
-espree@6.2.1 (BSD-2-Clause) - https://github.com/eslint/espree
+[espree@6.2.1](https://github.com/eslint/espree
+) (**BSD-2-Clause**)
 
-esprima@1.0.4 (BSD) - https://github.com/ariya/esprima
+[esprima@1.0.4](https://github.com/ariya/esprima
+) (**BSD**)
 
-esprima@4.0.1 (BSD-2-Clause) - https://github.com/jquery/esprima
+[esprima@4.0.1](https://github.com/jquery/esprima
+) (**BSD-2-Clause**)
 
-esquery@1.1.0 (BSD-3-Clause) - https://github.com/jrfeenst/esquery
+[esquery@1.1.0](https://github.com/jrfeenst/esquery
+) (**BSD-3-Clause**)
 
-esrecurse@4.2.1 (BSD-2-Clause) - https://github.com/estools/esrecurse
+[esrecurse@4.2.1](https://github.com/estools/esrecurse
+) (**BSD-2-Clause**)
 
-estraverse@4.3.0 (BSD-2-Clause) - https://github.com/estools/estraverse
+[estraverse@4.3.0](https://github.com/estools/estraverse
+) (**BSD-2-Clause**)
 
-esutils@2.0.3 (BSD-2-Clause) - https://github.com/estools/esutils
+[esutils@2.0.3](https://github.com/estools/esutils
+) (**BSD-2-Clause**)
 
-etag@1.8.1 (MIT) - https://github.com/jshttp/etag
+[etag@1.8.1](https://github.com/jshttp/etag
+) (**MIT**)
 
-eventemitter3@4.0.0 (MIT) - https://github.com/primus/eventemitter3
+[eventemitter3@4.0.0](https://github.com/primus/eventemitter3
+) (**MIT**)
 
-events@3.1.0 (MIT) - https://github.com/Gozala/events
+[events@3.1.0](https://github.com/Gozala/events
+) (**MIT**)
 
-eventsource@1.0.7 (MIT) - https://github.com/EventSource/eventsource
+[eventsource@1.0.7](https://github.com/EventSource/eventsource
+) (**MIT**)
 
-evp_bytestokey@1.0.3 (MIT) - https://github.com/crypto-browserify/EVP_BytesToKey
+[evp_bytestokey@1.0.3](https://github.com/crypto-browserify/EVP_BytesToKey
+) (**MIT**)
 
-exec-sh@0.3.4 (MIT) - https://github.com/tsertkov/exec-sh
+[exec-sh@0.3.4](https://github.com/tsertkov/exec-sh
+) (**MIT**)
 
-execa@1.0.0 (MIT) - https://github.com/sindresorhus/execa
+[execa@1.0.0](https://github.com/sindresorhus/execa
+) (**MIT**)
 
-exit@0.1.2 (MIT) - https://github.com/cowboy/node-exit
+[exit@0.1.2](https://github.com/cowboy/node-exit
+) (**MIT**)
 
-expand-brackets@2.1.4 (MIT) - https://github.com/jonschlinkert/expand-brackets
+[expand-brackets@2.1.4](https://github.com/jonschlinkert/expand-brackets
+) (**MIT**)
 
-expect@24.9.0 (MIT) - https://github.com/facebook/jest
+[expect@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-express@4.17.1 (MIT) - https://github.com/expressjs/express
+[express@4.17.1](https://github.com/expressjs/express
+) (**MIT**)
 
-ext@1.4.0 (ISC) - https://github.com/medikoo/es5-ext/tree/ext
+[ext@1.4.0](https://github.com/medikoo/es5-ext/tree/ext
+) (**ISC**)
 
-extend-shallow@2.0.1 (MIT) - https://github.com/jonschlinkert/extend-shallow
+[extend-shallow@2.0.1](https://github.com/jonschlinkert/extend-shallow
+) (**MIT**)
 
-extend-shallow@3.0.2 (MIT) - https://github.com/jonschlinkert/extend-shallow
+[extend-shallow@3.0.2](https://github.com/jonschlinkert/extend-shallow
+) (**MIT**)
 
-extend@3.0.2 (MIT) - https://github.com/justmoon/node-extend
+[extend@3.0.2](https://github.com/justmoon/node-extend
+) (**MIT**)
 
-external-editor@3.1.0 (MIT) - https://github.com/mrkmg/node-external-editor
+[external-editor@3.1.0](https://github.com/mrkmg/node-external-editor
+) (**MIT**)
 
-extglob@2.0.4 (MIT) - https://github.com/micromatch/extglob
+[extglob@2.0.4](https://github.com/micromatch/extglob
+) (**MIT**)
 
-extsprintf@1.3.0 (MIT) - https://github.com/davepacheco/node-extsprintf
+[extsprintf@1.3.0](https://github.com/davepacheco/node-extsprintf
+) (**MIT**)
 
-fast-deep-equal@3.1.1 (MIT) - https://github.com/epoberezkin/fast-deep-equal
+[fast-deep-equal@3.1.1](https://github.com/epoberezkin/fast-deep-equal
+) (**MIT**)
 
-fast-diff@1.2.0 (Apache-2.0) - https://github.com/jhchen/fast-diff
+[fast-diff@1.2.0](https://github.com/jhchen/fast-diff
+) (**Apache-2.0**)
 
-fast-glob@2.2.7 (MIT) - https://github.com/mrmlnc/fast-glob
+[fast-glob@2.2.7](https://github.com/mrmlnc/fast-glob
+) (**MIT**)
 
-fast-json-stable-stringify@2.1.0 (MIT) - https://github.com/epoberezkin/fast-json-stable-stringify
+[fast-json-stable-stringify@2.1.0](https://github.com/epoberezkin/fast-json-stable-stringify
+) (**MIT**)
 
-fast-levenshtein@2.0.6 (MIT) - https://github.com/hiddentao/fast-levenshtein
+[fast-levenshtein@2.0.6](https://github.com/hiddentao/fast-levenshtein
+) (**MIT**)
 
-faye-websocket@0.10.0 (MIT) - https://github.com/faye/faye-websocket-node
+[faye-websocket@0.10.0](https://github.com/faye/faye-websocket-node
+) (**MIT**)
 
-faye-websocket@0.11.3 (Apache-2.0) - https://github.com/faye/faye-websocket-node
+[faye-websocket@0.11.3](https://github.com/faye/faye-websocket-node
+) (**Apache-2.0**)
 
-fb-watchman@2.0.1 (Apache-2.0) - https://github.com/facebook/watchman
+[fb-watchman@2.0.1](https://github.com/facebook/watchman
+) (**Apache-2.0**)
 
-fbjs-css-vars@1.0.2 (MIT) - https://github.com/facebook/fbjs
+[fbjs-css-vars@1.0.2](https://github.com/facebook/fbjs
+) (**MIT**)
 
-fbjs@1.0.0 (MIT) - https://github.com/facebook/fbjs
+[fbjs@1.0.0](https://github.com/facebook/fbjs
+) (**MIT**)
 
-figgy-pudding@3.5.1 (ISC) - https://github.com/zkat/figgy-pudding
+[figgy-pudding@3.5.1](https://github.com/zkat/figgy-pudding
+) (**ISC**)
 
-figures@3.2.0 (MIT) - https://github.com/sindresorhus/figures
+[figures@3.2.0](https://github.com/sindresorhus/figures
+) (**MIT**)
 
-file-entry-cache@5.0.1 (MIT) - https://github.com/royriojas/file-entry-cache
+[file-entry-cache@5.0.1](https://github.com/royriojas/file-entry-cache
+) (**MIT**)
 
-file-loader@4.3.0 (MIT) - https://github.com/webpack-contrib/file-loader
+[file-loader@4.3.0](https://github.com/webpack-contrib/file-loader
+) (**MIT**)
 
-file-uri-to-path@1.0.0 (MIT) - https://github.com/TooTallNate/file-uri-to-path
+[file-uri-to-path@1.0.0](https://github.com/TooTallNate/file-uri-to-path
+) (**MIT**)
 
-filesize@6.0.1 (BSD-3-Clause) - https://github.com/avoidwork/filesize.js
+[filesize@6.0.1](https://github.com/avoidwork/filesize.js
+) (**BSD-3-Clause**)
 
-fill-range@4.0.0 (MIT) - https://github.com/jonschlinkert/fill-range
+[fill-range@4.0.0](https://github.com/jonschlinkert/fill-range
+) (**MIT**)
 
-fill-range@7.0.1 (MIT) - https://github.com/jonschlinkert/fill-range
+[fill-range@7.0.1](https://github.com/jonschlinkert/fill-range
+) (**MIT**)
 
-finalhandler@1.1.2 (MIT) - https://github.com/pillarjs/finalhandler
+[finalhandler@1.1.2](https://github.com/pillarjs/finalhandler
+) (**MIT**)
 
-find-cache-dir@0.1.1 (MIT) - https://github.com/jamestalmage/find-cache-dir
+[find-cache-dir@0.1.1](https://github.com/jamestalmage/find-cache-dir
+) (**MIT**)
 
-find-cache-dir@2.1.0 (MIT) - https://github.com/avajs/find-cache-dir
+[find-cache-dir@2.1.0](https://github.com/avajs/find-cache-dir
+) (**MIT**)
 
-find-cache-dir@3.3.1 (MIT) - https://github.com/avajs/find-cache-dir
+[find-cache-dir@3.3.1](https://github.com/avajs/find-cache-dir
+) (**MIT**)
 
-find-up@1.1.2 (MIT) - https://github.com/sindresorhus/find-up
+[find-up@1.1.2](https://github.com/sindresorhus/find-up
+) (**MIT**)
 
-find-up@2.1.0 (MIT) - https://github.com/sindresorhus/find-up
+[find-up@2.1.0](https://github.com/sindresorhus/find-up
+) (**MIT**)
 
-find-up@3.0.0 (MIT) - https://github.com/sindresorhus/find-up
+[find-up@3.0.0](https://github.com/sindresorhus/find-up
+) (**MIT**)
 
-find-up@4.1.0 (MIT) - https://github.com/sindresorhus/find-up
+[find-up@4.1.0](https://github.com/sindresorhus/find-up
+) (**MIT**)
 
-flat-cache@2.0.1 (MIT) - https://github.com/royriojas/flat-cache
+[flat-cache@2.0.1](https://github.com/royriojas/flat-cache
+) (**MIT**)
 
-flatted@2.0.1 (ISC) - https://github.com/WebReflection/flatted
+[flatted@2.0.1](https://github.com/WebReflection/flatted
+) (**ISC**)
 
-flatten@1.0.3 (MIT) - https://github.com/mk-pmb/flatten-js
+[flatten@1.0.3](https://github.com/mk-pmb/flatten-js
+) (**MIT**)
 
-flush-write-stream@1.1.1 (MIT) - https://github.com/mafintosh/flush-write-stream
+[flush-write-stream@1.1.1](https://github.com/mafintosh/flush-write-stream
+) (**MIT**)
 
-follow-redirects@1.10.0 (MIT) - https://github.com/follow-redirects/follow-redirects
+[follow-redirects@1.10.0](https://github.com/follow-redirects/follow-redirects
+) (**MIT**)
 
-for-in@0.1.8 (MIT) - https://github.com/jonschlinkert/for-in
+[for-in@0.1.8](https://github.com/jonschlinkert/for-in
+) (**MIT**)
 
-for-in@1.0.2 (MIT) - https://github.com/jonschlinkert/for-in
+[for-in@1.0.2](https://github.com/jonschlinkert/for-in
+) (**MIT**)
 
-for-own@0.1.5 (MIT) - https://github.com/jonschlinkert/for-own
+[for-own@0.1.5](https://github.com/jonschlinkert/for-own
+) (**MIT**)
 
-forever-agent@0.6.1 (Apache-2.0) - https://github.com/mikeal/forever-agent
+[forever-agent@0.6.1](https://github.com/mikeal/forever-agent
+) (**Apache-2.0**)
 
-fork-ts-checker-webpack-plugin@3.1.1 (MIT) - https://github.com/TypeStrong/fork-ts-checker-webpack-plugin
+[fork-ts-checker-webpack-plugin@3.1.1](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin
+) (**MIT**)
 
-form-data@2.3.3 (MIT) - https://github.com/form-data/form-data
+[form-data@2.3.3](https://github.com/form-data/form-data
+) (**MIT**)
 
-forwarded@0.1.2 (MIT) - https://github.com/jshttp/forwarded
+[forwarded@0.1.2](https://github.com/jshttp/forwarded
+) (**MIT**)
 
-fragment-cache@0.2.1 (MIT) - https://github.com/jonschlinkert/fragment-cache
+[fragment-cache@0.2.1](https://github.com/jonschlinkert/fragment-cache
+) (**MIT**)
 
-fresh@0.5.2 (MIT) - https://github.com/jshttp/fresh
+[fresh@0.5.2](https://github.com/jshttp/fresh
+) (**MIT**)
 
-from2@2.3.0 (MIT) - https://github.com/hughsk/from2
+[from2@2.3.0](https://github.com/hughsk/from2
+) (**MIT**)
 
-fs-extra@4.0.3 (MIT) - https://github.com/jprichardson/node-fs-extra
+[fs-extra@4.0.3](https://github.com/jprichardson/node-fs-extra
+) (**MIT**)
 
-fs-extra@7.0.1 (MIT) - https://github.com/jprichardson/node-fs-extra
+[fs-extra@7.0.1](https://github.com/jprichardson/node-fs-extra
+) (**MIT**)
 
-fs-extra@8.1.0 (MIT) - https://github.com/jprichardson/node-fs-extra
+[fs-extra@8.1.0](https://github.com/jprichardson/node-fs-extra
+) (**MIT**)
 
-fs-minipass@1.2.7 (ISC) - https://github.com/npm/fs-minipass
+[fs-minipass@1.2.7](https://github.com/npm/fs-minipass
+) (**ISC**)
 
-fs-minipass@2.1.0 (ISC) - https://github.com/npm/fs-minipass
+[fs-minipass@2.1.0](https://github.com/npm/fs-minipass
+) (**ISC**)
 
-fs-write-stream-atomic@1.0.10 (ISC) - https://github.com/npm/fs-write-stream-atomic
+[fs-write-stream-atomic@1.0.10](https://github.com/npm/fs-write-stream-atomic
+) (**ISC**)
 
-fs.realpath@1.0.0 (ISC) - https://github.com/isaacs/fs.realpath
+[fs.realpath@1.0.0](https://github.com/isaacs/fs.realpath
+) (**ISC**)
 
-fsevents@1.2.11 (MIT) - https://github.com/strongloop/fsevents
+[fsevents@1.2.11](https://github.com/strongloop/fsevents
+) (**MIT**)
 
-fsevents@2.1.2 (MIT) - https://github.com/fsevents/fsevents
+[fsevents@2.1.2](https://github.com/fsevents/fsevents
+) (**MIT**)
 
-fstream@1.0.12 (ISC) - https://github.com/npm/fstream
+[fstream@1.0.12](https://github.com/npm/fstream
+) (**ISC**)
 
-function-bind@1.1.1 (MIT) - https://github.com/Raynos/function-bind
+[function-bind@1.1.1](https://github.com/Raynos/function-bind
+) (**MIT**)
 
-function.prototype.name@1.1.2 (MIT) - https://github.com/es-shims/Function.prototype.name
+[function.prototype.name@1.1.2](https://github.com/es-shims/Function.prototype.name
+) (**MIT**)
 
-functional-red-black-tree@1.0.1 (MIT) - https://github.com/mikolalysenko/functional-red-black-tree
+[functional-red-black-tree@1.0.1](https://github.com/mikolalysenko/functional-red-black-tree
+) (**MIT**)
 
-functions-have-names@1.2.1 (MIT) - https://github.com/ljharb/functions-have-names
+[functions-have-names@1.2.1](https://github.com/ljharb/functions-have-names
+) (**MIT**)
 
-gapi@0.0.3 (MIT) - https://github.com/phated/node-gapi
+[gapi@0.0.3](https://github.com/phated/node-gapi
+) (**MIT**)
 
-gauge@2.7.4 (ISC) - https://github.com/iarna/gauge
+[gauge@2.7.4](https://github.com/iarna/gauge
+) (**ISC**)
 
-gaze@1.1.3 (MIT) - https://github.com/shama/gaze
+[gaze@1.1.3](https://github.com/shama/gaze
+) (**MIT**)
 
-gensync@1.0.0-beta.1 (MIT) - 
+[gensync@1.0.0-beta.1](
+) (**MIT**)
 
-geojson-vt@3.2.1 (ISC) - https://github.com/mapbox/geojson-vt
+[geojson-vt@3.2.1](https://github.com/mapbox/geojson-vt
+) (**ISC**)
 
-geojson@0.5.0 (MIT) - https://github.com/caseycesari/geojson.js
+[geojson@0.5.0](https://github.com/caseycesari/geojson.js
+) (**MIT**)
 
-get-caller-file@1.0.3 (ISC) - https://github.com/stefanpenner/get-caller-file
+[get-caller-file@1.0.3](https://github.com/stefanpenner/get-caller-file
+) (**ISC**)
 
-get-caller-file@2.0.5 (ISC) - https://github.com/stefanpenner/get-caller-file
+[get-caller-file@2.0.5](https://github.com/stefanpenner/get-caller-file
+) (**ISC**)
 
-get-own-enumerable-property-symbols@3.0.2 (ISC) - https://github.com/mightyiam/get-own-enumerable-property-symbols
+[get-own-enumerable-property-symbols@3.0.2](https://github.com/mightyiam/get-own-enumerable-property-symbols
+) (**ISC**)
 
-get-stdin@4.0.1 (MIT) - https://github.com/sindresorhus/get-stdin
+[get-stdin@4.0.1](https://github.com/sindresorhus/get-stdin
+) (**MIT**)
 
-get-stdin@6.0.0 (MIT) - https://github.com/sindresorhus/get-stdin
+[get-stdin@6.0.0](https://github.com/sindresorhus/get-stdin
+) (**MIT**)
 
-get-stream@4.1.0 (MIT) - https://github.com/sindresorhus/get-stream
+[get-stream@4.1.0](https://github.com/sindresorhus/get-stream
+) (**MIT**)
 
-get-value@2.0.6 (MIT) - https://github.com/jonschlinkert/get-value
+[get-value@2.0.6](https://github.com/jonschlinkert/get-value
+) (**MIT**)
 
-getpass@0.1.7 (MIT) - https://github.com/arekinath/node-getpass
+[getpass@0.1.7](https://github.com/arekinath/node-getpass
+) (**MIT**)
 
-gl-matrix@3.2.1 (MIT) - https://github.com/toji/gl-matrix
+[gl-matrix@3.2.1](https://github.com/toji/gl-matrix
+) (**MIT**)
 
-glob-parent@3.1.0 (ISC) - https://github.com/es128/glob-parent
+[glob-parent@3.1.0](https://github.com/es128/glob-parent
+) (**ISC**)
 
-glob-parent@5.1.0 (ISC) - https://github.com/gulpjs/glob-parent
+[glob-parent@5.1.0](https://github.com/gulpjs/glob-parent
+) (**ISC**)
 
-glob-to-regexp@0.3.0 (BSD*) - https://github.com/fitzgen/glob-to-regexp
+[glob-to-regexp@0.3.0](https://github.com/fitzgen/glob-to-regexp
+) (**BSD***)
 
-glob@7.1.6 (ISC) - https://github.com/isaacs/node-glob
+[glob@7.1.6](https://github.com/isaacs/node-glob
+) (**ISC**)
 
-global-modules@2.0.0 (MIT) - https://github.com/jonschlinkert/global-modules
+[global-modules@2.0.0](https://github.com/jonschlinkert/global-modules
+) (**MIT**)
 
-global-prefix@3.0.0 (MIT) - https://github.com/jonschlinkert/global-prefix
+[global-prefix@3.0.0](https://github.com/jonschlinkert/global-prefix
+) (**MIT**)
 
-globals@11.12.0 (MIT) - https://github.com/sindresorhus/globals
+[globals@11.12.0](https://github.com/sindresorhus/globals
+) (**MIT**)
 
-globals@12.4.0 (MIT) - https://github.com/sindresorhus/globals
+[globals@12.4.0](https://github.com/sindresorhus/globals
+) (**MIT**)
 
-globby@6.1.0 (MIT) - https://github.com/sindresorhus/globby
+[globby@6.1.0](https://github.com/sindresorhus/globby
+) (**MIT**)
 
-globby@8.0.2 (MIT) - https://github.com/sindresorhus/globby
+[globby@8.0.2](https://github.com/sindresorhus/globby
+) (**MIT**)
 
-globule@1.3.1 (MIT) - https://github.com/cowboy/node-globule
+[globule@1.3.1](https://github.com/cowboy/node-globule
+) (**MIT**)
 
-graceful-fs@4.2.3 (ISC) - https://github.com/isaacs/node-graceful-fs
+[graceful-fs@4.2.3](https://github.com/isaacs/node-graceful-fs
+) (**ISC**)
 
-grid-index@1.1.0 (ISC) - https://github.com/mapbox/grid-index
+[grid-index@1.1.0](https://github.com/mapbox/grid-index
+) (**ISC**)
 
-growly@1.3.0 (MIT) - https://github.com/theabraham/growly
+[growly@1.3.0](https://github.com/theabraham/growly
+) (**MIT**)
 
-gud@1.0.0 (MIT) - https://github.com/jamiebuilds/global-unique-id
+[gud@1.0.0](https://github.com/jamiebuilds/global-unique-id
+) (**MIT**)
 
-gzip-size@5.1.1 (MIT) - https://github.com/sindresorhus/gzip-size
+[gzip-size@5.1.1](https://github.com/sindresorhus/gzip-size
+) (**MIT**)
 
-hammerjs@2.0.8 (MIT) - https://github.com/hammerjs/hammer.js
+[hammerjs@2.0.8](https://github.com/hammerjs/hammer.js
+) (**MIT**)
 
-handle-thing@2.0.0 (MIT) - https://github.com/indutny/handle-thing
+[handle-thing@2.0.0](https://github.com/indutny/handle-thing
+) (**MIT**)
 
-har-schema@2.0.0 (ISC) - https://github.com/ahmadnassri/har-schema
+[har-schema@2.0.0](https://github.com/ahmadnassri/har-schema
+) (**ISC**)
 
-har-validator@5.1.3 (MIT) - https://github.com/ahmadnassri/node-har-validator
+[har-validator@5.1.3](https://github.com/ahmadnassri/node-har-validator
+) (**MIT**)
 
-harmony-reflect@1.6.1 ((Apache-2.0 OR MPL-1.1)) - git+https://tvcutsem@github.com/tvcutsem/harmony-reflect
+[harmony-reflect@1.6.1](git+https://tvcutsem@github.com/tvcutsem/harmony-reflect
+) (**(Apache-2.0 OR MPL-1.1)**)
 
-has-ansi@2.0.0 (MIT) - https://github.com/sindresorhus/has-ansi
+[has-ansi@2.0.0](https://github.com/sindresorhus/has-ansi
+) (**MIT**)
 
-has-flag@3.0.0 (MIT) - https://github.com/sindresorhus/has-flag
+[has-flag@3.0.0](https://github.com/sindresorhus/has-flag
+) (**MIT**)
 
-has-flag@4.0.0 (MIT) - https://github.com/sindresorhus/has-flag
+[has-flag@4.0.0](https://github.com/sindresorhus/has-flag
+) (**MIT**)
 
-has-symbols@1.0.1 (MIT) - https://github.com/ljharb/has-symbols
+[has-symbols@1.0.1](https://github.com/ljharb/has-symbols
+) (**MIT**)
 
-has-unicode@2.0.1 (ISC) - https://github.com/iarna/has-unicode
+[has-unicode@2.0.1](https://github.com/iarna/has-unicode
+) (**ISC**)
 
-has-value@0.3.1 (MIT) - https://github.com/jonschlinkert/has-value
+[has-value@0.3.1](https://github.com/jonschlinkert/has-value
+) (**MIT**)
 
-has-value@1.0.0 (MIT) - https://github.com/jonschlinkert/has-value
+[has-value@1.0.0](https://github.com/jonschlinkert/has-value
+) (**MIT**)
 
-has-values@0.1.4 (MIT) - https://github.com/jonschlinkert/has-values
+[has-values@0.1.4](https://github.com/jonschlinkert/has-values
+) (**MIT**)
 
-has-values@1.0.0 (MIT) - https://github.com/jonschlinkert/has-values
+[has-values@1.0.0](https://github.com/jonschlinkert/has-values
+) (**MIT**)
 
-has@1.0.3 (MIT) - https://github.com/tarruda/has
+[has@1.0.3](https://github.com/tarruda/has
+) (**MIT**)
 
-hash-base@3.0.4 (MIT) - https://github.com/crypto-browserify/hash-base
+[hash-base@3.0.4](https://github.com/crypto-browserify/hash-base
+) (**MIT**)
 
-hash.js@1.1.7 (MIT) - https://github.com/indutny/hash.js
+[hash.js@1.1.7](https://github.com/indutny/hash.js
+) (**MIT**)
 
-he@1.2.0 (MIT) - https://github.com/mathiasbynens/he
+[he@1.2.0](https://github.com/mathiasbynens/he
+) (**MIT**)
 
-hex-color-regex@1.1.0 (MIT) - https://github.com/regexps/hex-color-regex
+[hex-color-regex@1.1.0](https://github.com/regexps/hex-color-regex
+) (**MIT**)
 
-highcharts-react-official@2.2.2 (MIT*) - https://github.com/highcharts/highcharts-react
+[highcharts-react-official@2.2.2](https://github.com/highcharts/highcharts-react
+) (**MIT***)
 
-highcharts@8.0.4 (Custom: https://www.npmjs.com/package/highcharts-export-server) - https://github.com/highcharts/highcharts-dist
+[highcharts@8.0.4](https://github.com/highcharts/highcharts-dist
+) (**Custom: https://www.npmjs.com/package/highcharts-export-server**)
 
-history@4.10.1 (MIT) - https://github.com/ReactTraining/history
+[history@4.10.1](https://github.com/ReactTraining/history
+) (**MIT**)
 
-hmac-drbg@1.0.1 (MIT) - https://github.com/indutny/hmac-drbg
+[hmac-drbg@1.0.1](https://github.com/indutny/hmac-drbg
+) (**MIT**)
 
-hoist-non-react-statics@3.3.2 (BSD-3-Clause) - https://github.com/mridgway/hoist-non-react-statics
+[hoist-non-react-statics@3.3.2](https://github.com/mridgway/hoist-non-react-statics
+) (**BSD-3-Clause**)
 
-hosted-git-info@2.8.8 (ISC) - https://github.com/npm/hosted-git-info
+[hosted-git-info@2.8.8](https://github.com/npm/hosted-git-info
+) (**ISC**)
 
-hourglass@0.1.0 (UNLICENSED) - 
+[hourglass@0.1.0](
+) (**UNLICENSED**)
 
-hpack.js@2.1.6 (MIT) - https://github.com/indutny/hpack.js
+[hpack.js@2.1.6](https://github.com/indutny/hpack.js
+) (**MIT**)
 
-hsl-regex@1.0.0 (MIT) - https://github.com/regexps/hsl-regex
+[hsl-regex@1.0.0](https://github.com/regexps/hsl-regex
+) (**MIT**)
 
-hsla-regex@1.0.0 (MIT) - https://github.com/regexps/hsla-regex
+[hsla-regex@1.0.0](https://github.com/regexps/hsla-regex
+) (**MIT**)
 
-html-comment-regex@1.1.2 (MIT) - https://github.com/stevemao/html-comment-regex
+[html-comment-regex@1.1.2](https://github.com/stevemao/html-comment-regex
+) (**MIT**)
 
-html-element-map@1.2.0 (MIT) - https://github.com/ljharb/html-element-map
+[html-element-map@1.2.0](https://github.com/ljharb/html-element-map
+) (**MIT**)
 
-html-encoding-sniffer@1.0.2 (MIT) - https://github.com/jsdom/html-encoding-sniffer
+[html-encoding-sniffer@1.0.2](https://github.com/jsdom/html-encoding-sniffer
+) (**MIT**)
 
-html-entities@1.2.1 (MIT) - https://github.com/mdevils/node-html-entities
+[html-entities@1.2.1](https://github.com/mdevils/node-html-entities
+) (**MIT**)
 
-html-escaper@2.0.0 (MIT) - https://github.com/WebReflection/html-escaper
+[html-escaper@2.0.0](https://github.com/WebReflection/html-escaper
+) (**MIT**)
 
-html-minifier-terser@5.0.4 (MIT) - https://github.com/DanielRuf/html-minifier-terser
+[html-minifier-terser@5.0.4](https://github.com/DanielRuf/html-minifier-terser
+) (**MIT**)
 
-html-webpack-plugin@4.0.0-beta.11 (MIT) - https://github.com/jantimon/html-webpack-plugin
+[html-webpack-plugin@4.0.0-beta.11](https://github.com/jantimon/html-webpack-plugin
+) (**MIT**)
 
-htmlparser2@3.10.1 (MIT) - https://github.com/fb55/htmlparser2
+[htmlparser2@3.10.1](https://github.com/fb55/htmlparser2
+) (**MIT**)
 
-http-deceiver@1.2.7 (MIT) - https://github.com/indutny/http-deceiver
+[http-deceiver@1.2.7](https://github.com/indutny/http-deceiver
+) (**MIT**)
 
-http-errors@1.6.3 (MIT) - https://github.com/jshttp/http-errors
+[http-errors@1.6.3](https://github.com/jshttp/http-errors
+) (**MIT**)
 
-http-errors@1.7.2 (MIT) - https://github.com/jshttp/http-errors
+[http-errors@1.7.2](https://github.com/jshttp/http-errors
+) (**MIT**)
 
-http-parser-js@0.4.10 (MIT) - https://github.com/creationix/http-parser-js
+[http-parser-js@0.4.10](https://github.com/creationix/http-parser-js
+) (**MIT**)
 
-http-proxy-middleware@0.19.1 (MIT) - https://github.com/chimurai/http-proxy-middleware
+[http-proxy-middleware@0.19.1](https://github.com/chimurai/http-proxy-middleware
+) (**MIT**)
 
-http-proxy@1.18.0 (MIT) - https://github.com/http-party/node-http-proxy
+[http-proxy@1.18.0](https://github.com/http-party/node-http-proxy
+) (**MIT**)
 
-http-signature@1.2.0 (MIT) - https://github.com/joyent/node-http-signature
+[http-signature@1.2.0](https://github.com/joyent/node-http-signature
+) (**MIT**)
 
-https-browserify@1.0.0 (MIT) - https://github.com/substack/https-browserify
+[https-browserify@1.0.0](https://github.com/substack/https-browserify
+) (**MIT**)
 
-hyphenate-style-name@1.0.3 (BSD-3-Clause) - https://github.com/rexxars/hyphenate-style-name
+[hyphenate-style-name@1.0.3](https://github.com/rexxars/hyphenate-style-name
+) (**BSD-3-Clause**)
 
-iconv-lite@0.4.24 (MIT) - https://github.com/ashtuchkin/iconv-lite
+[iconv-lite@0.4.24](https://github.com/ashtuchkin/iconv-lite
+) (**MIT**)
 
-icss-utils@4.1.1 (ISC) - https://github.com/css-modules/icss-utils
+[icss-utils@4.1.1](https://github.com/css-modules/icss-utils
+) (**ISC**)
 
-identity-obj-proxy@3.0.0 (MIT) - https://github.com/keyanzhang/identity-obj-proxy
+[identity-obj-proxy@3.0.0](https://github.com/keyanzhang/identity-obj-proxy
+) (**MIT**)
 
-ieee754@1.1.13 (BSD-3-Clause) - https://github.com/feross/ieee754
+[ieee754@1.1.13](https://github.com/feross/ieee754
+) (**BSD-3-Clause**)
 
-iferr@0.1.5 (MIT) - https://github.com/shesek/iferr
+[iferr@0.1.5](https://github.com/shesek/iferr
+) (**MIT**)
 
-ignore-walk@3.0.3 (ISC) - https://github.com/isaacs/ignore-walk
+[ignore-walk@3.0.3](https://github.com/isaacs/ignore-walk
+) (**ISC**)
 
-ignore@3.3.10 (MIT) - https://github.com/kaelzhang/node-ignore
+[ignore@3.3.10](https://github.com/kaelzhang/node-ignore
+) (**MIT**)
 
-ignore@4.0.6 (MIT) - https://github.com/kaelzhang/node-ignore
+[ignore@4.0.6](https://github.com/kaelzhang/node-ignore
+) (**MIT**)
 
-immer@1.10.0 (MIT) - https://github.com/mweststrate/immer
+[immer@1.10.0](https://github.com/mweststrate/immer
+) (**MIT**)
 
-immutable@3.7.6 (BSD-3-Clause) - https://github.com/facebook/immutable-js
+[immutable@3.7.6](https://github.com/facebook/immutable-js
+) (**BSD-3-Clause**)
 
-import-cwd@2.1.0 (MIT) - https://github.com/sindresorhus/import-cwd
+[import-cwd@2.1.0](https://github.com/sindresorhus/import-cwd
+) (**MIT**)
 
-import-fresh@2.0.0 (MIT) - https://github.com/sindresorhus/import-fresh
+[import-fresh@2.0.0](https://github.com/sindresorhus/import-fresh
+) (**MIT**)
 
-import-fresh@3.2.1 (MIT) - https://github.com/sindresorhus/import-fresh
+[import-fresh@3.2.1](https://github.com/sindresorhus/import-fresh
+) (**MIT**)
 
-import-from@2.1.0 (MIT) - https://github.com/sindresorhus/import-from
+[import-from@2.1.0](https://github.com/sindresorhus/import-from
+) (**MIT**)
 
-import-local@2.0.0 (MIT) - https://github.com/sindresorhus/import-local
+[import-local@2.0.0](https://github.com/sindresorhus/import-local
+) (**MIT**)
 
-imurmurhash@0.1.4 (MIT) - https://github.com/jensyt/imurmurhash-js
+[imurmurhash@0.1.4](https://github.com/jensyt/imurmurhash-js
+) (**MIT**)
 
-in-publish@2.0.0 (ISC) - https://github.com/iarna/in-publish
+[in-publish@2.0.0](https://github.com/iarna/in-publish
+) (**ISC**)
 
-indent-string@2.1.0 (MIT) - https://github.com/sindresorhus/indent-string
+[indent-string@2.1.0](https://github.com/sindresorhus/indent-string
+) (**MIT**)
 
-indent-string@4.0.0 (MIT) - https://github.com/sindresorhus/indent-string
+[indent-string@4.0.0](https://github.com/sindresorhus/indent-string
+) (**MIT**)
 
-indexes-of@1.0.1 (MIT) - https://github.com/dominictarr/indexes-of
+[indexes-of@1.0.1](https://github.com/dominictarr/indexes-of
+) (**MIT**)
 
-infer-owner@1.0.4 (ISC) - https://github.com/npm/infer-owner
+[infer-owner@1.0.4](https://github.com/npm/infer-owner
+) (**ISC**)
 
-inflight@1.0.6 (ISC) - https://github.com/npm/inflight
+[inflight@1.0.6](https://github.com/npm/inflight
+) (**ISC**)
 
-inherits@2.0.1 (ISC) - https://github.com/isaacs/inherits
+[inherits@2.0.1](https://github.com/isaacs/inherits
+) (**ISC**)
 
-inherits@2.0.3 (ISC) - https://github.com/isaacs/inherits
+[inherits@2.0.3](https://github.com/isaacs/inherits
+) (**ISC**)
 
-inherits@2.0.4 (ISC) - https://github.com/isaacs/inherits
+[inherits@2.0.4](https://github.com/isaacs/inherits
+) (**ISC**)
 
-ini@1.3.5 (ISC) - https://github.com/isaacs/ini
+[ini@1.3.5](https://github.com/isaacs/ini
+) (**ISC**)
 
-inquirer@7.0.4 (MIT) - https://github.com/SBoudrias/Inquirer.js
+[inquirer@7.0.4](https://github.com/SBoudrias/Inquirer.js
+) (**MIT**)
 
-inquirer@7.1.0 (MIT) - https://github.com/SBoudrias/Inquirer.js
+[inquirer@7.1.0](https://github.com/SBoudrias/Inquirer.js
+) (**MIT**)
 
-internal-ip@4.3.0 (MIT) - https://github.com/sindresorhus/internal-ip
+[internal-ip@4.3.0](https://github.com/sindresorhus/internal-ip
+) (**MIT**)
 
-internal-slot@1.0.2 (MIT) - https://github.com/ljharb/internal-slot
+[internal-slot@1.0.2](https://github.com/ljharb/internal-slot
+) (**MIT**)
 
-invariant@2.2.4 (MIT) - https://github.com/zertosh/invariant
+[invariant@2.2.4](https://github.com/zertosh/invariant
+) (**MIT**)
 
-invert-kv@1.0.0 (MIT) - https://github.com/sindresorhus/invert-kv
+[invert-kv@1.0.0](https://github.com/sindresorhus/invert-kv
+) (**MIT**)
 
-invert-kv@2.0.0 (MIT) - https://github.com/sindresorhus/invert-kv
+[invert-kv@2.0.0](https://github.com/sindresorhus/invert-kv
+) (**MIT**)
 
-ip-regex@2.1.0 (MIT) - https://github.com/sindresorhus/ip-regex
+[ip-regex@2.1.0](https://github.com/sindresorhus/ip-regex
+) (**MIT**)
 
-ip@1.1.5 (MIT) - https://github.com/indutny/node-ip
+[ip@1.1.5](https://github.com/indutny/node-ip
+) (**MIT**)
 
-ipaddr.js@1.9.1 (MIT) - https://github.com/whitequark/ipaddr.js
+[ipaddr.js@1.9.1](https://github.com/whitequark/ipaddr.js
+) (**MIT**)
 
-is-absolute-url@2.1.0 (MIT) - https://github.com/sindresorhus/is-absolute-url
+[is-absolute-url@2.1.0](https://github.com/sindresorhus/is-absolute-url
+) (**MIT**)
 
-is-absolute-url@3.0.3 (MIT) - https://github.com/sindresorhus/is-absolute-url
+[is-absolute-url@3.0.3](https://github.com/sindresorhus/is-absolute-url
+) (**MIT**)
 
-is-accessor-descriptor@0.1.6 (MIT) - https://github.com/jonschlinkert/is-accessor-descriptor
+[is-accessor-descriptor@0.1.6](https://github.com/jonschlinkert/is-accessor-descriptor
+) (**MIT**)
 
-is-accessor-descriptor@1.0.0 (MIT) - https://github.com/jonschlinkert/is-accessor-descriptor
+[is-accessor-descriptor@1.0.0](https://github.com/jonschlinkert/is-accessor-descriptor
+) (**MIT**)
 
-is-arguments@1.0.4 (MIT) - https://github.com/ljharb/is-arguments
+[is-arguments@1.0.4](https://github.com/ljharb/is-arguments
+) (**MIT**)
 
-is-arrayish@0.2.1 (MIT) - https://github.com/qix-/node-is-arrayish
+[is-arrayish@0.2.1](https://github.com/qix-/node-is-arrayish
+) (**MIT**)
 
-is-arrayish@0.3.2 (MIT) - https://github.com/qix-/node-is-arrayish
+[is-arrayish@0.3.2](https://github.com/qix-/node-is-arrayish
+) (**MIT**)
 
-is-binary-path@1.0.1 (MIT) - https://github.com/sindresorhus/is-binary-path
+[is-binary-path@1.0.1](https://github.com/sindresorhus/is-binary-path
+) (**MIT**)
 
-is-binary-path@2.1.0 (MIT) - https://github.com/sindresorhus/is-binary-path
+[is-binary-path@2.1.0](https://github.com/sindresorhus/is-binary-path
+) (**MIT**)
 
-is-boolean-object@1.0.1 (MIT) - https://github.com/ljharb/is-boolean-object
+[is-boolean-object@1.0.1](https://github.com/ljharb/is-boolean-object
+) (**MIT**)
 
-is-buffer@1.1.6 (MIT) - https://github.com/feross/is-buffer
+[is-buffer@1.1.6](https://github.com/feross/is-buffer
+) (**MIT**)
 
-is-callable@1.1.5 (MIT) - https://github.com/ljharb/is-callable
+[is-callable@1.1.5](https://github.com/ljharb/is-callable
+) (**MIT**)
 
-is-ci@2.0.0 (MIT) - https://github.com/watson/is-ci
+[is-ci@2.0.0](https://github.com/watson/is-ci
+) (**MIT**)
 
-is-color-stop@1.1.0 (MIT) - https://github.com/pigcan/is-color-stop
+[is-color-stop@1.1.0](https://github.com/pigcan/is-color-stop
+) (**MIT**)
 
-is-data-descriptor@0.1.4 (MIT) - https://github.com/jonschlinkert/is-data-descriptor
+[is-data-descriptor@0.1.4](https://github.com/jonschlinkert/is-data-descriptor
+) (**MIT**)
 
-is-data-descriptor@1.0.0 (MIT) - https://github.com/jonschlinkert/is-data-descriptor
+[is-data-descriptor@1.0.0](https://github.com/jonschlinkert/is-data-descriptor
+) (**MIT**)
 
-is-date-object@1.0.2 (MIT) - https://github.com/ljharb/is-date-object
+[is-date-object@1.0.2](https://github.com/ljharb/is-date-object
+) (**MIT**)
 
-is-descriptor@0.1.6 (MIT) - https://github.com/jonschlinkert/is-descriptor
+[is-descriptor@0.1.6](https://github.com/jonschlinkert/is-descriptor
+) (**MIT**)
 
-is-descriptor@1.0.2 (MIT) - https://github.com/jonschlinkert/is-descriptor
+[is-descriptor@1.0.2](https://github.com/jonschlinkert/is-descriptor
+) (**MIT**)
 
-is-directory@0.3.1 (MIT) - https://github.com/jonschlinkert/is-directory
+[is-directory@0.3.1](https://github.com/jonschlinkert/is-directory
+) (**MIT**)
 
-is-docker@2.0.0 (MIT) - https://github.com/sindresorhus/is-docker
+[is-docker@2.0.0](https://github.com/sindresorhus/is-docker
+) (**MIT**)
 
-is-extendable@0.1.1 (MIT) - https://github.com/jonschlinkert/is-extendable
+[is-extendable@0.1.1](https://github.com/jonschlinkert/is-extendable
+) (**MIT**)
 
-is-extendable@1.0.1 (MIT) - https://github.com/jonschlinkert/is-extendable
+[is-extendable@1.0.1](https://github.com/jonschlinkert/is-extendable
+) (**MIT**)
 
-is-extglob@2.1.1 (MIT) - https://github.com/jonschlinkert/is-extglob
+[is-extglob@2.1.1](https://github.com/jonschlinkert/is-extglob
+) (**MIT**)
 
-is-finite@1.1.0 (MIT) - https://github.com/sindresorhus/is-finite
+[is-finite@1.1.0](https://github.com/sindresorhus/is-finite
+) (**MIT**)
 
-is-fullwidth-code-point@1.0.0 (MIT) - https://github.com/sindresorhus/is-fullwidth-code-point
+[is-fullwidth-code-point@1.0.0](https://github.com/sindresorhus/is-fullwidth-code-point
+) (**MIT**)
 
-is-fullwidth-code-point@2.0.0 (MIT) - https://github.com/sindresorhus/is-fullwidth-code-point
+[is-fullwidth-code-point@2.0.0](https://github.com/sindresorhus/is-fullwidth-code-point
+) (**MIT**)
 
-is-fullwidth-code-point@3.0.0 (MIT) - https://github.com/sindresorhus/is-fullwidth-code-point
+[is-fullwidth-code-point@3.0.0](https://github.com/sindresorhus/is-fullwidth-code-point
+) (**MIT**)
 
-is-generator-fn@2.1.0 (MIT) - https://github.com/sindresorhus/is-generator-fn
+[is-generator-fn@2.1.0](https://github.com/sindresorhus/is-generator-fn
+) (**MIT**)
 
-is-glob@3.1.0 (MIT) - https://github.com/jonschlinkert/is-glob
+[is-glob@3.1.0](https://github.com/jonschlinkert/is-glob
+) (**MIT**)
 
-is-glob@4.0.1 (MIT) - https://github.com/micromatch/is-glob
+[is-glob@4.0.1](https://github.com/micromatch/is-glob
+) (**MIT**)
 
-is-in-browser@1.1.3 (MIT) - https://github.com/tuxsudo/is-in-browser
+[is-in-browser@1.1.3](https://github.com/tuxsudo/is-in-browser
+) (**MIT**)
 
-is-number-object@1.0.4 (MIT) - https://github.com/inspect-js/is-number-object
+[is-number-object@1.0.4](https://github.com/inspect-js/is-number-object
+) (**MIT**)
 
-is-number@3.0.0 (MIT) - https://github.com/jonschlinkert/is-number
+[is-number@3.0.0](https://github.com/jonschlinkert/is-number
+) (**MIT**)
 
-is-number@7.0.0 (MIT) - https://github.com/jonschlinkert/is-number
+[is-number@7.0.0](https://github.com/jonschlinkert/is-number
+) (**MIT**)
 
-is-obj@1.0.1 (MIT) - https://github.com/sindresorhus/is-obj
+[is-obj@1.0.1](https://github.com/sindresorhus/is-obj
+) (**MIT**)
 
-is-obj@2.0.0 (MIT) - https://github.com/sindresorhus/is-obj
+[is-obj@2.0.0](https://github.com/sindresorhus/is-obj
+) (**MIT**)
 
-is-path-cwd@2.2.0 (MIT) - https://github.com/sindresorhus/is-path-cwd
+[is-path-cwd@2.2.0](https://github.com/sindresorhus/is-path-cwd
+) (**MIT**)
 
-is-path-in-cwd@2.1.0 (MIT) - https://github.com/sindresorhus/is-path-in-cwd
+[is-path-in-cwd@2.1.0](https://github.com/sindresorhus/is-path-in-cwd
+) (**MIT**)
 
-is-path-inside@2.1.0 (MIT) - https://github.com/sindresorhus/is-path-inside
+[is-path-inside@2.1.0](https://github.com/sindresorhus/is-path-inside
+) (**MIT**)
 
-is-plain-obj@1.1.0 (MIT) - https://github.com/sindresorhus/is-plain-obj
+[is-plain-obj@1.1.0](https://github.com/sindresorhus/is-plain-obj
+) (**MIT**)
 
-is-plain-object@2.0.4 (MIT) - https://github.com/jonschlinkert/is-plain-object
+[is-plain-object@2.0.4](https://github.com/jonschlinkert/is-plain-object
+) (**MIT**)
 
-is-promise@2.1.0 (MIT) - https://github.com/then/is-promise
+[is-promise@2.1.0](https://github.com/then/is-promise
+) (**MIT**)
 
-is-regex@1.0.5 (MIT) - https://github.com/ljharb/is-regex
+[is-regex@1.0.5](https://github.com/ljharb/is-regex
+) (**MIT**)
 
-is-regexp@1.0.0 (MIT) - https://github.com/sindresorhus/is-regexp
+[is-regexp@1.0.0](https://github.com/sindresorhus/is-regexp
+) (**MIT**)
 
-is-resolvable@1.1.0 (ISC) - https://github.com/shinnn/is-resolvable
+[is-resolvable@1.1.0](https://github.com/shinnn/is-resolvable
+) (**ISC**)
 
-is-root@2.1.0 (MIT) - https://github.com/sindresorhus/is-root
+[is-root@2.1.0](https://github.com/sindresorhus/is-root
+) (**MIT**)
 
-is-stream@1.1.0 (MIT) - https://github.com/sindresorhus/is-stream
+[is-stream@1.1.0](https://github.com/sindresorhus/is-stream
+) (**MIT**)
 
-is-string@1.0.5 (MIT) - https://github.com/ljharb/is-string
+[is-string@1.0.5](https://github.com/ljharb/is-string
+) (**MIT**)
 
-is-subset@0.1.1 (MIT) - https://github.com/studio-b12/is-subset
+[is-subset@0.1.1](https://github.com/studio-b12/is-subset
+) (**MIT**)
 
-is-svg@3.0.0 (MIT) - https://github.com/sindresorhus/is-svg
+[is-svg@3.0.0](https://github.com/sindresorhus/is-svg
+) (**MIT**)
 
-is-symbol@1.0.3 (MIT) - https://github.com/inspect-js/is-symbol
+[is-symbol@1.0.3](https://github.com/inspect-js/is-symbol
+) (**MIT**)
 
-is-typedarray@1.0.0 (MIT) - https://github.com/hughsk/is-typedarray
+[is-typedarray@1.0.0](https://github.com/hughsk/is-typedarray
+) (**MIT**)
 
-is-utf8@0.2.1 (MIT) - https://github.com/wayfind/is-utf8
+[is-utf8@0.2.1](https://github.com/wayfind/is-utf8
+) (**MIT**)
 
-is-windows@1.0.2 (MIT) - https://github.com/jonschlinkert/is-windows
+[is-windows@1.0.2](https://github.com/jonschlinkert/is-windows
+) (**MIT**)
 
-is-wsl@1.1.0 (MIT) - https://github.com/sindresorhus/is-wsl
+[is-wsl@1.1.0](https://github.com/sindresorhus/is-wsl
+) (**MIT**)
 
-is-wsl@2.1.1 (MIT) - https://github.com/sindresorhus/is-wsl
+[is-wsl@2.1.1](https://github.com/sindresorhus/is-wsl
+) (**MIT**)
 
-isarray@0.0.1 (MIT) - https://github.com/juliangruber/isarray
+[isarray@0.0.1](https://github.com/juliangruber/isarray
+) (**MIT**)
 
-isarray@1.0.0 (MIT) - https://github.com/juliangruber/isarray
+[isarray@1.0.0](https://github.com/juliangruber/isarray
+) (**MIT**)
 
-isexe@2.0.0 (ISC) - https://github.com/isaacs/isexe
+[isexe@2.0.0](https://github.com/isaacs/isexe
+) (**ISC**)
 
-isobject@2.1.0 (MIT) - https://github.com/jonschlinkert/isobject
+[isobject@2.1.0](https://github.com/jonschlinkert/isobject
+) (**MIT**)
 
-isobject@3.0.1 (MIT) - https://github.com/jonschlinkert/isobject
+[isobject@3.0.1](https://github.com/jonschlinkert/isobject
+) (**MIT**)
 
-isomorphic-fetch@2.2.1 (MIT) - https://github.com/matthew-andrews/isomorphic-fetch
+[isomorphic-fetch@2.2.1](https://github.com/matthew-andrews/isomorphic-fetch
+) (**MIT**)
 
-isstream@0.1.2 (MIT) - https://github.com/rvagg/isstream
+[isstream@0.1.2](https://github.com/rvagg/isstream
+) (**MIT**)
 
-istanbul-lib-coverage@2.0.5 (BSD-3-Clause) - https://github.com/istanbuljs/istanbuljs
+[istanbul-lib-coverage@2.0.5](https://github.com/istanbuljs/istanbuljs
+) (**BSD-3-Clause**)
 
-istanbul-lib-instrument@3.3.0 (BSD-3-Clause) - https://github.com/istanbuljs/istanbuljs
+[istanbul-lib-instrument@3.3.0](https://github.com/istanbuljs/istanbuljs
+) (**BSD-3-Clause**)
 
-istanbul-lib-report@2.0.8 (BSD-3-Clause) - https://github.com/istanbuljs/istanbuljs
+[istanbul-lib-report@2.0.8](https://github.com/istanbuljs/istanbuljs
+) (**BSD-3-Clause**)
 
-istanbul-lib-source-maps@3.0.6 (BSD-3-Clause) - https://github.com/istanbuljs/istanbuljs
+[istanbul-lib-source-maps@3.0.6](https://github.com/istanbuljs/istanbuljs
+) (**BSD-3-Clause**)
 
-istanbul-reports@2.2.7 (BSD-3-Clause) - https://github.com/istanbuljs/istanbuljs
+[istanbul-reports@2.2.7](https://github.com/istanbuljs/istanbuljs
+) (**BSD-3-Clause**)
 
-jest-changed-files@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-changed-files@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-cli@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-cli@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-config@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-config@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-diff@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-diff@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-docblock@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-docblock@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-each@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-each@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-environment-jsdom-fourteen@1.0.1 (MIT) - https://github.com/ianschmitz/jest-environment-jsdom-fourteen
+[jest-environment-jsdom-fourteen@1.0.1](https://github.com/ianschmitz/jest-environment-jsdom-fourteen
+) (**MIT**)
 
-jest-environment-jsdom@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-environment-jsdom@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-environment-node@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-environment-node@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-get-type@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-get-type@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-haste-map@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-haste-map@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-jasmine2@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-jasmine2@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-leak-detector@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-leak-detector@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-matcher-utils@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-matcher-utils@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-message-util@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-message-util@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-mock@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-mock@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-pnp-resolver@1.2.1 (MIT) - https://github.com/arcanis/jest-pnp-resolver
+[jest-pnp-resolver@1.2.1](https://github.com/arcanis/jest-pnp-resolver
+) (**MIT**)
 
-jest-regex-util@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-regex-util@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-resolve-dependencies@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-resolve-dependencies@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-resolve@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-resolve@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-runner@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-runner@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-runtime@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-runtime@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-serializer@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-serializer@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-snapshot@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-snapshot@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-util@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-util@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-validate@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-validate@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-watch-typeahead@0.4.2 (MIT) - https://github.com/jest-community/jest-watch-typeahead
+[jest-watch-typeahead@0.4.2](https://github.com/jest-community/jest-watch-typeahead
+) (**MIT**)
 
-jest-watcher@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-watcher@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-worker@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest-worker@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest-worker@25.1.0 (MIT) - https://github.com/facebook/jest
+[jest-worker@25.1.0](https://github.com/facebook/jest
+) (**MIT**)
 
-jest@24.9.0 (MIT) - https://github.com/facebook/jest
+[jest@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-js-base64@2.5.2 (BSD-3-Clause) - https://github.com/dankogai/js-base64
+[js-base64@2.5.2](https://github.com/dankogai/js-base64
+) (**BSD-3-Clause**)
 
-js-tokens@3.0.2 (MIT) - https://github.com/lydell/js-tokens
+[js-tokens@3.0.2](https://github.com/lydell/js-tokens
+) (**MIT**)
 
-js-tokens@4.0.0 (MIT) - https://github.com/lydell/js-tokens
+[js-tokens@4.0.0](https://github.com/lydell/js-tokens
+) (**MIT**)
 
-js-yaml@3.13.1 (MIT) - https://github.com/nodeca/js-yaml
+[js-yaml@3.13.1](https://github.com/nodeca/js-yaml
+) (**MIT**)
 
-jsbn@0.1.1 (MIT) - https://github.com/andyperlitch/jsbn
+[jsbn@0.1.1](https://github.com/andyperlitch/jsbn
+) (**MIT**)
 
-jsdom@11.12.0 (MIT) - https://github.com/jsdom/jsdom
+[jsdom@11.12.0](https://github.com/jsdom/jsdom
+) (**MIT**)
 
-jsdom@14.1.0 (MIT) - https://github.com/jsdom/jsdom
+[jsdom@14.1.0](https://github.com/jsdom/jsdom
+) (**MIT**)
 
-jsesc@0.5.0 (MIT) - https://github.com/mathiasbynens/jsesc
+[jsesc@0.5.0](https://github.com/mathiasbynens/jsesc
+) (**MIT**)
 
-jsesc@2.5.2 (MIT) - https://github.com/mathiasbynens/jsesc
+[jsesc@2.5.2](https://github.com/mathiasbynens/jsesc
+) (**MIT**)
 
-json-parse-better-errors@1.0.2 (MIT) - https://github.com/zkat/json-parse-better-errors
+[json-parse-better-errors@1.0.2](https://github.com/zkat/json-parse-better-errors
+) (**MIT**)
 
-json-schema-traverse@0.4.1 (MIT) - https://github.com/epoberezkin/json-schema-traverse
+[json-schema-traverse@0.4.1](https://github.com/epoberezkin/json-schema-traverse
+) (**MIT**)
 
-json-schema@0.2.3 (AFLv2.1) - BSD
-json-stable-stringify-without-jsonify@1.0.1 (MIT) - https://github.com/samn/json-stable-stringify
+[json-schema@0.2.3](BSD) (**AFLv2.1**)
 
-json-stable-stringify@1.0.1 (MIT) - https://github.com/substack/json-stable-stringify
+[json-stable-stringify-without-jsonify@1.0.1](https://github.com/samn/json-stable-stringify
+) (**MIT**)
 
-json-stringify-safe@5.0.1 (ISC) - https://github.com/isaacs/json-stringify-safe
+[json-stable-stringify@1.0.1](https://github.com/substack/json-stable-stringify
+) (**MIT**)
 
-json3@3.3.3 (MIT) - https://github.com/bestiejs/json3
+[json-stringify-safe@5.0.1](https://github.com/isaacs/json-stringify-safe
+) (**ISC**)
 
-json5@1.0.1 (MIT) - https://github.com/json5/json5
+[json3@3.3.3](https://github.com/bestiejs/json3
+) (**MIT**)
 
-json5@2.1.1 (MIT) - https://github.com/json5/json5
+[json5@1.0.1](https://github.com/json5/json5
+) (**MIT**)
 
-jsonfile@4.0.0 (MIT) - https://github.com/jprichardson/node-jsonfile
+[json5@2.1.1](https://github.com/json5/json5
+) (**MIT**)
 
-jsonify@0.0.0 (Public Domain) - https://github.com/substack/jsonify
+[jsonfile@4.0.0](https://github.com/jprichardson/node-jsonfile
+) (**MIT**)
 
-jsonp@0.2.1 (MIT*) - https://github.com/LearnBoost/jsonp
+[jsonify@0.0.0](https://github.com/substack/jsonify
+) (**Public Domain**)
 
-jsprim@1.4.1 (MIT) - https://github.com/joyent/node-jsprim
+[jsonp@0.2.1](https://github.com/LearnBoost/jsonp
+) (**MIT***)
 
-jss-plugin-camel-case@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jsprim@1.4.1](https://github.com/joyent/node-jsprim
+) (**MIT**)
 
-jss-plugin-default-unit@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-camel-case@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jss-plugin-global@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-default-unit@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jss-plugin-nested@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-global@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jss-plugin-props-sort@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-nested@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jss-plugin-rule-value-function@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-props-sort@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jss-plugin-vendor-prefixer@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-rule-value-function@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jss@10.0.4 (MIT) - https://github.com/cssinjs/jss
+[jss-plugin-vendor-prefixer@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-jsx-ast-utils@2.2.3 (MIT) - https://github.com/evcohen/jsx-ast-utils
+[jss@10.0.4](https://github.com/cssinjs/jss
+) (**MIT**)
 
-kdbush@3.0.0 (ISC) - https://github.com/mourner/kdbush
+[jsx-ast-utils@2.2.3](https://github.com/evcohen/jsx-ast-utils
+) (**MIT**)
 
-killable@1.0.1 (ISC) - https://github.com/marten-de-vries/killable
+[kdbush@3.0.0](https://github.com/mourner/kdbush
+) (**ISC**)
 
-kind-of@2.0.1 (MIT) - https://github.com/jonschlinkert/kind-of
+[killable@1.0.1](https://github.com/marten-de-vries/killable
+) (**ISC**)
 
-kind-of@3.2.2 (MIT) - https://github.com/jonschlinkert/kind-of
+[kind-of@2.0.1](https://github.com/jonschlinkert/kind-of
+) (**MIT**)
 
-kind-of@4.0.0 (MIT) - https://github.com/jonschlinkert/kind-of
+[kind-of@3.2.2](https://github.com/jonschlinkert/kind-of
+) (**MIT**)
 
-kind-of@5.1.0 (MIT) - https://github.com/jonschlinkert/kind-of
+[kind-of@4.0.0](https://github.com/jonschlinkert/kind-of
+) (**MIT**)
 
-kind-of@6.0.3 (MIT) - https://github.com/jonschlinkert/kind-of
+[kind-of@5.1.0](https://github.com/jonschlinkert/kind-of
+) (**MIT**)
 
-kleur@3.0.3 (MIT) - https://github.com/lukeed/kleur
+[kind-of@6.0.3](https://github.com/jonschlinkert/kind-of
+) (**MIT**)
 
-last-call-webpack-plugin@3.0.0 (MIT) - https://github.com/NMFR/last-call-webpack-plugin
+[kleur@3.0.3](https://github.com/lukeed/kleur
+) (**MIT**)
 
-lazy-cache@0.2.7 (MIT) - https://github.com/jonschlinkert/lazy-cache
+[last-call-webpack-plugin@3.0.0](https://github.com/NMFR/last-call-webpack-plugin
+) (**MIT**)
 
-lazy-cache@1.0.4 (MIT) - https://github.com/jonschlinkert/lazy-cache
+[lazy-cache@0.2.7](https://github.com/jonschlinkert/lazy-cache
+) (**MIT**)
 
-lcid@1.0.0 (MIT) - https://github.com/sindresorhus/lcid
+[lazy-cache@1.0.4](https://github.com/jonschlinkert/lazy-cache
+) (**MIT**)
 
-lcid@2.0.0 (MIT) - https://github.com/sindresorhus/lcid
+[lcid@1.0.0](https://github.com/sindresorhus/lcid
+) (**MIT**)
 
-left-pad@1.3.0 (WTFPL) - https://github.com/stevemao/left-pad
+[lcid@2.0.0](https://github.com/sindresorhus/lcid
+) (**MIT**)
 
-leven@3.1.0 (MIT) - https://github.com/sindresorhus/leven
+[left-pad@1.3.0](https://github.com/stevemao/left-pad
+) (**WTFPL**)
 
-levenary@1.1.1 (MIT) - https://github.com/tanhauhau/levenary
+[leven@3.1.0](https://github.com/sindresorhus/leven
+) (**MIT**)
 
-levn@0.3.0 (MIT) - https://github.com/gkz/levn
+[levenary@1.1.1](https://github.com/tanhauhau/levenary
+) (**MIT**)
 
-lines-and-columns@1.1.6 (MIT) - https://github.com/eventualbuddha/lines-and-columns
+[levn@0.3.0](https://github.com/gkz/levn
+) (**MIT**)
 
-load-json-file@1.1.0 (MIT) - https://github.com/sindresorhus/load-json-file
+[lines-and-columns@1.1.6](https://github.com/eventualbuddha/lines-and-columns
+) (**MIT**)
 
-load-json-file@2.0.0 (MIT) - https://github.com/sindresorhus/load-json-file
+[load-json-file@1.1.0](https://github.com/sindresorhus/load-json-file
+) (**MIT**)
 
-load-json-file@4.0.0 (MIT) - https://github.com/sindresorhus/load-json-file
+[load-json-file@2.0.0](https://github.com/sindresorhus/load-json-file
+) (**MIT**)
 
-loader-fs-cache@1.0.2 (MIT) - 
+[load-json-file@4.0.0](https://github.com/sindresorhus/load-json-file
+) (**MIT**)
 
-loader-runner@2.4.0 (MIT) - https://github.com/webpack/loader-runner
+[loader-fs-cache@1.0.2](
+) (**MIT**)
 
-loader-utils@1.2.3 (MIT) - https://github.com/webpack/loader-utils
+[loader-runner@2.4.0](https://github.com/webpack/loader-runner
+) (**MIT**)
 
-loader-utils@1.4.0 (MIT) - https://github.com/webpack/loader-utils
+[loader-utils@1.2.3](https://github.com/webpack/loader-utils
+) (**MIT**)
 
-locate-path@2.0.0 (MIT) - https://github.com/sindresorhus/locate-path
+[loader-utils@1.4.0](https://github.com/webpack/loader-utils
+) (**MIT**)
 
-locate-path@3.0.0 (MIT) - https://github.com/sindresorhus/locate-path
+[locate-path@2.0.0](https://github.com/sindresorhus/locate-path
+) (**MIT**)
 
-locate-path@5.0.0 (MIT) - https://github.com/sindresorhus/locate-path
+[locate-path@3.0.0](https://github.com/sindresorhus/locate-path
+) (**MIT**)
 
-lodash._reinterpolate@3.0.0 (MIT) - https://github.com/lodash/lodash
+[locate-path@5.0.0](https://github.com/sindresorhus/locate-path
+) (**MIT**)
 
-lodash.escape@4.0.1 (MIT) - https://github.com/lodash/lodash
+[lodash._reinterpolate@3.0.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.flattendeep@4.4.0 (MIT) - https://github.com/lodash/lodash
+[lodash.escape@4.0.1](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.isequal@4.5.0 (MIT) - https://github.com/lodash/lodash
+[lodash.flattendeep@4.4.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.memoize@4.1.2 (MIT) - https://github.com/lodash/lodash
+[lodash.isequal@4.5.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.sortby@4.7.0 (MIT) - https://github.com/lodash/lodash
+[lodash.memoize@4.1.2](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.template@4.5.0 (MIT) - https://github.com/lodash/lodash
+[lodash.sortby@4.7.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.templatesettings@4.2.0 (MIT) - https://github.com/lodash/lodash
+[lodash.template@4.5.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash.uniq@4.5.0 (MIT) - https://github.com/lodash/lodash
+[lodash.templatesettings@4.2.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-lodash@4.17.15 (MIT) - https://github.com/lodash/lodash
+[lodash.uniq@4.5.0](https://github.com/lodash/lodash
+) (**MIT**)
 
-loglevel@1.6.7 (MIT) - https://github.com/pimterry/loglevel
+[lodash@4.17.15](https://github.com/lodash/lodash
+) (**MIT**)
 
-loose-envify@1.4.0 (MIT) - https://github.com/zertosh/loose-envify
+[loglevel@1.6.7](https://github.com/pimterry/loglevel
+) (**MIT**)
 
-loud-rejection@1.6.0 (MIT) - https://github.com/sindresorhus/loud-rejection
+[loose-envify@1.4.0](https://github.com/zertosh/loose-envify
+) (**MIT**)
 
-lower-case@2.0.1 (MIT) - https://github.com/blakeembrey/change-case
+[loud-rejection@1.6.0](https://github.com/sindresorhus/loud-rejection
+) (**MIT**)
 
-lru-cache@4.1.5 (ISC) - https://github.com/isaacs/node-lru-cache
+[lower-case@2.0.1](https://github.com/blakeembrey/change-case
+) (**MIT**)
 
-lru-cache@5.1.1 (ISC) - https://github.com/isaacs/node-lru-cache
+[lru-cache@4.1.5](https://github.com/isaacs/node-lru-cache
+) (**ISC**)
 
-make-dir@2.1.0 (MIT) - https://github.com/sindresorhus/make-dir
+[lru-cache@5.1.1](https://github.com/isaacs/node-lru-cache
+) (**ISC**)
 
-make-dir@3.0.2 (MIT) - https://github.com/sindresorhus/make-dir
+[make-dir@2.1.0](https://github.com/sindresorhus/make-dir
+) (**MIT**)
 
-makeerror@1.0.11 (BSD-3-Clause) - https://github.com/daaku/nodejs-makeerror
+[make-dir@3.0.2](https://github.com/sindresorhus/make-dir
+) (**MIT**)
 
-mamacro@0.0.3 (MIT) - 
+[makeerror@1.0.11](https://github.com/daaku/nodejs-makeerror
+) (**BSD-3-Clause**)
 
-map-age-cleaner@0.1.3 (MIT) - https://github.com/SamVerschueren/map-age-cleaner
+[mamacro@0.0.3](
+) (**MIT**)
 
-map-cache@0.2.2 (MIT) - https://github.com/jonschlinkert/map-cache
+[map-age-cleaner@0.1.3](https://github.com/SamVerschueren/map-age-cleaner
+) (**MIT**)
 
-map-obj@1.0.1 (MIT) - https://github.com/sindresorhus/map-obj
+[map-cache@0.2.2](https://github.com/jonschlinkert/map-cache
+) (**MIT**)
 
-map-visit@1.0.0 (MIT) - https://github.com/jonschlinkert/map-visit
+[map-obj@1.0.1](https://github.com/sindresorhus/map-obj
+) (**MIT**)
 
-mapbox-gl@1.8.1 (MIT*) - https://github.com/mapbox/mapbox-gl-js
+[map-visit@1.0.0](https://github.com/jonschlinkert/map-visit
+) (**MIT**)
 
-md5.js@1.3.5 (MIT) - https://github.com/crypto-browserify/md5.js
+[mapbox-gl@1.8.1](https://github.com/mapbox/mapbox-gl-js
+) (**MIT***)
 
-mdn-data@2.0.4 (CC0-1.0) - https://github.com/mdn/data
+[md5.js@1.3.5](https://github.com/crypto-browserify/md5.js
+) (**MIT**)
 
-media-typer@0.3.0 (MIT) - https://github.com/jshttp/media-typer
+[mdn-data@2.0.4](https://github.com/mdn/data
+) (**CC0-1.0**)
 
-mem@4.3.0 (MIT) - https://github.com/sindresorhus/mem
+[media-typer@0.3.0](https://github.com/jshttp/media-typer
+) (**MIT**)
 
-memory-fs@0.4.1 (MIT) - https://github.com/webpack/memory-fs
+[mem@4.3.0](https://github.com/sindresorhus/mem
+) (**MIT**)
 
-memory-fs@0.5.0 (MIT) - https://github.com/webpack/memory-fs
+[memory-fs@0.4.1](https://github.com/webpack/memory-fs
+) (**MIT**)
 
-meow@3.7.0 (MIT) - https://github.com/sindresorhus/meow
+[memory-fs@0.5.0](https://github.com/webpack/memory-fs
+) (**MIT**)
 
-merge-deep@3.0.2 (MIT) - https://github.com/jonschlinkert/merge-deep
+[meow@3.7.0](https://github.com/sindresorhus/meow
+) (**MIT**)
 
-merge-descriptors@1.0.1 (MIT) - https://github.com/component/merge-descriptors
+[merge-deep@3.0.2](https://github.com/jonschlinkert/merge-deep
+) (**MIT**)
 
-merge-stream@2.0.0 (MIT) - https://github.com/grncdr/merge-stream
+[merge-descriptors@1.0.1](https://github.com/component/merge-descriptors
+) (**MIT**)
 
-merge2@1.3.0 (MIT) - https://github.com/teambition/merge2
+[merge-stream@2.0.0](https://github.com/grncdr/merge-stream
+) (**MIT**)
 
-methods@1.1.2 (MIT) - https://github.com/jshttp/methods
+[merge2@1.3.0](https://github.com/teambition/merge2
+) (**MIT**)
 
-microevent.ts@0.1.1 (MIT) - https://github.com/DirtyHairy/microevent
+[methods@1.1.2](https://github.com/jshttp/methods
+) (**MIT**)
 
-micromatch@3.1.10 (MIT) - https://github.com/micromatch/micromatch
+[microevent.ts@0.1.1](https://github.com/DirtyHairy/microevent
+) (**MIT**)
 
-miller-rabin@4.0.1 (MIT) - https://github.com/indutny/miller-rabin
+[micromatch@3.1.10](https://github.com/micromatch/micromatch
+) (**MIT**)
 
-mime-db@1.43.0 (MIT) - https://github.com/jshttp/mime-db
+[miller-rabin@4.0.1](https://github.com/indutny/miller-rabin
+) (**MIT**)
 
-mime-types@2.1.26 (MIT) - https://github.com/jshttp/mime-types
+[mime-db@1.43.0](https://github.com/jshttp/mime-db
+) (**MIT**)
 
-mime@1.6.0 (MIT) - https://github.com/broofa/node-mime
+[mime-types@2.1.26](https://github.com/jshttp/mime-types
+) (**MIT**)
 
-mime@2.4.4 (MIT) - https://github.com/broofa/node-mime
+[mime@1.6.0](https://github.com/broofa/node-mime
+) (**MIT**)
 
-mimic-fn@2.1.0 (MIT) - https://github.com/sindresorhus/mimic-fn
+[mime@2.4.4](https://github.com/broofa/node-mime
+) (**MIT**)
 
-min-indent@1.0.0 (MIT) - https://github.com/thejameskyle/min-indent
+[mimic-fn@2.1.0](https://github.com/sindresorhus/mimic-fn
+) (**MIT**)
 
-mini-create-react-context@0.3.2 (MIT) - https://github.com/StringEpsilon/mini-create-react-context
+[min-indent@1.0.0](https://github.com/thejameskyle/min-indent
+) (**MIT**)
 
-mini-css-extract-plugin@0.9.0 (MIT) - https://github.com/webpack-contrib/mini-css-extract-plugin
+[mini-create-react-context@0.3.2](https://github.com/StringEpsilon/mini-create-react-context
+) (**MIT**)
 
-minimalistic-assert@1.0.1 (ISC) - https://github.com/calvinmetcalf/minimalistic-assert
+[mini-css-extract-plugin@0.9.0](https://github.com/webpack-contrib/mini-css-extract-plugin
+) (**MIT**)
 
-minimalistic-crypto-utils@1.0.1 (MIT) - https://github.com/indutny/minimalistic-crypto-utils
+[minimalistic-assert@1.0.1](https://github.com/calvinmetcalf/minimalistic-assert
+) (**ISC**)
 
-minimatch@3.0.4 (ISC) - https://github.com/isaacs/minimatch
+[minimalistic-crypto-utils@1.0.1](https://github.com/indutny/minimalistic-crypto-utils
+) (**MIT**)
 
-minimist@0.0.5 (MIT) - https://github.com/substack/minimist
+[minimatch@3.0.4](https://github.com/isaacs/minimatch
+) (**ISC**)
 
-minimist@0.0.8 (MIT) - https://github.com/substack/minimist
+[minimist@0.0.5](https://github.com/substack/minimist
+) (**MIT**)
 
-minimist@1.2.0 (MIT) - https://github.com/substack/minimist
+[minimist@0.0.8](https://github.com/substack/minimist
+) (**MIT**)
 
-minimist@1.2.3 (MIT) - https://github.com/substack/minimist
+[minimist@1.2.0](https://github.com/substack/minimist
+) (**MIT**)
 
-minimist@1.2.5 (MIT) - https://github.com/substack/minimist
+[minimist@1.2.3](https://github.com/substack/minimist
+) (**MIT**)
 
-minipass-collect@1.0.2 (ISC) - 
+[minimist@1.2.5](https://github.com/substack/minimist
+) (**MIT**)
 
-minipass-flush@1.0.5 (ISC) - https://github.com/isaacs/minipass-flush
+[minipass-collect@1.0.2](
+) (**ISC**)
 
-minipass-pipeline@1.2.2 (ISC) - 
+[minipass-flush@1.0.5](https://github.com/isaacs/minipass-flush
+) (**ISC**)
 
-minipass@2.9.0 (ISC) - https://github.com/isaacs/minipass
+[minipass-pipeline@1.2.2](
+) (**ISC**)
 
-minipass@3.1.1 (ISC) - https://github.com/isaacs/minipass
+[minipass@2.9.0](https://github.com/isaacs/minipass
+) (**ISC**)
 
-minizlib@1.3.3 (MIT) - https://github.com/isaacs/minizlib
+[minipass@3.1.1](https://github.com/isaacs/minipass
+) (**ISC**)
 
-mississippi@3.0.0 (BSD-2-Clause) - https://github.com/maxogden/mississippi
+[minizlib@1.3.3](https://github.com/isaacs/minizlib
+) (**MIT**)
 
-mixin-deep@1.3.2 (MIT) - https://github.com/jonschlinkert/mixin-deep
+[mississippi@3.0.0](https://github.com/maxogden/mississippi
+) (**BSD-2-Clause**)
 
-mixin-object@2.0.1 (MIT) - https://github.com/jonschlinkert/mixin-object
+[mixin-deep@1.3.2](https://github.com/jonschlinkert/mixin-deep
+) (**MIT**)
 
-mjolnir.js@2.4.0 (MIT) - https://github.com/uber-web/mjolnir.js
+[mixin-object@2.0.1](https://github.com/jonschlinkert/mixin-object
+) (**MIT**)
 
-mkdirp@0.5.1 (MIT) - https://github.com/substack/node-mkdirp
+[mjolnir.js@2.4.0](https://github.com/uber-web/mjolnir.js
+) (**MIT**)
 
-moo@0.5.1 (BSD-3-Clause) - https://github.com/tjvr/moo
+[mkdirp@0.5.1](https://github.com/substack/node-mkdirp
+) (**MIT**)
 
-move-concurrently@1.0.1 (ISC) - https://github.com/npm/move-concurrently
+[moo@0.5.1](https://github.com/tjvr/moo
+) (**BSD-3-Clause**)
 
-ms@2.0.0 (MIT) - https://github.com/zeit/ms
+[move-concurrently@1.0.1](https://github.com/npm/move-concurrently
+) (**ISC**)
 
-ms@2.1.1 (MIT) - https://github.com/zeit/ms
+[ms@2.0.0](https://github.com/zeit/ms
+) (**MIT**)
 
-ms@2.1.2 (MIT) - https://github.com/zeit/ms
+[ms@2.1.1](https://github.com/zeit/ms
+) (**MIT**)
 
-multicast-dns-service-types@1.1.0 (MIT) - https://github.com/mafintosh/multicast-dns-service-types
+[ms@2.1.2](https://github.com/zeit/ms
+) (**MIT**)
 
-multicast-dns@6.2.3 (MIT) - https://github.com/mafintosh/multicast-dns
+[multicast-dns-service-types@1.1.0](https://github.com/mafintosh/multicast-dns-service-types
+) (**MIT**)
 
-murmurhash-js@1.0.0 (MIT) - https://github.com/mikolalysenko/murmurhash-js
+[multicast-dns@6.2.3](https://github.com/mafintosh/multicast-dns
+) (**MIT**)
 
-mute-stream@0.0.8 (ISC) - https://github.com/isaacs/mute-stream
+[murmurhash-js@1.0.0](https://github.com/mikolalysenko/murmurhash-js
+) (**MIT**)
 
-nan@2.14.0 (MIT) - https://github.com/nodejs/nan
+[mute-stream@0.0.8](https://github.com/isaacs/mute-stream
+) (**ISC**)
 
-nanomatch@1.2.13 (MIT) - https://github.com/micromatch/nanomatch
+[nan@2.14.0](https://github.com/nodejs/nan
+) (**MIT**)
 
-natural-compare@1.4.0 (MIT) - https://github.com/litejs/natural-compare-lite
+[nanomatch@1.2.13](https://github.com/micromatch/nanomatch
+) (**MIT**)
 
-nearley@2.19.1 (MIT) - https://github.com/hardmath123/nearley
+[natural-compare@1.4.0](https://github.com/litejs/natural-compare-lite
+) (**MIT**)
 
-needle@2.4.0 (MIT) - https://github.com/tomas/needle
+[nearley@2.19.1](https://github.com/hardmath123/nearley
+) (**MIT**)
 
-negotiator@0.6.2 (MIT) - https://github.com/jshttp/negotiator
+[needle@2.4.0](https://github.com/tomas/needle
+) (**MIT**)
 
-neo-async@2.6.1 (MIT) - https://github.com/suguru03/neo-async
+[negotiator@0.6.2](https://github.com/jshttp/negotiator
+) (**MIT**)
 
-next-tick@1.0.0 (MIT) - https://github.com/medikoo/next-tick
+[neo-async@2.6.1](https://github.com/suguru03/neo-async
+) (**MIT**)
 
-nice-try@1.0.5 (MIT) - https://github.com/electerious/nice-try
+[next-tick@1.0.0](https://github.com/medikoo/next-tick
+) (**MIT**)
 
-no-case@3.0.3 (MIT) - https://github.com/blakeembrey/change-case
+[nice-try@1.0.5](https://github.com/electerious/nice-try
+) (**MIT**)
 
-node-fetch@1.7.3 (MIT) - https://github.com/bitinn/node-fetch
+[no-case@3.0.3](https://github.com/blakeembrey/change-case
+) (**MIT**)
 
-node-forge@0.9.0 ((BSD-3-Clause OR GPL-2.0)) - https://github.com/digitalbazaar/forge
+[node-fetch@1.7.3](https://github.com/bitinn/node-fetch
+) (**MIT**)
 
-node-gyp@3.8.0 (MIT) - https://github.com/nodejs/node-gyp
+[node-forge@0.9.0](https://github.com/digitalbazaar/forge
+) (**(BSD-3-Clause OR GPL-2.0)**)
 
-node-int64@0.4.0 (MIT) - https://github.com/broofa/node-int64
+[node-gyp@3.8.0](https://github.com/nodejs/node-gyp
+) (**MIT**)
 
-node-libs-browser@2.2.1 (MIT) - https://github.com/webpack/node-libs-browser
+[node-int64@0.4.0](https://github.com/broofa/node-int64
+) (**MIT**)
 
-node-modules-regexp@1.0.0 (MIT) - https://github.com/jamestalmage/node-modules-regexp
+[node-libs-browser@2.2.1](https://github.com/webpack/node-libs-browser
+) (**MIT**)
 
-node-notifier@5.4.3 (MIT) - https://github.com/mikaelbr/node-notifier
+[node-modules-regexp@1.0.0](https://github.com/jamestalmage/node-modules-regexp
+) (**MIT**)
 
-node-pre-gyp@0.14.0 (BSD-3-Clause) - https://github.com/mapbox/node-pre-gyp
+[node-notifier@5.4.3](https://github.com/mikaelbr/node-notifier
+) (**MIT**)
 
-node-releases@1.1.51 (MIT) - https://github.com/chicoxyzzy/node-releases
+[node-pre-gyp@0.14.0](https://github.com/mapbox/node-pre-gyp
+) (**BSD-3-Clause**)
 
-node-sass@4.13.1 (MIT) - https://github.com/sass/node-sass
+[node-releases@1.1.51](https://github.com/chicoxyzzy/node-releases
+) (**MIT**)
 
-nopt@3.0.6 (ISC) - https://github.com/npm/nopt
+[node-sass@4.13.1](https://github.com/sass/node-sass
+) (**MIT**)
 
-nopt@4.0.1 (ISC) - https://github.com/npm/nopt
+[nopt@3.0.6](https://github.com/npm/nopt
+) (**ISC**)
 
-normalize-package-data@2.5.0 (BSD-2-Clause) - https://github.com/npm/normalize-package-data
+[nopt@4.0.1](https://github.com/npm/nopt
+) (**ISC**)
 
-normalize-path@2.1.1 (MIT) - https://github.com/jonschlinkert/normalize-path
+[normalize-package-data@2.5.0](https://github.com/npm/normalize-package-data
+) (**BSD-2-Clause**)
 
-normalize-path@3.0.0 (MIT) - https://github.com/jonschlinkert/normalize-path
+[normalize-path@2.1.1](https://github.com/jonschlinkert/normalize-path
+) (**MIT**)
 
-normalize-range@0.1.2 (MIT) - https://github.com/jamestalmage/normalize-range
+[normalize-path@3.0.0](https://github.com/jonschlinkert/normalize-path
+) (**MIT**)
 
-normalize-url@1.9.1 (MIT) - https://github.com/sindresorhus/normalize-url
+[normalize-range@0.1.2](https://github.com/jamestalmage/normalize-range
+) (**MIT**)
 
-normalize-url@3.3.0 (MIT) - https://github.com/sindresorhus/normalize-url
+[normalize-url@1.9.1](https://github.com/sindresorhus/normalize-url
+) (**MIT**)
 
-npm-bundled@1.1.1 (ISC) - https://github.com/npm/npm-bundled
+[normalize-url@3.3.0](https://github.com/sindresorhus/normalize-url
+) (**MIT**)
 
-npm-normalize-package-bin@1.0.1 (ISC) - https://github.com/npm/npm-normalize-package-bin
+[npm-bundled@1.1.1](https://github.com/npm/npm-bundled
+) (**ISC**)
 
-npm-packlist@1.4.7 (ISC) - https://github.com/npm/npm-packlist
+[npm-normalize-package-bin@1.0.1](https://github.com/npm/npm-normalize-package-bin
+) (**ISC**)
 
-npm-run-path@2.0.2 (MIT) - https://github.com/sindresorhus/npm-run-path
+[npm-packlist@1.4.7](https://github.com/npm/npm-packlist
+) (**ISC**)
 
-npmlog@4.1.2 (ISC) - https://github.com/npm/npmlog
+[npm-run-path@2.0.2](https://github.com/sindresorhus/npm-run-path
+) (**MIT**)
 
-nth-check@1.0.2 (BSD-2-Clause) - https://github.com/fb55/nth-check
+[npmlog@4.1.2](https://github.com/npm/npmlog
+) (**ISC**)
 
-num2fraction@1.2.2 (MIT) - https://github.com/yisibl/num2fraction
+[nth-check@1.0.2](https://github.com/fb55/nth-check
+) (**BSD-2-Clause**)
 
-number-is-nan@1.0.1 (MIT) - https://github.com/sindresorhus/number-is-nan
+[num2fraction@1.2.2](https://github.com/yisibl/num2fraction
+) (**MIT**)
 
-nwsapi@2.2.0 (MIT) - https://github.com/dperini/nwsapi
+[number-is-nan@1.0.1](https://github.com/sindresorhus/number-is-nan
+) (**MIT**)
 
-oauth-sign@0.9.0 (Apache-2.0) - https://github.com/mikeal/oauth-sign
+[nwsapi@2.2.0](https://github.com/dperini/nwsapi
+) (**MIT**)
 
-object-assign@4.1.1 (MIT) - https://github.com/sindresorhus/object-assign
+[oauth-sign@0.9.0](https://github.com/mikeal/oauth-sign
+) (**Apache-2.0**)
 
-object-copy@0.1.0 (MIT) - https://github.com/jonschlinkert/object-copy
+[object-assign@4.1.1](https://github.com/sindresorhus/object-assign
+) (**MIT**)
 
-object-hash@2.0.3 (MIT) - https://github.com/puleos/object-hash
+[object-copy@0.1.0](https://github.com/jonschlinkert/object-copy
+) (**MIT**)
 
-object-inspect@1.7.0 (MIT) - https://github.com/substack/object-inspect
+[object-hash@2.0.3](https://github.com/puleos/object-hash
+) (**MIT**)
 
-object-is@1.0.2 (MIT) - https://github.com/es-shims/object-is
+[object-inspect@1.7.0](https://github.com/substack/object-inspect
+) (**MIT**)
 
-object-keys@1.1.1 (MIT) - https://github.com/ljharb/object-keys
+[object-is@1.0.2](https://github.com/es-shims/object-is
+) (**MIT**)
 
-object-path@0.11.4 (MIT) - https://github.com/mariocasciaro/object-path
+[object-keys@1.1.1](https://github.com/ljharb/object-keys
+) (**MIT**)
 
-object-visit@1.0.1 (MIT) - https://github.com/jonschlinkert/object-visit
+[object-path@0.11.4](https://github.com/mariocasciaro/object-path
+) (**MIT**)
 
-object.assign@4.1.0 (MIT) - https://github.com/ljharb/object.assign
+[object-visit@1.0.1](https://github.com/jonschlinkert/object-visit
+) (**MIT**)
 
-object.entries@1.1.1 (MIT) - https://github.com/es-shims/Object.entries
+[object.assign@4.1.0](https://github.com/ljharb/object.assign
+) (**MIT**)
 
-object.fromentries@2.0.2 (MIT) - https://github.com/es-shims/Object.fromEntries
+[object.entries@1.1.1](https://github.com/es-shims/Object.entries
+) (**MIT**)
 
-object.getownpropertydescriptors@2.1.0 (MIT) - https://github.com/es-shims/object.getownpropertydescriptors
+[object.fromentries@2.0.2](https://github.com/es-shims/Object.fromEntries
+) (**MIT**)
 
-object.pick@1.3.0 (MIT) - https://github.com/jonschlinkert/object.pick
+[object.getownpropertydescriptors@2.1.0](https://github.com/es-shims/object.getownpropertydescriptors
+) (**MIT**)
 
-object.values@1.1.1 (MIT) - https://github.com/es-shims/Object.values
+[object.pick@1.3.0](https://github.com/jonschlinkert/object.pick
+) (**MIT**)
 
-obuf@1.1.2 (MIT) - https://github.com/indutny/offset-buffer
+[object.values@1.1.1](https://github.com/es-shims/Object.values
+) (**MIT**)
 
-on-finished@2.3.0 (MIT) - https://github.com/jshttp/on-finished
+[obuf@1.1.2](https://github.com/indutny/offset-buffer
+) (**MIT**)
 
-on-headers@1.0.2 (MIT) - https://github.com/jshttp/on-headers
+[on-finished@2.3.0](https://github.com/jshttp/on-finished
+) (**MIT**)
 
-once@1.4.0 (ISC) - https://github.com/isaacs/once
+[on-headers@1.0.2](https://github.com/jshttp/on-headers
+) (**MIT**)
 
-onetime@5.1.0 (MIT) - https://github.com/sindresorhus/onetime
+[once@1.4.0](https://github.com/isaacs/once
+) (**ISC**)
 
-open@7.0.3 (MIT) - https://github.com/sindresorhus/open
+[onetime@5.1.0](https://github.com/sindresorhus/onetime
+) (**MIT**)
 
-opn@5.5.0 (MIT) - https://github.com/sindresorhus/opn
+[open@7.0.3](https://github.com/sindresorhus/open
+) (**MIT**)
 
-optimize-css-assets-webpack-plugin@5.0.3 (MIT) - https://github.com/NMFR/optimize-css-assets-webpack-plugin
+[opn@5.5.0](https://github.com/sindresorhus/opn
+) (**MIT**)
 
-optionator@0.8.3 (MIT) - https://github.com/gkz/optionator
+[optimize-css-assets-webpack-plugin@5.0.3](https://github.com/NMFR/optimize-css-assets-webpack-plugin
+) (**MIT**)
 
-original@1.0.2 (MIT) - https://github.com/unshiftio/original
+[optionator@0.8.3](https://github.com/gkz/optionator
+) (**MIT**)
 
-os-browserify@0.3.0 (MIT) - https://github.com/CoderPuppy/os-browserify
+[original@1.0.2](https://github.com/unshiftio/original
+) (**MIT**)
 
-os-homedir@1.0.2 (MIT) - https://github.com/sindresorhus/os-homedir
+[os-browserify@0.3.0](https://github.com/CoderPuppy/os-browserify
+) (**MIT**)
 
-os-locale@1.4.0 (MIT) - https://github.com/sindresorhus/os-locale
+[os-homedir@1.0.2](https://github.com/sindresorhus/os-homedir
+) (**MIT**)
 
-os-locale@3.1.0 (MIT) - https://github.com/sindresorhus/os-locale
+[os-locale@1.4.0](https://github.com/sindresorhus/os-locale
+) (**MIT**)
 
-os-tmpdir@1.0.2 (MIT) - https://github.com/sindresorhus/os-tmpdir
+[os-locale@3.1.0](https://github.com/sindresorhus/os-locale
+) (**MIT**)
 
-osenv@0.1.5 (ISC) - https://github.com/npm/osenv
+[os-tmpdir@1.0.2](https://github.com/sindresorhus/os-tmpdir
+) (**MIT**)
 
-p-defer@1.0.0 (MIT) - https://github.com/sindresorhus/p-defer
+[osenv@0.1.5](https://github.com/npm/osenv
+) (**ISC**)
 
-p-each-series@1.0.0 (MIT) - https://github.com/sindresorhus/p-each-series
+[p-defer@1.0.0](https://github.com/sindresorhus/p-defer
+) (**MIT**)
 
-p-finally@1.0.0 (MIT) - https://github.com/sindresorhus/p-finally
+[p-each-series@1.0.0](https://github.com/sindresorhus/p-each-series
+) (**MIT**)
 
-p-is-promise@2.1.0 (MIT) - https://github.com/sindresorhus/p-is-promise
+[p-finally@1.0.0](https://github.com/sindresorhus/p-finally
+) (**MIT**)
 
-p-limit@1.3.0 (MIT) - https://github.com/sindresorhus/p-limit
+[p-is-promise@2.1.0](https://github.com/sindresorhus/p-is-promise
+) (**MIT**)
 
-p-limit@2.2.2 (MIT) - https://github.com/sindresorhus/p-limit
+[p-limit@1.3.0](https://github.com/sindresorhus/p-limit
+) (**MIT**)
 
-p-locate@2.0.0 (MIT) - https://github.com/sindresorhus/p-locate
+[p-limit@2.2.2](https://github.com/sindresorhus/p-limit
+) (**MIT**)
 
-p-locate@3.0.0 (MIT) - https://github.com/sindresorhus/p-locate
+[p-locate@2.0.0](https://github.com/sindresorhus/p-locate
+) (**MIT**)
 
-p-locate@4.1.0 (MIT) - https://github.com/sindresorhus/p-locate
+[p-locate@3.0.0](https://github.com/sindresorhus/p-locate
+) (**MIT**)
 
-p-map@2.1.0 (MIT) - https://github.com/sindresorhus/p-map
+[p-locate@4.1.0](https://github.com/sindresorhus/p-locate
+) (**MIT**)
 
-p-map@3.0.0 (MIT) - https://github.com/sindresorhus/p-map
+[p-map@2.1.0](https://github.com/sindresorhus/p-map
+) (**MIT**)
 
-p-reduce@1.0.0 (MIT) - https://github.com/sindresorhus/p-reduce
+[p-map@3.0.0](https://github.com/sindresorhus/p-map
+) (**MIT**)
 
-p-retry@3.0.1 (MIT) - https://github.com/sindresorhus/p-retry
+[p-reduce@1.0.0](https://github.com/sindresorhus/p-reduce
+) (**MIT**)
 
-p-try@1.0.0 (MIT) - https://github.com/sindresorhus/p-try
+[p-retry@3.0.1](https://github.com/sindresorhus/p-retry
+) (**MIT**)
 
-p-try@2.2.0 (MIT) - https://github.com/sindresorhus/p-try
+[p-try@1.0.0](https://github.com/sindresorhus/p-try
+) (**MIT**)
 
-pako@1.0.11 ((MIT AND Zlib)) - https://github.com/nodeca/pako
+[p-try@2.2.0](https://github.com/sindresorhus/p-try
+) (**MIT**)
 
-parallel-transform@1.2.0 (MIT) - https://github.com/mafintosh/parallel-transform
+[pako@1.0.11](https://github.com/nodeca/pako
+) (**(MIT AND Zlib)**)
 
-param-case@3.0.3 (MIT) - https://github.com/blakeembrey/change-case
+[parallel-transform@1.2.0](https://github.com/mafintosh/parallel-transform
+) (**MIT**)
 
-parent-module@1.0.1 (MIT) - https://github.com/sindresorhus/parent-module
+[param-case@3.0.3](https://github.com/blakeembrey/change-case
+) (**MIT**)
 
-parse-asn1@5.1.5 (ISC) - https://github.com/crypto-browserify/parse-asn1
+[parent-module@1.0.1](https://github.com/sindresorhus/parent-module
+) (**MIT**)
 
-parse-json@2.2.0 (MIT) - https://github.com/sindresorhus/parse-json
+[parse-asn1@5.1.5](https://github.com/crypto-browserify/parse-asn1
+) (**ISC**)
 
-parse-json@4.0.0 (MIT) - https://github.com/sindresorhus/parse-json
+[parse-json@2.2.0](https://github.com/sindresorhus/parse-json
+) (**MIT**)
 
-parse-json@5.0.0 (MIT) - https://github.com/sindresorhus/parse-json
+[parse-json@4.0.0](https://github.com/sindresorhus/parse-json
+) (**MIT**)
 
-parse5@3.0.3 (MIT) - https://github.com/inikulin/parse5
+[parse-json@5.0.0](https://github.com/sindresorhus/parse-json
+) (**MIT**)
 
-parse5@4.0.0 (MIT) - https://github.com/inikulin/parse5
+[parse5@3.0.3](https://github.com/inikulin/parse5
+) (**MIT**)
 
-parse5@5.1.0 (MIT) - https://github.com/inikulin/parse5
+[parse5@4.0.0](https://github.com/inikulin/parse5
+) (**MIT**)
 
-parseurl@1.3.3 (MIT) - https://github.com/pillarjs/parseurl
+[parse5@5.1.0](https://github.com/inikulin/parse5
+) (**MIT**)
 
-pascal-case@3.1.1 (MIT) - https://github.com/blakeembrey/change-case
+[parseurl@1.3.3](https://github.com/pillarjs/parseurl
+) (**MIT**)
 
-pascalcase@0.1.1 (MIT) - https://github.com/jonschlinkert/pascalcase
+[pascal-case@3.1.1](https://github.com/blakeembrey/change-case
+) (**MIT**)
 
-path-browserify@0.0.1 (MIT) - https://github.com/substack/path-browserify
+[pascalcase@0.1.1](https://github.com/jonschlinkert/pascalcase
+) (**MIT**)
 
-path-dirname@1.0.2 (MIT) - https://github.com/es128/path-dirname
+[path-browserify@0.0.1](https://github.com/substack/path-browserify
+) (**MIT**)
 
-path-exists@2.1.0 (MIT) - https://github.com/sindresorhus/path-exists
+[path-dirname@1.0.2](https://github.com/es128/path-dirname
+) (**MIT**)
 
-path-exists@3.0.0 (MIT) - https://github.com/sindresorhus/path-exists
+[path-exists@2.1.0](https://github.com/sindresorhus/path-exists
+) (**MIT**)
 
-path-exists@4.0.0 (MIT) - https://github.com/sindresorhus/path-exists
+[path-exists@3.0.0](https://github.com/sindresorhus/path-exists
+) (**MIT**)
 
-path-is-absolute@1.0.1 (MIT) - https://github.com/sindresorhus/path-is-absolute
+[path-exists@4.0.0](https://github.com/sindresorhus/path-exists
+) (**MIT**)
 
-path-is-inside@1.0.2 ((WTFPL OR MIT)) - https://github.com/domenic/path-is-inside
+[path-is-absolute@1.0.1](https://github.com/sindresorhus/path-is-absolute
+) (**MIT**)
 
-path-key@2.0.1 (MIT) - https://github.com/sindresorhus/path-key
+[path-is-inside@1.0.2](https://github.com/domenic/path-is-inside
+) (**(WTFPL OR MIT)**)
 
-path-key@3.1.1 (MIT) - https://github.com/sindresorhus/path-key
+[path-key@2.0.1](https://github.com/sindresorhus/path-key
+) (**MIT**)
 
-path-parse@1.0.6 (MIT) - https://github.com/jbgutierrez/path-parse
+[path-key@3.1.1](https://github.com/sindresorhus/path-key
+) (**MIT**)
 
-path-to-regexp@0.1.7 (MIT) - https://github.com/component/path-to-regexp
+[path-parse@1.0.6](https://github.com/jbgutierrez/path-parse
+) (**MIT**)
 
-path-to-regexp@1.8.0 (MIT) - https://github.com/pillarjs/path-to-regexp
+[path-to-regexp@0.1.7](https://github.com/component/path-to-regexp
+) (**MIT**)
 
-path-type@1.1.0 (MIT) - https://github.com/sindresorhus/path-type
+[path-to-regexp@1.8.0](https://github.com/pillarjs/path-to-regexp
+) (**MIT**)
 
-path-type@2.0.0 (MIT) - https://github.com/sindresorhus/path-type
+[path-type@1.1.0](https://github.com/sindresorhus/path-type
+) (**MIT**)
 
-path-type@3.0.0 (MIT) - https://github.com/sindresorhus/path-type
+[path-type@2.0.0](https://github.com/sindresorhus/path-type
+) (**MIT**)
 
-path-type@4.0.0 (MIT) - https://github.com/sindresorhus/path-type
+[path-type@3.0.0](https://github.com/sindresorhus/path-type
+) (**MIT**)
 
-pbf@3.2.1 (BSD-3-Clause) - https://github.com/mapbox/pbf
+[path-type@4.0.0](https://github.com/sindresorhus/path-type
+) (**MIT**)
 
-pbkdf2@3.0.17 (MIT) - https://github.com/crypto-browserify/pbkdf2
+[pbf@3.2.1](https://github.com/mapbox/pbf
+) (**BSD-3-Clause**)
 
-performance-now@2.1.0 (MIT) - https://github.com/braveg1rl/performance-now
+[pbkdf2@3.0.17](https://github.com/crypto-browserify/pbkdf2
+) (**MIT**)
 
-picomatch@2.2.1 (MIT) - https://github.com/micromatch/picomatch
+[performance-now@2.1.0](https://github.com/braveg1rl/performance-now
+) (**MIT**)
 
-pify@2.3.0 (MIT) - https://github.com/sindresorhus/pify
+[picomatch@2.2.1](https://github.com/micromatch/picomatch
+) (**MIT**)
 
-pify@3.0.0 (MIT) - https://github.com/sindresorhus/pify
+[pify@2.3.0](https://github.com/sindresorhus/pify
+) (**MIT**)
 
-pify@4.0.1 (MIT) - https://github.com/sindresorhus/pify
+[pify@3.0.0](https://github.com/sindresorhus/pify
+) (**MIT**)
 
-pinkie-promise@2.0.1 (MIT) - https://github.com/floatdrop/pinkie-promise
+[pify@4.0.1](https://github.com/sindresorhus/pify
+) (**MIT**)
 
-pinkie@2.0.4 (MIT) - https://github.com/floatdrop/pinkie
+[pinkie-promise@2.0.1](https://github.com/floatdrop/pinkie-promise
+) (**MIT**)
 
-pirates@4.0.1 (MIT) - https://github.com/ariporad/pirates
+[pinkie@2.0.4](https://github.com/floatdrop/pinkie
+) (**MIT**)
 
-pkg-dir@1.0.0 (MIT) - https://github.com/sindresorhus/pkg-dir
+[pirates@4.0.1](https://github.com/ariporad/pirates
+) (**MIT**)
 
-pkg-dir@2.0.0 (MIT) - https://github.com/sindresorhus/pkg-dir
+[pkg-dir@1.0.0](https://github.com/sindresorhus/pkg-dir
+) (**MIT**)
 
-pkg-dir@3.0.0 (MIT) - https://github.com/sindresorhus/pkg-dir
+[pkg-dir@2.0.0](https://github.com/sindresorhus/pkg-dir
+) (**MIT**)
 
-pkg-dir@4.2.0 (MIT) - https://github.com/sindresorhus/pkg-dir
+[pkg-dir@3.0.0](https://github.com/sindresorhus/pkg-dir
+) (**MIT**)
 
-pkg-up@3.1.0 (MIT) - https://github.com/sindresorhus/pkg-up
+[pkg-dir@4.2.0](https://github.com/sindresorhus/pkg-dir
+) (**MIT**)
 
-pn@1.1.0 (MIT) - https://github.com/cscott/node-pn
+[pkg-up@3.1.0](https://github.com/sindresorhus/pkg-up
+) (**MIT**)
 
-pnp-webpack-plugin@1.6.0 (MIT) - https://github.com/arcanis/pnp-webpack-plugin
+[pn@1.1.0](https://github.com/cscott/node-pn
+) (**MIT**)
 
-popper.js@1.16.1 (MIT) - https://github.com/FezVrasta/popper.js
+[pnp-webpack-plugin@1.6.0](https://github.com/arcanis/pnp-webpack-plugin
+) (**MIT**)
 
-portfinder@1.0.25 (MIT) - https://github.com/indexzero/node-portfinder
+[popper.js@1.16.1](https://github.com/FezVrasta/popper.js
+) (**MIT**)
 
-posix-character-classes@0.1.1 (MIT) - https://github.com/jonschlinkert/posix-character-classes
+[portfinder@1.0.25](https://github.com/indexzero/node-portfinder
+) (**MIT**)
 
-postcss-attribute-case-insensitive@4.0.2 (MIT) - https://github.com/Semigradsky/postcss-attribute-case-insensitive
+[posix-character-classes@0.1.1](https://github.com/jonschlinkert/posix-character-classes
+) (**MIT**)
 
-postcss-browser-comments@3.0.0 (CC0-1.0) - https://github.com/csstools/postcss-browser-comments
+[postcss-attribute-case-insensitive@4.0.2](https://github.com/Semigradsky/postcss-attribute-case-insensitive
+) (**MIT**)
 
-postcss-calc@7.0.2 (MIT) - https://github.com/postcss/postcss-calc
+[postcss-browser-comments@3.0.0](https://github.com/csstools/postcss-browser-comments
+) (**CC0-1.0**)
 
-postcss-color-functional-notation@2.0.1 (CC0-1.0) - https://github.com/jonathantneal/postcss-color-functional-notation
+[postcss-calc@7.0.2](https://github.com/postcss/postcss-calc
+) (**MIT**)
 
-postcss-color-gray@5.0.0 (ISC) - https://github.com/postcss/postcss-color-gray
+[postcss-color-functional-notation@2.0.1](https://github.com/jonathantneal/postcss-color-functional-notation
+) (**CC0-1.0**)
 
-postcss-color-hex-alpha@5.0.3 (MIT) - https://github.com/postcss/postcss-color-hex-alpha
+[postcss-color-gray@5.0.0](https://github.com/postcss/postcss-color-gray
+) (**ISC**)
 
-postcss-color-mod-function@3.0.3 (CC0-1.0) - https://github.com/jonathantneal/postcss-color-mod-function
+[postcss-color-hex-alpha@5.0.3](https://github.com/postcss/postcss-color-hex-alpha
+) (**MIT**)
 
-postcss-color-rebeccapurple@4.0.1 (MIT) - https://github.com/postcss/postcss-color-rebeccapurple
+[postcss-color-mod-function@3.0.3](https://github.com/jonathantneal/postcss-color-mod-function
+) (**CC0-1.0**)
 
-postcss-colormin@4.0.3 (MIT) - https://github.com/cssnano/cssnano
+[postcss-color-rebeccapurple@4.0.1](https://github.com/postcss/postcss-color-rebeccapurple
+) (**MIT**)
 
-postcss-convert-values@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-colormin@4.0.3](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-custom-media@7.0.8 (MIT) - https://github.com/postcss/postcss-custom-media
+[postcss-convert-values@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-custom-properties@8.0.11 (MIT) - https://github.com/postcss/postcss-custom-properties
+[postcss-custom-media@7.0.8](https://github.com/postcss/postcss-custom-media
+) (**MIT**)
 
-postcss-custom-selectors@5.1.2 (MIT) - https://github.com/postcss/postcss-custom-selectors
+[postcss-custom-properties@8.0.11](https://github.com/postcss/postcss-custom-properties
+) (**MIT**)
 
-postcss-dir-pseudo-class@5.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-dir-pseudo-class
+[postcss-custom-selectors@5.1.2](https://github.com/postcss/postcss-custom-selectors
+) (**MIT**)
 
-postcss-discard-comments@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-dir-pseudo-class@5.0.0](https://github.com/jonathantneal/postcss-dir-pseudo-class
+) (**CC0-1.0**)
 
-postcss-discard-duplicates@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-discard-comments@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-discard-empty@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-discard-duplicates@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-discard-overridden@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-discard-empty@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-double-position-gradients@1.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-double-position-gradients
+[postcss-discard-overridden@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-env-function@2.0.2 (CC0-1.0) - https://github.com/jonathantneal/postcss-env-function
+[postcss-double-position-gradients@1.0.0](https://github.com/jonathantneal/postcss-double-position-gradients
+) (**CC0-1.0**)
 
-postcss-flexbugs-fixes@4.1.0 (MIT) - https://github.com/luisrudge/postcss-flexbugs-fixes
+[postcss-env-function@2.0.2](https://github.com/jonathantneal/postcss-env-function
+) (**CC0-1.0**)
 
-postcss-focus-visible@4.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-focus-visible
+[postcss-flexbugs-fixes@4.1.0](https://github.com/luisrudge/postcss-flexbugs-fixes
+) (**MIT**)
 
-postcss-focus-within@3.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-focus-within
+[postcss-focus-visible@4.0.0](https://github.com/jonathantneal/postcss-focus-visible
+) (**CC0-1.0**)
 
-postcss-font-variant@4.0.0 (MIT) - https://github.com/postcss/postcss-font-variant
+[postcss-focus-within@3.0.0](https://github.com/jonathantneal/postcss-focus-within
+) (**CC0-1.0**)
 
-postcss-gap-properties@2.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-gap-properties
+[postcss-font-variant@4.0.0](https://github.com/postcss/postcss-font-variant
+) (**MIT**)
 
-postcss-image-set-function@3.0.1 (CC0-1.0) - https://github.com/jonathantneal/postcss-image-set-function
+[postcss-gap-properties@2.0.0](https://github.com/jonathantneal/postcss-gap-properties
+) (**CC0-1.0**)
 
-postcss-initial@3.0.2 (MIT) - https://github.com/maximkoretskiy/postcss-initial
+[postcss-image-set-function@3.0.1](https://github.com/jonathantneal/postcss-image-set-function
+) (**CC0-1.0**)
 
-postcss-lab-function@2.0.1 (CC0-1.0) - https://github.com/jonathantneal/postcss-lab-function
+[postcss-initial@3.0.2](https://github.com/maximkoretskiy/postcss-initial
+) (**MIT**)
 
-postcss-load-config@2.1.0 (MIT) - https://github.com/michael-ciniawsky/postcss-load-config
+[postcss-lab-function@2.0.1](https://github.com/jonathantneal/postcss-lab-function
+) (**CC0-1.0**)
 
-postcss-loader@3.0.0 (MIT) - https://github.com/postcss/postcss-loader
+[postcss-load-config@2.1.0](https://github.com/michael-ciniawsky/postcss-load-config
+) (**MIT**)
 
-postcss-logical@3.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-logical
+[postcss-loader@3.0.0](https://github.com/postcss/postcss-loader
+) (**MIT**)
 
-postcss-media-minmax@4.0.0 (MIT) - https://github.com/postcss/postcss-media-minmax
+[postcss-logical@3.0.0](https://github.com/jonathantneal/postcss-logical
+) (**CC0-1.0**)
 
-postcss-merge-longhand@4.0.11 (MIT) - https://github.com/cssnano/cssnano
+[postcss-media-minmax@4.0.0](https://github.com/postcss/postcss-media-minmax
+) (**MIT**)
 
-postcss-merge-rules@4.0.3 (MIT) - https://github.com/cssnano/cssnano
+[postcss-merge-longhand@4.0.11](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-minify-font-values@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-merge-rules@4.0.3](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-minify-gradients@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-minify-font-values@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-minify-params@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-minify-gradients@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-minify-selectors@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-minify-params@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-modules-extract-imports@2.0.0 (ISC) - https://github.com/css-modules/postcss-modules-extract-imports
+[postcss-minify-selectors@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-modules-local-by-default@3.0.2 (MIT) - https://github.com/css-modules/postcss-modules-local-by-default
+[postcss-modules-extract-imports@2.0.0](https://github.com/css-modules/postcss-modules-extract-imports
+) (**ISC**)
 
-postcss-modules-scope@2.1.1 (ISC) - https://github.com/css-modules/postcss-modules-scope
+[postcss-modules-local-by-default@3.0.2](https://github.com/css-modules/postcss-modules-local-by-default
+) (**MIT**)
 
-postcss-modules-values@3.0.0 (ISC) - https://github.com/css-modules/postcss-modules-values
+[postcss-modules-scope@2.1.1](https://github.com/css-modules/postcss-modules-scope
+) (**ISC**)
 
-postcss-nesting@7.0.1 (CC0-1.0) - https://github.com/jonathantneal/postcss-nesting
+[postcss-modules-values@3.0.0](https://github.com/css-modules/postcss-modules-values
+) (**ISC**)
 
-postcss-normalize-charset@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-nesting@7.0.1](https://github.com/jonathantneal/postcss-nesting
+) (**CC0-1.0**)
 
-postcss-normalize-display-values@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-charset@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-positions@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-display-values@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-repeat-style@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-positions@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-string@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-repeat-style@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-timing-functions@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-string@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-unicode@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-timing-functions@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-url@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-unicode@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize-whitespace@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize-url@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-normalize@8.0.1 (CC0-1.0) - https://github.com/csstools/postcss-normalize
+[postcss-normalize-whitespace@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-ordered-values@4.1.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-normalize@8.0.1](https://github.com/csstools/postcss-normalize
+) (**CC0-1.0**)
 
-postcss-overflow-shorthand@2.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-overflow-shorthand
+[postcss-ordered-values@4.1.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-page-break@2.0.0 (MIT) - https://github.com/shrpne/postcss-page-break
+[postcss-overflow-shorthand@2.0.0](https://github.com/jonathantneal/postcss-overflow-shorthand
+) (**CC0-1.0**)
 
-postcss-place@4.0.1 (CC0-1.0) - https://github.com/jonathantneal/postcss-place
+[postcss-page-break@2.0.0](https://github.com/shrpne/postcss-page-break
+) (**MIT**)
 
-postcss-preset-env@6.7.0 (CC0-1.0) - https://github.com/csstools/postcss-preset-env
+[postcss-place@4.0.1](https://github.com/jonathantneal/postcss-place
+) (**CC0-1.0**)
 
-postcss-pseudo-class-any-link@6.0.0 (CC0-1.0) - https://github.com/jonathantneal/postcss-pseudo-class-any-link
+[postcss-preset-env@6.7.0](https://github.com/csstools/postcss-preset-env
+) (**CC0-1.0**)
 
-postcss-reduce-initial@4.0.3 (MIT) - https://github.com/cssnano/cssnano
+[postcss-pseudo-class-any-link@6.0.0](https://github.com/jonathantneal/postcss-pseudo-class-any-link
+) (**CC0-1.0**)
 
-postcss-reduce-transforms@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-reduce-initial@4.0.3](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-replace-overflow-wrap@3.0.0 (MIT) - https://github.com/MattDiMu/postcss-replace-overflow-wrap
+[postcss-reduce-transforms@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-safe-parser@4.0.1 (MIT) - https://github.com/postcss/postcss-safe-parser
+[postcss-replace-overflow-wrap@3.0.0](https://github.com/MattDiMu/postcss-replace-overflow-wrap
+) (**MIT**)
 
-postcss-selector-matches@4.0.0 (MIT) - https://github.com/postcss/postcss-selector-matches
+[postcss-safe-parser@4.0.1](https://github.com/postcss/postcss-safe-parser
+) (**MIT**)
 
-postcss-selector-not@4.0.0 (MIT) - https://github.com/postcss/postcss-selector-not
+[postcss-selector-matches@4.0.0](https://github.com/postcss/postcss-selector-matches
+) (**MIT**)
 
-postcss-selector-parser@3.1.2 (MIT) - https://github.com/postcss/postcss-selector-parser
+[postcss-selector-not@4.0.0](https://github.com/postcss/postcss-selector-not
+) (**MIT**)
 
-postcss-selector-parser@5.0.0 (MIT) - https://github.com/postcss/postcss-selector-parser
+[postcss-selector-parser@3.1.2](https://github.com/postcss/postcss-selector-parser
+) (**MIT**)
 
-postcss-selector-parser@6.0.2 (MIT) - https://github.com/postcss/postcss-selector-parser
+[postcss-selector-parser@5.0.0](https://github.com/postcss/postcss-selector-parser
+) (**MIT**)
 
-postcss-svgo@4.0.2 (MIT) - https://github.com/cssnano/cssnano
+[postcss-selector-parser@6.0.2](https://github.com/postcss/postcss-selector-parser
+) (**MIT**)
 
-postcss-unique-selectors@4.0.1 (MIT) - https://github.com/cssnano/cssnano
+[postcss-svgo@4.0.2](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-value-parser@3.3.1 (MIT) - https://github.com/TrySound/postcss-value-parser
+[postcss-unique-selectors@4.0.1](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-postcss-value-parser@4.0.3 (MIT) - https://github.com/TrySound/postcss-value-parser
+[postcss-value-parser@3.3.1](https://github.com/TrySound/postcss-value-parser
+) (**MIT**)
 
-postcss-values-parser@2.0.1 (MIT) - https://github.com/lesshint/postcss-values-parser
+[postcss-value-parser@4.0.3](https://github.com/TrySound/postcss-value-parser
+) (**MIT**)
 
-postcss@7.0.21 (MIT) - https://github.com/postcss/postcss
+[postcss-values-parser@2.0.1](https://github.com/lesshint/postcss-values-parser
+) (**MIT**)
 
-postcss@7.0.27 (MIT) - https://github.com/postcss/postcss
+[postcss@7.0.21](https://github.com/postcss/postcss
+) (**MIT**)
 
-potpack@1.0.1 (ISC) - https://github.com/mapbox/potpack
+[postcss@7.0.27](https://github.com/postcss/postcss
+) (**MIT**)
 
-prelude-ls@1.1.2 (MIT) - https://github.com/gkz/prelude-ls
+[potpack@1.0.1](https://github.com/mapbox/potpack
+) (**ISC**)
 
-prepend-http@1.0.4 (MIT) - https://github.com/sindresorhus/prepend-http
+[prelude-ls@1.1.2](https://github.com/gkz/prelude-ls
+) (**MIT**)
 
-prettier-linter-helpers@1.0.0 (MIT) - https://github.com/prettier/prettier-linter-helpers
+[prepend-http@1.0.4](https://github.com/sindresorhus/prepend-http
+) (**MIT**)
 
-prettier@1.19.1 (MIT) - https://github.com/prettier/prettier
+[prettier-linter-helpers@1.0.0](https://github.com/prettier/prettier-linter-helpers
+) (**MIT**)
 
-pretty-bytes@5.3.0 (MIT) - https://github.com/sindresorhus/pretty-bytes
+[prettier@1.19.1](https://github.com/prettier/prettier
+) (**MIT**)
 
-pretty-error@2.1.1 (MIT) - https://github.com/AriaMinaei/pretty-error
+[pretty-bytes@5.3.0](https://github.com/sindresorhus/pretty-bytes
+) (**MIT**)
 
-pretty-format@24.9.0 (MIT) - https://github.com/facebook/jest
+[pretty-error@2.1.1](https://github.com/AriaMinaei/pretty-error
+) (**MIT**)
 
-pretty-format@25.1.0 (MIT) - https://github.com/facebook/jest
+[pretty-format@24.9.0](https://github.com/facebook/jest
+) (**MIT**)
 
-private@0.1.8 (MIT) - https://github.com/benjamn/private
+[pretty-format@25.1.0](https://github.com/facebook/jest
+) (**MIT**)
 
-process-nextick-args@2.0.1 (MIT) - https://github.com/calvinmetcalf/process-nextick-args
+[private@0.1.8](https://github.com/benjamn/private
+) (**MIT**)
 
-process@0.11.10 (MIT) - https://github.com/shtylman/node-process
+[process-nextick-args@2.0.1](https://github.com/calvinmetcalf/process-nextick-args
+) (**MIT**)
 
-progress@2.0.3 (MIT) - https://github.com/visionmedia/node-progress
+[process@0.11.10](https://github.com/shtylman/node-process
+) (**MIT**)
 
-promise-inflight@1.0.1 (ISC) - https://github.com/iarna/promise-inflight
+[progress@2.0.3](https://github.com/visionmedia/node-progress
+) (**MIT**)
 
-promise@7.3.1 (MIT) - https://github.com/then/promise
+[promise-inflight@1.0.1](https://github.com/iarna/promise-inflight
+) (**ISC**)
 
-promise@8.1.0 (MIT) - https://github.com/then/promise
+[promise@7.3.1](https://github.com/then/promise
+) (**MIT**)
 
-prompts@2.3.1 (MIT) - https://github.com/terkelg/prompts
+[promise@8.1.0](https://github.com/then/promise
+) (**MIT**)
 
-prop-types-exact@1.2.0 (MIT) - https://github.com/airbnb/prop-types-exact
+[prompts@2.3.1](https://github.com/terkelg/prompts
+) (**MIT**)
 
-prop-types@15.7.2 (MIT) - https://github.com/facebook/prop-types
+[prop-types-exact@1.2.0](https://github.com/airbnb/prop-types-exact
+) (**MIT**)
 
-protocol-buffers-schema@3.4.0 (MIT) - https://github.com/mafintosh/protocol-buffers-schema
+[prop-types@15.7.2](https://github.com/facebook/prop-types
+) (**MIT**)
 
-proxy-addr@2.0.6 (MIT) - https://github.com/jshttp/proxy-addr
+[protocol-buffers-schema@3.4.0](https://github.com/mafintosh/protocol-buffers-schema
+) (**MIT**)
 
-prr@1.0.1 (MIT) - https://github.com/rvagg/prr
+[proxy-addr@2.0.6](https://github.com/jshttp/proxy-addr
+) (**MIT**)
 
-pseudomap@1.0.2 (ISC) - https://github.com/isaacs/pseudomap
+[prr@1.0.1](https://github.com/rvagg/prr
+) (**MIT**)
 
-psl@1.7.0 (MIT) - https://github.com/lupomontero/psl
+[pseudomap@1.0.2](https://github.com/isaacs/pseudomap
+) (**ISC**)
 
-public-encrypt@4.0.3 (MIT) - https://github.com/crypto-browserify/publicEncrypt
+[psl@1.7.0](https://github.com/lupomontero/psl
+) (**MIT**)
 
-pump@2.0.1 (MIT) - https://github.com/mafintosh/pump
+[public-encrypt@4.0.3](https://github.com/crypto-browserify/publicEncrypt
+) (**MIT**)
 
-pump@3.0.0 (MIT) - https://github.com/mafintosh/pump
+[pump@2.0.1](https://github.com/mafintosh/pump
+) (**MIT**)
 
-pumpify@1.5.1 (MIT) - https://github.com/mafintosh/pumpify
+[pump@3.0.0](https://github.com/mafintosh/pump
+) (**MIT**)
 
-punycode@1.3.2 (MIT) - https://github.com/bestiejs/punycode.js
+[pumpify@1.5.1](https://github.com/mafintosh/pumpify
+) (**MIT**)
 
-punycode@1.4.1 (MIT) - https://github.com/bestiejs/punycode.js
+[punycode@1.3.2](https://github.com/bestiejs/punycode.js
+) (**MIT**)
 
-punycode@2.1.1 (MIT) - https://github.com/bestiejs/punycode.js
+[punycode@1.4.1](https://github.com/bestiejs/punycode.js
+) (**MIT**)
 
-q@1.5.1 (MIT) - https://github.com/kriskowal/q
+[punycode@2.1.1](https://github.com/bestiejs/punycode.js
+) (**MIT**)
 
-qs@6.5.2 (BSD-3-Clause) - https://github.com/ljharb/qs
+[q@1.5.1](https://github.com/kriskowal/q
+) (**MIT**)
 
-qs@6.7.0 (BSD-3-Clause) - https://github.com/ljharb/qs
+[qs@6.5.2](https://github.com/ljharb/qs
+) (**BSD-3-Clause**)
 
-query-string@4.3.4 (MIT) - https://github.com/sindresorhus/query-string
+[qs@6.7.0](https://github.com/ljharb/qs
+) (**BSD-3-Clause**)
 
-querystring-es3@0.2.1 (MIT) - https://github.com/mike-spainhower/querystring
+[query-string@4.3.4](https://github.com/sindresorhus/query-string
+) (**MIT**)
 
-querystring@0.2.0 (MIT) - https://github.com/Gozala/querystring
+[querystring-es3@0.2.1](https://github.com/mike-spainhower/querystring
+) (**MIT**)
 
-querystringify@2.1.1 (MIT) - https://github.com/unshiftio/querystringify
+[querystring@0.2.0](https://github.com/Gozala/querystring
+) (**MIT**)
 
-quickselect@2.0.0 (ISC) - 
+[querystringify@2.1.1](https://github.com/unshiftio/querystringify
+) (**MIT**)
 
-raf@3.4.1 (MIT) - https://github.com/chrisdickinson/raf
+[quickselect@2.0.0](
+) (**ISC**)
 
-railroad-diagrams@1.0.0 (CC0-1.0) - https://github.com/tabatkins/railroad-diagrams
+[raf@3.4.1](https://github.com/chrisdickinson/raf
+) (**MIT**)
 
-randexp@0.4.6 (MIT) - https://github.com/fent/randexp.js
+[railroad-diagrams@1.0.0](https://github.com/tabatkins/railroad-diagrams
+) (**CC0-1.0**)
 
-randombytes@2.1.0 (MIT) - https://github.com/crypto-browserify/randombytes
+[randexp@0.4.6](https://github.com/fent/randexp.js
+) (**MIT**)
 
-randomfill@1.0.4 (MIT) - https://github.com/crypto-browserify/randomfill
+[randombytes@2.1.0](https://github.com/crypto-browserify/randombytes
+) (**MIT**)
 
-range-parser@1.2.1 (MIT) - https://github.com/jshttp/range-parser
+[randomfill@1.0.4](https://github.com/crypto-browserify/randomfill
+) (**MIT**)
 
-raw-body@2.4.0 (MIT) - https://github.com/stream-utils/raw-body
+[range-parser@1.2.1](https://github.com/jshttp/range-parser
+) (**MIT**)
 
-rc@1.2.8 ((BSD-2-Clause OR MIT OR Apache-2.0)) - https://github.com/dominictarr/rc
+[raw-body@2.4.0](https://github.com/stream-utils/raw-body
+) (**MIT**)
 
-react-app-polyfill@1.0.6 (MIT) - https://github.com/facebook/create-react-app
+[rc@1.2.8](https://github.com/dominictarr/rc
+) (**(BSD-2-Clause OR MIT OR Apache-2.0)**)
 
-react-dev-utils@10.2.0 (MIT) - https://github.com/facebook/create-react-app
+[react-app-polyfill@1.0.6](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-react-dom@16.13.0 (MIT) - https://github.com/facebook/react
+[react-dev-utils@10.2.0](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-react-error-overlay@6.0.6 (MIT) - https://github.com/facebook/create-react-app
+[react-dom@16.13.0](https://github.com/facebook/react
+) (**MIT**)
 
-react-facebook-login@4.1.1 (MIT) - https://github.com/keppelen/react-facebook-login
+[react-error-overlay@6.0.6](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-react-html-parser@2.0.2 (MIT) - https://github.com/wrakky/react-html-parser
+[react-facebook-login@4.1.1](https://github.com/keppelen/react-facebook-login
+) (**MIT**)
 
-react-is@16.13.0 (MIT) - https://github.com/facebook/react
+[react-html-parser@2.0.2](https://github.com/wrakky/react-html-parser
+) (**MIT**)
 
-react-map-gl@5.2.3 (MIT) - https://github.com/uber/react-map-gl
+[react-is@16.13.0](https://github.com/facebook/react
+) (**MIT**)
 
-react-redux@7.2.0 (MIT) - https://github.com/reduxjs/react-redux
+[react-map-gl@5.2.3](https://github.com/uber/react-map-gl
+) (**MIT**)
 
-react-router-dom@5.1.2 (MIT) - https://github.com/ReactTraining/react-router
+[react-redux@7.2.0](https://github.com/reduxjs/react-redux
+) (**MIT**)
 
-react-router@5.1.2 (MIT) - https://github.com/ReactTraining/react-router
+[react-router-dom@5.1.2](https://github.com/ReactTraining/react-router
+) (**MIT**)
 
-react-scripts@3.4.0 (MIT) - https://github.com/facebook/create-react-app
+[react-router@5.1.2](https://github.com/ReactTraining/react-router
+) (**MIT**)
 
-react-share@4.0.1 (MIT) - https://github.com/nygardk/react-share
+[react-scripts@3.4.0](https://github.com/facebook/create-react-app
+) (**MIT**)
 
-react-sortable-hoc@1.11.0 (MIT) - https://github.com/clauderic/react-sortable-hoc
+[react-share@4.0.1](https://github.com/nygardk/react-share
+) (**MIT**)
 
-react-splitter-layout@4.0.0 (MIT) - https://github.com/zesik/react-splitter-layout
+[react-sortable-hoc@1.11.0](https://github.com/clauderic/react-sortable-hoc
+) (**MIT**)
 
-react-test-renderer@16.13.0 (MIT) - https://github.com/facebook/react
+[react-splitter-layout@4.0.0](https://github.com/zesik/react-splitter-layout
+) (**MIT**)
 
-react-transition-group@4.3.0 (BSD-3-Clause) - https://github.com/reactjs/react-transition-group
+[react-test-renderer@16.13.0](https://github.com/facebook/react
+) (**MIT**)
 
-react-virtualized-auto-sizer@1.0.2 (MIT) - https://github.com/bvaughn/react-virtualized-auto-sizer
+[react-transition-group@4.3.0](https://github.com/reactjs/react-transition-group
+) (**BSD-3-Clause**)
 
-react@16.13.0 (MIT) - https://github.com/facebook/react
+[react-virtualized-auto-sizer@1.0.2](https://github.com/bvaughn/react-virtualized-auto-sizer
+) (**MIT**)
 
-read-pkg-up@1.0.1 (MIT) - https://github.com/sindresorhus/read-pkg-up
+[react@16.13.0](https://github.com/facebook/react
+) (**MIT**)
 
-read-pkg-up@2.0.0 (MIT) - https://github.com/sindresorhus/read-pkg-up
+[read-pkg-up@1.0.1](https://github.com/sindresorhus/read-pkg-up
+) (**MIT**)
 
-read-pkg-up@4.0.0 (MIT) - https://github.com/sindresorhus/read-pkg-up
+[read-pkg-up@2.0.0](https://github.com/sindresorhus/read-pkg-up
+) (**MIT**)
 
-read-pkg@1.1.0 (MIT) - https://github.com/sindresorhus/read-pkg
+[read-pkg-up@4.0.0](https://github.com/sindresorhus/read-pkg-up
+) (**MIT**)
 
-read-pkg@2.0.0 (MIT) - https://github.com/sindresorhus/read-pkg
+[read-pkg@1.1.0](https://github.com/sindresorhus/read-pkg
+) (**MIT**)
 
-read-pkg@3.0.0 (MIT) - https://github.com/sindresorhus/read-pkg
+[read-pkg@2.0.0](https://github.com/sindresorhus/read-pkg
+) (**MIT**)
 
-readable-stream@2.3.6 (MIT) - https://github.com/nodejs/readable-stream
+[read-pkg@3.0.0](https://github.com/sindresorhus/read-pkg
+) (**MIT**)
 
-readable-stream@2.3.7 (MIT) - https://github.com/nodejs/readable-stream
+[readable-stream@2.3.6](https://github.com/nodejs/readable-stream
+) (**MIT**)
 
-readable-stream@3.6.0 (MIT) - https://github.com/nodejs/readable-stream
+[readable-stream@2.3.7](https://github.com/nodejs/readable-stream
+) (**MIT**)
 
-readdirp@2.2.1 (MIT) - https://github.com/paulmillr/readdirp
+[readable-stream@3.6.0](https://github.com/nodejs/readable-stream
+) (**MIT**)
 
-readdirp@3.3.0 (MIT) - https://github.com/paulmillr/readdirp
+[readdirp@2.2.1](https://github.com/paulmillr/readdirp
+) (**MIT**)
 
-realpath-native@1.1.0 (MIT) - https://github.com/SimenB/realpath-native
+[readdirp@3.3.0](https://github.com/paulmillr/readdirp
+) (**MIT**)
 
-recursive-readdir@2.2.2 (MIT) - https://github.com/jergason/recursive-readdir
+[realpath-native@1.1.0](https://github.com/SimenB/realpath-native
+) (**MIT**)
 
-redent@1.0.0 (MIT) - https://github.com/sindresorhus/redent
+[recursive-readdir@2.2.2](https://github.com/jergason/recursive-readdir
+) (**MIT**)
 
-redent@3.0.0 (MIT) - https://github.com/sindresorhus/redent
+[redent@1.0.0](https://github.com/sindresorhus/redent
+) (**MIT**)
 
-redeyed@0.4.4 (MIT) - https://github.com/thlorenz/redeyed
+[redent@3.0.0](https://github.com/sindresorhus/redent
+) (**MIT**)
 
-redux-devtools-extension@2.13.8 (MIT) - https://github.com/zalmoxisus/redux-devtools-extension
+[redeyed@0.4.4](https://github.com/thlorenz/redeyed
+) (**MIT**)
 
-redux-persist@6.0.0 (MIT) - https://github.com/rt2zz/redux-persist
+[redux-devtools-extension@2.13.8](https://github.com/zalmoxisus/redux-devtools-extension
+) (**MIT**)
 
-redux-thunk@2.3.0 (MIT) - https://github.com/reduxjs/redux-thunk
+[redux-persist@6.0.0](https://github.com/rt2zz/redux-persist
+) (**MIT**)
 
-redux@4.0.5 (MIT) - https://github.com/reduxjs/redux
+[redux-thunk@2.3.0](https://github.com/reduxjs/redux-thunk
+) (**MIT**)
 
-reflect.ownkeys@0.2.0 (MIT) - https://github.com/glenjamin/Reflect.ownKeys
+[redux@4.0.5](https://github.com/reduxjs/redux
+) (**MIT**)
 
-regenerate-unicode-properties@8.1.0 (MIT) - https://github.com/mathiasbynens/regenerate-unicode-properties
+[reflect.ownkeys@0.2.0](https://github.com/glenjamin/Reflect.ownKeys
+) (**MIT**)
 
-regenerate@1.4.0 (MIT) - https://github.com/mathiasbynens/regenerate
+[regenerate-unicode-properties@8.1.0](https://github.com/mathiasbynens/regenerate-unicode-properties
+) (**MIT**)
 
-regenerator-runtime@0.11.1 (MIT) - https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+[regenerate@1.4.0](https://github.com/mathiasbynens/regenerate
+) (**MIT**)
 
-regenerator-runtime@0.13.4 (MIT) - https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+[regenerator-runtime@0.11.1](https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+) (**MIT**)
 
-regenerator-transform@0.14.2 (MIT) - https://github.com/facebook/regenerator/tree/master/packages/regenerator-transform
+[regenerator-runtime@0.13.4](https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime
+) (**MIT**)
 
-regex-not@1.0.2 (MIT) - https://github.com/jonschlinkert/regex-not
+[regenerator-transform@0.14.2](https://github.com/facebook/regenerator/tree/master/packages/regenerator-transform
+) (**MIT**)
 
-regex-parser@2.2.10 (MIT) - https://github.com/IonicaBizau/regex-parser.js
+[regex-not@1.0.2](https://github.com/jonschlinkert/regex-not
+) (**MIT**)
 
-regexp.prototype.flags@1.3.0 (MIT) - https://github.com/es-shims/RegExp.prototype.flags
+[regex-parser@2.2.10](https://github.com/IonicaBizau/regex-parser.js
+) (**MIT**)
 
-regexpp@2.0.1 (MIT) - https://github.com/mysticatea/regexpp
+[regexp.prototype.flags@1.3.0](https://github.com/es-shims/RegExp.prototype.flags
+) (**MIT**)
 
-regexpp@3.0.0 (MIT) - https://github.com/mysticatea/regexpp
+[regexpp@2.0.1](https://github.com/mysticatea/regexpp
+) (**MIT**)
 
-regexpu-core@4.6.0 (MIT) - https://github.com/mathiasbynens/regexpu-core
+[regexpp@3.0.0](https://github.com/mysticatea/regexpp
+) (**MIT**)
 
-regjsgen@0.5.1 (MIT) - https://github.com/bnjmnt4n/regjsgen
+[regexpu-core@4.6.0](https://github.com/mathiasbynens/regexpu-core
+) (**MIT**)
 
-regjsparser@0.6.4 (BSD-2-Clause) - https://github.com/jviereck/regjsparser
+[regjsgen@0.5.1](https://github.com/bnjmnt4n/regjsgen
+) (**MIT**)
 
-relateurl@0.2.7 (MIT) - https://github.com/stevenvachon/relateurl
+[regjsparser@0.6.4](https://github.com/jviereck/regjsparser
+) (**BSD-2-Clause**)
 
-remove-trailing-separator@1.1.0 (ISC) - https://github.com/darsain/remove-trailing-separator
+[relateurl@0.2.7](https://github.com/stevenvachon/relateurl
+) (**MIT**)
 
-renderkid@2.0.3 (MIT) - https://github.com/AriaMinaei/RenderKid
+[remove-trailing-separator@1.1.0](https://github.com/darsain/remove-trailing-separator
+) (**ISC**)
 
-repeat-element@1.1.3 (MIT) - https://github.com/jonschlinkert/repeat-element
+[renderkid@2.0.3](https://github.com/AriaMinaei/RenderKid
+) (**MIT**)
 
-repeat-string@1.6.1 (MIT) - https://github.com/jonschlinkert/repeat-string
+[repeat-element@1.1.3](https://github.com/jonschlinkert/repeat-element
+) (**MIT**)
 
-repeating@2.0.1 (MIT) - https://github.com/sindresorhus/repeating
+[repeat-string@1.6.1](https://github.com/jonschlinkert/repeat-string
+) (**MIT**)
 
-request-promise-core@1.1.3 (ISC) - https://github.com/request/promise-core
+[repeating@2.0.1](https://github.com/sindresorhus/repeating
+) (**MIT**)
 
-request-promise-native@1.0.8 (ISC) - https://github.com/request/request-promise-native
+[request-promise-core@1.1.3](https://github.com/request/promise-core
+) (**ISC**)
 
-request@2.88.2 (Apache-2.0) - https://github.com/request/request
+[request-promise-native@1.0.8](https://github.com/request/request-promise-native
+) (**ISC**)
 
-require-directory@2.1.1 (MIT) - https://github.com/troygoode/node-require-directory
+[request@2.88.2](https://github.com/request/request
+) (**Apache-2.0**)
 
-require-main-filename@1.0.1 (ISC) - https://github.com/yargs/require-main-filename
+[require-directory@2.1.1](https://github.com/troygoode/node-require-directory
+) (**MIT**)
 
-require-main-filename@2.0.0 (ISC) - https://github.com/yargs/require-main-filename
+[require-main-filename@1.0.1](https://github.com/yargs/require-main-filename
+) (**ISC**)
 
-requires-port@1.0.0 (MIT) - https://github.com/unshiftio/requires-port
+[require-main-filename@2.0.0](https://github.com/yargs/require-main-filename
+) (**ISC**)
 
-resolve-cwd@2.0.0 (MIT) - https://github.com/sindresorhus/resolve-cwd
+[requires-port@1.0.0](https://github.com/unshiftio/requires-port
+) (**MIT**)
 
-resolve-from@3.0.0 (MIT) - https://github.com/sindresorhus/resolve-from
+[resolve-cwd@2.0.0](https://github.com/sindresorhus/resolve-cwd
+) (**MIT**)
 
-resolve-from@4.0.0 (MIT) - https://github.com/sindresorhus/resolve-from
+[resolve-from@3.0.0](https://github.com/sindresorhus/resolve-from
+) (**MIT**)
 
-resolve-pathname@3.0.0 (MIT) - https://github.com/mjackson/resolve-pathname
+[resolve-from@4.0.0](https://github.com/sindresorhus/resolve-from
+) (**MIT**)
 
-resolve-protobuf-schema@2.1.0 (MIT) - https://github.com/mafintosh/resolve-protobuf-schema
+[resolve-pathname@3.0.0](https://github.com/mjackson/resolve-pathname
+) (**MIT**)
 
-resolve-url-loader@3.1.1 (MIT) - https://github.com/bholloway/resolve-url-loader
+[resolve-protobuf-schema@2.1.0](https://github.com/mafintosh/resolve-protobuf-schema
+) (**MIT**)
 
-resolve-url@0.2.1 (MIT) - https://github.com/lydell/resolve-url
+[resolve-url-loader@3.1.1](https://github.com/bholloway/resolve-url-loader
+) (**MIT**)
 
-resolve@1.1.7 (MIT) - https://github.com/substack/node-resolve
+[resolve-url@0.2.1](https://github.com/lydell/resolve-url
+) (**MIT**)
 
-resolve@1.15.0 (MIT) - https://github.com/browserify/resolve
+[resolve@1.1.7](https://github.com/substack/node-resolve
+) (**MIT**)
 
-resolve@1.15.1 (MIT) - https://github.com/browserify/resolve
+[resolve@1.15.0](https://github.com/browserify/resolve
+) (**MIT**)
 
-restore-cursor@3.1.0 (MIT) - https://github.com/sindresorhus/restore-cursor
+[resolve@1.15.1](https://github.com/browserify/resolve
+) (**MIT**)
 
-ret@0.1.15 (MIT) - https://github.com/fent/ret.js
+[restore-cursor@3.1.0](https://github.com/sindresorhus/restore-cursor
+) (**MIT**)
 
-retry@0.12.0 (MIT) - https://github.com/tim-kos/node-retry
+[ret@0.1.15](https://github.com/fent/ret.js
+) (**MIT**)
 
-rework-visit@1.0.0 (MIT) - 
+[retry@0.12.0](https://github.com/tim-kos/node-retry
+) (**MIT**)
 
-rework@1.0.1 (MIT*) - https://github.com/reworkcss/rework
+[rework-visit@1.0.0](
+) (**MIT**)
 
-rgb-regex@1.0.1 (MIT) - https://github.com/regexps/rgb-regex
+[rework@1.0.1](https://github.com/reworkcss/rework
+) (**MIT***)
 
-rgba-regex@1.0.0 (MIT) - https://github.com/johnotander/rgba-regex
+[rgb-regex@1.0.1](https://github.com/regexps/rgb-regex
+) (**MIT**)
 
-rifm@0.7.0 (MIT) - https://github.com/istarkov/rifm
+[rgba-regex@1.0.0](https://github.com/johnotander/rgba-regex
+) (**MIT**)
 
-rimraf@2.6.3 (ISC) - https://github.com/isaacs/rimraf
+[rifm@0.7.0](https://github.com/istarkov/rifm
+) (**MIT**)
 
-rimraf@2.7.1 (ISC) - https://github.com/isaacs/rimraf
+[rimraf@2.6.3](https://github.com/isaacs/rimraf
+) (**ISC**)
 
-ripemd160@2.0.2 (MIT) - https://github.com/crypto-browserify/ripemd160
+[rimraf@2.7.1](https://github.com/isaacs/rimraf
+) (**ISC**)
 
-rst-selector-parser@2.2.3 (BSD-3-Clause) - https://github.com/aweary/rst-selector-parser
+[ripemd160@2.0.2](https://github.com/crypto-browserify/ripemd160
+) (**MIT**)
 
-rsvp@4.8.5 (MIT) - https://github.com/tildeio/rsvp.js
+[rst-selector-parser@2.2.3](https://github.com/aweary/rst-selector-parser
+) (**BSD-3-Clause**)
 
-run-async@2.4.0 (MIT) - https://github.com/SBoudrias/run-async
+[rsvp@4.8.5](https://github.com/tildeio/rsvp.js
+) (**MIT**)
 
-run-queue@1.0.3 (ISC) - https://github.com/iarna/run-queue
+[run-async@2.4.0](https://github.com/SBoudrias/run-async
+) (**MIT**)
 
-rw@1.3.3 (BSD-3-Clause) - https://github.com/mbostock/rw
+[run-queue@1.0.3](https://github.com/iarna/run-queue
+) (**ISC**)
 
-rxjs@6.5.4 (Apache-2.0) - https://github.com/reactivex/rxjs
+[rw@1.3.3](https://github.com/mbostock/rw
+) (**BSD-3-Clause**)
 
-safe-buffer@5.1.2 (MIT) - https://github.com/feross/safe-buffer
+[rxjs@6.5.4](https://github.com/reactivex/rxjs
+) (**Apache-2.0**)
 
-safe-buffer@5.2.0 (MIT) - https://github.com/feross/safe-buffer
+[safe-buffer@5.1.2](https://github.com/feross/safe-buffer
+) (**MIT**)
 
-safe-regex@1.1.0 (MIT) - https://github.com/substack/safe-regex
+[safe-buffer@5.2.0](https://github.com/feross/safe-buffer
+) (**MIT**)
 
-safer-buffer@2.1.2 (MIT) - https://github.com/ChALkeR/safer-buffer
+[safe-regex@1.1.0](https://github.com/substack/safe-regex
+) (**MIT**)
 
-sane@4.1.0 (MIT) - https://github.com/amasad/sane
+[safer-buffer@2.1.2](https://github.com/ChALkeR/safer-buffer
+) (**MIT**)
 
-sanitize.css@10.0.0 (CC0-1.0) - https://github.com/csstools/sanitize.css
+[sane@4.1.0](https://github.com/amasad/sane
+) (**MIT**)
 
-sass-graph@2.2.4 (MIT) - https://github.com/xzyfer/sass-graph
+[sanitize.css@10.0.0](https://github.com/csstools/sanitize.css
+) (**CC0-1.0**)
 
-sass-loader@8.0.2 (MIT) - https://github.com/webpack-contrib/sass-loader
+[sass-graph@2.2.4](https://github.com/xzyfer/sass-graph
+) (**MIT**)
 
-sax@1.2.4 (ISC) - https://github.com/isaacs/sax-js
+[sass-loader@8.0.2](https://github.com/webpack-contrib/sass-loader
+) (**MIT**)
 
-saxes@3.1.11 (ISC) - https://github.com/lddubeau/saxes
+[sax@1.2.4](https://github.com/isaacs/sax-js
+) (**ISC**)
 
-scheduler@0.19.0 (MIT) - https://github.com/facebook/react
+[saxes@3.1.11](https://github.com/lddubeau/saxes
+) (**ISC**)
 
-schema-utils@1.0.0 (MIT) - https://github.com/webpack-contrib/schema-utils
+[scheduler@0.19.0](https://github.com/facebook/react
+) (**MIT**)
 
-schema-utils@2.6.5 (MIT) - https://github.com/webpack/schema-utils
+[schema-utils@1.0.0](https://github.com/webpack-contrib/schema-utils
+) (**MIT**)
 
-scss-tokenizer@0.2.3 (MIT) - https://github.com/sasstools/scss-tokenizer
+[schema-utils@2.6.5](https://github.com/webpack/schema-utils
+) (**MIT**)
 
-select-hose@2.0.0 (MIT) - https://github.com/indutny/select-hose
+[scss-tokenizer@0.2.3](https://github.com/sasstools/scss-tokenizer
+) (**MIT**)
 
-selfsigned@1.10.7 (MIT) - https://github.com/jfromaniello/selfsigned
+[select-hose@2.0.0](https://github.com/indutny/select-hose
+) (**MIT**)
 
-semver@5.3.0 (ISC) - https://github.com/npm/node-semver
+[selfsigned@1.10.7](https://github.com/jfromaniello/selfsigned
+) (**MIT**)
 
-semver@5.7.1 (ISC) - https://github.com/npm/node-semver
+[semver@5.3.0](https://github.com/npm/node-semver
+) (**ISC**)
 
-semver@6.3.0 (ISC) - https://github.com/npm/node-semver
+[semver@5.7.1](https://github.com/npm/node-semver
+) (**ISC**)
 
-semver@7.0.0 (ISC) - https://github.com/npm/node-semver
+[semver@6.3.0](https://github.com/npm/node-semver
+) (**ISC**)
 
-send@0.17.1 (MIT) - https://github.com/pillarjs/send
+[semver@7.0.0](https://github.com/npm/node-semver
+) (**ISC**)
 
-serialize-javascript@2.1.2 (BSD-3-Clause) - https://github.com/yahoo/serialize-javascript
+[send@0.17.1](https://github.com/pillarjs/send
+) (**MIT**)
 
-serve-index@1.9.1 (MIT) - https://github.com/expressjs/serve-index
+[serialize-javascript@2.1.2](https://github.com/yahoo/serialize-javascript
+) (**BSD-3-Clause**)
 
-serve-static@1.14.1 (MIT) - https://github.com/expressjs/serve-static
+[serve-index@1.9.1](https://github.com/expressjs/serve-index
+) (**MIT**)
 
-set-blocking@2.0.0 (ISC) - https://github.com/yargs/set-blocking
+[serve-static@1.14.1](https://github.com/expressjs/serve-static
+) (**MIT**)
 
-set-value@2.0.1 (MIT) - https://github.com/jonschlinkert/set-value
+[set-blocking@2.0.0](https://github.com/yargs/set-blocking
+) (**ISC**)
 
-setimmediate@1.0.5 (MIT) - https://github.com/YuzuJS/setImmediate
+[set-value@2.0.1](https://github.com/jonschlinkert/set-value
+) (**MIT**)
 
-setprototypeof@1.1.0 (ISC) - https://github.com/wesleytodd/setprototypeof
+[setimmediate@1.0.5](https://github.com/YuzuJS/setImmediate
+) (**MIT**)
 
-setprototypeof@1.1.1 (ISC) - https://github.com/wesleytodd/setprototypeof
+[setprototypeof@1.1.0](https://github.com/wesleytodd/setprototypeof
+) (**ISC**)
 
-sha.js@2.4.11 ((MIT AND BSD-3-Clause)) - https://github.com/crypto-browserify/sha.js
+[setprototypeof@1.1.1](https://github.com/wesleytodd/setprototypeof
+) (**ISC**)
 
-shallow-clone@0.1.2 (MIT) - https://github.com/jonschlinkert/shallow-clone
+[sha.js@2.4.11](https://github.com/crypto-browserify/sha.js
+) (**(MIT AND BSD-3-Clause)**)
 
-shallow-clone@3.0.1 (MIT) - https://github.com/jonschlinkert/shallow-clone
+[shallow-clone@0.1.2](https://github.com/jonschlinkert/shallow-clone
+) (**MIT**)
 
-sharkdown@0.1.1 (BSD-2-Clause) - 
+[shallow-clone@3.0.1](https://github.com/jonschlinkert/shallow-clone
+) (**MIT**)
 
-shebang-command@1.2.0 (MIT) - https://github.com/kevva/shebang-command
+[sharkdown@0.1.1](
+) (**BSD-2-Clause**)
 
-shebang-command@2.0.0 (MIT) - https://github.com/kevva/shebang-command
+[shebang-command@1.2.0](https://github.com/kevva/shebang-command
+) (**MIT**)
 
-shebang-regex@1.0.0 (MIT) - https://github.com/sindresorhus/shebang-regex
+[shebang-command@2.0.0](https://github.com/kevva/shebang-command
+) (**MIT**)
 
-shebang-regex@3.0.0 (MIT) - https://github.com/sindresorhus/shebang-regex
+[shebang-regex@1.0.0](https://github.com/sindresorhus/shebang-regex
+) (**MIT**)
 
-shell-quote@1.7.2 (MIT) - https://github.com/substack/node-shell-quote
+[shebang-regex@3.0.0](https://github.com/sindresorhus/shebang-regex
+) (**MIT**)
 
-shellwords@0.1.1 (MIT) - https://github.com/jimmycuadra/shellwords
+[shell-quote@1.7.2](https://github.com/substack/node-shell-quote
+) (**MIT**)
 
-side-channel@1.0.2 (MIT) - https://github.com/ljharb/side-channel
+[shellwords@0.1.1](https://github.com/jimmycuadra/shellwords
+) (**MIT**)
 
-signal-exit@3.0.2 (ISC) - https://github.com/tapjs/signal-exit
+[side-channel@1.0.2](https://github.com/ljharb/side-channel
+) (**MIT**)
 
-simple-swizzle@0.2.2 (MIT) - https://github.com/qix-/node-simple-swizzle
+[signal-exit@3.0.2](https://github.com/tapjs/signal-exit
+) (**ISC**)
 
-sisteransi@1.0.4 (MIT) - https://github.com/terkelg/sisteransi
+[simple-swizzle@0.2.2](https://github.com/qix-/node-simple-swizzle
+) (**MIT**)
 
-slash@1.0.0 (MIT) - https://github.com/sindresorhus/slash
+[sisteransi@1.0.4](https://github.com/terkelg/sisteransi
+) (**MIT**)
 
-slash@2.0.0 (MIT) - https://github.com/sindresorhus/slash
+[slash@1.0.0](https://github.com/sindresorhus/slash
+) (**MIT**)
 
-slash@3.0.0 (MIT) - https://github.com/sindresorhus/slash
+[slash@2.0.0](https://github.com/sindresorhus/slash
+) (**MIT**)
 
-slice-ansi@2.1.0 (MIT) - https://github.com/chalk/slice-ansi
+[slash@3.0.0](https://github.com/sindresorhus/slash
+) (**MIT**)
 
-snapdragon-node@2.1.1 (MIT) - https://github.com/jonschlinkert/snapdragon-node
+[slice-ansi@2.1.0](https://github.com/chalk/slice-ansi
+) (**MIT**)
 
-snapdragon-util@3.0.1 (MIT) - https://github.com/jonschlinkert/snapdragon-util
+[snapdragon-node@2.1.1](https://github.com/jonschlinkert/snapdragon-node
+) (**MIT**)
 
-snapdragon@0.8.2 (MIT) - https://github.com/jonschlinkert/snapdragon
+[snapdragon-util@3.0.1](https://github.com/jonschlinkert/snapdragon-util
+) (**MIT**)
 
-sockjs-client@1.4.0 (MIT) - https://github.com/sockjs/sockjs-client
+[snapdragon@0.8.2](https://github.com/jonschlinkert/snapdragon
+) (**MIT**)
 
-sockjs@0.3.19 (MIT) - https://github.com/sockjs/sockjs-node
+[sockjs-client@1.4.0](https://github.com/sockjs/sockjs-client
+) (**MIT**)
 
-sort-keys@1.1.2 (MIT) - https://github.com/sindresorhus/sort-keys
+[sockjs@0.3.19](https://github.com/sockjs/sockjs-node
+) (**MIT**)
 
-source-list-map@2.0.1 (MIT) - https://github.com/webpack/source-list-map
+[sort-keys@1.1.2](https://github.com/sindresorhus/sort-keys
+) (**MIT**)
 
-source-map-resolve@0.5.3 (MIT) - https://github.com/lydell/source-map-resolve
+[source-list-map@2.0.1](https://github.com/webpack/source-list-map
+) (**MIT**)
 
-source-map-support@0.5.16 (MIT) - https://github.com/evanw/node-source-map-support
+[source-map-resolve@0.5.3](https://github.com/lydell/source-map-resolve
+) (**MIT**)
 
-source-map-url@0.4.0 (MIT) - https://github.com/lydell/source-map-url
+[source-map-support@0.5.16](https://github.com/evanw/node-source-map-support
+) (**MIT**)
 
-source-map@0.4.4 (BSD-3-Clause) - https://github.com/mozilla/source-map
+[source-map-url@0.4.0](https://github.com/lydell/source-map-url
+) (**MIT**)
 
-source-map@0.5.7 (BSD-3-Clause) - https://github.com/mozilla/source-map
+[source-map@0.4.4](https://github.com/mozilla/source-map
+) (**BSD-3-Clause**)
 
-source-map@0.6.1 (BSD-3-Clause) - https://github.com/mozilla/source-map
+[source-map@0.5.7](https://github.com/mozilla/source-map
+) (**BSD-3-Clause**)
 
-spdx-correct@3.1.0 (Apache-2.0) - https://github.com/jslicense/spdx-correct.js
+[source-map@0.6.1](https://github.com/mozilla/source-map
+) (**BSD-3-Clause**)
 
-spdx-exceptions@2.2.0 (CC-BY-3.0) - https://github.com/kemitchell/spdx-exceptions.json
+[spdx-correct@3.1.0](https://github.com/jslicense/spdx-correct.js
+) (**Apache-2.0**)
 
-spdx-expression-parse@3.0.0 (MIT) - https://github.com/jslicense/spdx-expression-parse.js
+[spdx-exceptions@2.2.0](https://github.com/kemitchell/spdx-exceptions.json
+) (**CC-BY-3.0**)
 
-spdx-license-ids@3.0.5 (CC0-1.0) - https://github.com/shinnn/spdx-license-ids
+[spdx-expression-parse@3.0.0](https://github.com/jslicense/spdx-expression-parse.js
+) (**MIT**)
 
-spdy-transport@3.0.0 (MIT) - https://github.com/spdy-http2/spdy-transport
+[spdx-license-ids@3.0.5](https://github.com/shinnn/spdx-license-ids
+) (**CC0-1.0**)
 
-spdy@4.0.1 (MIT) - https://github.com/indutny/node-spdy
+[spdy-transport@3.0.0](https://github.com/spdy-http2/spdy-transport
+) (**MIT**)
 
-split-string@3.1.0 (MIT) - https://github.com/jonschlinkert/split-string
+[spdy@4.0.1](https://github.com/indutny/node-spdy
+) (**MIT**)
 
-split@0.2.10 (MIT*) - https://github.com/dominictarr/split
+[split-string@3.1.0](https://github.com/jonschlinkert/split-string
+) (**MIT**)
 
-sprintf-js@1.0.3 (BSD-3-Clause) - https://github.com/alexei/sprintf.js
+[split@0.2.10](https://github.com/dominictarr/split
+) (**MIT***)
 
-sshpk@1.16.1 (MIT) - https://github.com/joyent/node-sshpk
+[sprintf-js@1.0.3](https://github.com/alexei/sprintf.js
+) (**BSD-3-Clause**)
 
-ssri@6.0.1 (ISC) - https://github.com/zkat/ssri
+[sshpk@1.16.1](https://github.com/joyent/node-sshpk
+) (**MIT**)
 
-ssri@7.1.0 (ISC) - https://github.com/npm/ssri
+[ssri@6.0.1](https://github.com/zkat/ssri
+) (**ISC**)
 
-stable@0.1.8 (MIT) - https://github.com/Two-Screen/stable
+[ssri@7.1.0](https://github.com/npm/ssri
+) (**ISC**)
 
-stack-utils@1.0.2 (MIT) - https://github.com/tapjs/stack-utils
+[stable@0.1.8](https://github.com/Two-Screen/stable
+) (**MIT**)
 
-static-extend@0.1.2 (MIT) - https://github.com/jonschlinkert/static-extend
+[stack-utils@1.0.2](https://github.com/tapjs/stack-utils
+) (**MIT**)
 
-statuses@1.5.0 (MIT) - https://github.com/jshttp/statuses
+[static-extend@0.1.2](https://github.com/jonschlinkert/static-extend
+) (**MIT**)
 
-stdout-stream@1.4.1 (MIT) - https://github.com/mafintosh/stdout-stream
+[statuses@1.5.0](https://github.com/jshttp/statuses
+) (**MIT**)
 
-stealthy-require@1.1.1 (ISC) - https://github.com/analog-nico/stealthy-require
+[stdout-stream@1.4.1](https://github.com/mafintosh/stdout-stream
+) (**MIT**)
 
-stream-browserify@2.0.2 (MIT) - https://github.com/browserify/stream-browserify
+[stealthy-require@1.1.1](https://github.com/analog-nico/stealthy-require
+) (**ISC**)
 
-stream-each@1.2.3 (MIT) - https://github.com/mafintosh/stream-each
+[stream-browserify@2.0.2](https://github.com/browserify/stream-browserify
+) (**MIT**)
 
-stream-http@2.8.3 (MIT) - https://github.com/jhiesey/stream-http
+[stream-each@1.2.3](https://github.com/mafintosh/stream-each
+) (**MIT**)
 
-stream-shift@1.0.1 (MIT) - https://github.com/mafintosh/stream-shift
+[stream-http@2.8.3](https://github.com/jhiesey/stream-http
+) (**MIT**)
 
-strict-uri-encode@1.1.0 (MIT) - https://github.com/kevva/strict-uri-encode
+[stream-shift@1.0.1](https://github.com/mafintosh/stream-shift
+) (**MIT**)
 
-string-length@2.0.0 (MIT) - https://github.com/sindresorhus/string-length
+[strict-uri-encode@1.1.0](https://github.com/kevva/strict-uri-encode
+) (**MIT**)
 
-string-length@3.1.0 (MIT) - https://github.com/sindresorhus/string-length
+[string-length@2.0.0](https://github.com/sindresorhus/string-length
+) (**MIT**)
 
-string-width@1.0.2 (MIT) - https://github.com/sindresorhus/string-width
+[string-length@3.1.0](https://github.com/sindresorhus/string-length
+) (**MIT**)
 
-string-width@2.1.1 (MIT) - https://github.com/sindresorhus/string-width
+[string-width@1.0.2](https://github.com/sindresorhus/string-width
+) (**MIT**)
 
-string-width@3.1.0 (MIT) - https://github.com/sindresorhus/string-width
+[string-width@2.1.1](https://github.com/sindresorhus/string-width
+) (**MIT**)
 
-string-width@4.2.0 (MIT) - https://github.com/sindresorhus/string-width
+[string-width@3.1.0](https://github.com/sindresorhus/string-width
+) (**MIT**)
 
-string.prototype.matchall@4.0.2 (MIT) - https://github.com/ljharb/String.prototype.matchAll
+[string-width@4.2.0](https://github.com/sindresorhus/string-width
+) (**MIT**)
 
-string.prototype.trim@1.2.1 (MIT) - https://github.com/es-shims/String.prototype.trim
+[string.prototype.matchall@4.0.2](https://github.com/ljharb/String.prototype.matchAll
+) (**MIT**)
 
-string.prototype.trimleft@2.1.1 (MIT) - https://github.com/es-shims/String.prototype.trimLeft
+[string.prototype.trim@1.2.1](https://github.com/es-shims/String.prototype.trim
+) (**MIT**)
 
-string.prototype.trimright@2.1.1 (MIT) - https://github.com/es-shims/String.prototype.trimRight
+[string.prototype.trimleft@2.1.1](https://github.com/es-shims/String.prototype.trimLeft
+) (**MIT**)
 
-string_decoder@1.1.1 (MIT) - https://github.com/nodejs/string_decoder
+[string.prototype.trimright@2.1.1](https://github.com/es-shims/String.prototype.trimRight
+) (**MIT**)
 
-string_decoder@1.3.0 (MIT) - https://github.com/nodejs/string_decoder
+[string_decoder@1.1.1](https://github.com/nodejs/string_decoder
+) (**MIT**)
 
-stringify-object@3.3.0 (BSD-2-Clause) - https://github.com/yeoman/stringify-object
+[string_decoder@1.3.0](https://github.com/nodejs/string_decoder
+) (**MIT**)
 
-strip-ansi@3.0.1 (MIT) - https://github.com/chalk/strip-ansi
+[stringify-object@3.3.0](https://github.com/yeoman/stringify-object
+) (**BSD-2-Clause**)
 
-strip-ansi@4.0.0 (MIT) - https://github.com/chalk/strip-ansi
+[strip-ansi@3.0.1](https://github.com/chalk/strip-ansi
+) (**MIT**)
 
-strip-ansi@5.2.0 (MIT) - https://github.com/chalk/strip-ansi
+[strip-ansi@4.0.0](https://github.com/chalk/strip-ansi
+) (**MIT**)
 
-strip-ansi@6.0.0 (MIT) - https://github.com/chalk/strip-ansi
+[strip-ansi@5.2.0](https://github.com/chalk/strip-ansi
+) (**MIT**)
 
-strip-bom@2.0.0 (MIT) - https://github.com/sindresorhus/strip-bom
+[strip-ansi@6.0.0](https://github.com/chalk/strip-ansi
+) (**MIT**)
 
-strip-bom@3.0.0 (MIT) - https://github.com/sindresorhus/strip-bom
+[strip-bom@2.0.0](https://github.com/sindresorhus/strip-bom
+) (**MIT**)
 
-strip-comments@1.0.2 (MIT) - https://github.com/jonschlinkert/strip-comments
+[strip-bom@3.0.0](https://github.com/sindresorhus/strip-bom
+) (**MIT**)
 
-strip-eof@1.0.0 (MIT) - https://github.com/sindresorhus/strip-eof
+[strip-comments@1.0.2](https://github.com/jonschlinkert/strip-comments
+) (**MIT**)
 
-strip-indent@1.0.1 (MIT) - https://github.com/sindresorhus/strip-indent
+[strip-eof@1.0.0](https://github.com/sindresorhus/strip-eof
+) (**MIT**)
 
-strip-indent@3.0.0 (MIT) - https://github.com/sindresorhus/strip-indent
+[strip-indent@1.0.1](https://github.com/sindresorhus/strip-indent
+) (**MIT**)
 
-strip-json-comments@2.0.1 (MIT) - https://github.com/sindresorhus/strip-json-comments
+[strip-indent@3.0.0](https://github.com/sindresorhus/strip-indent
+) (**MIT**)
 
-strip-json-comments@3.0.1 (MIT) - https://github.com/sindresorhus/strip-json-comments
+[strip-json-comments@2.0.1](https://github.com/sindresorhus/strip-json-comments
+) (**MIT**)
 
-style-loader@0.23.1 (MIT) - https://github.com/webpack-contrib/style-loader
+[strip-json-comments@3.0.1](https://github.com/sindresorhus/strip-json-comments
+) (**MIT**)
 
-stylehacks@4.0.3 (MIT) - https://github.com/cssnano/cssnano
+[style-loader@0.23.1](https://github.com/webpack-contrib/style-loader
+) (**MIT**)
 
-supercluster@7.0.0 (ISC) - https://github.com/mapbox/supercluster
+[stylehacks@4.0.3](https://github.com/cssnano/cssnano
+) (**MIT**)
 
-supports-color@2.0.0 (MIT) - https://github.com/chalk/supports-color
+[supercluster@7.0.0](https://github.com/mapbox/supercluster
+) (**ISC**)
 
-supports-color@5.5.0 (MIT) - https://github.com/chalk/supports-color
+[supports-color@2.0.0](https://github.com/chalk/supports-color
+) (**MIT**)
 
-supports-color@6.1.0 (MIT) - https://github.com/chalk/supports-color
+[supports-color@5.5.0](https://github.com/chalk/supports-color
+) (**MIT**)
 
-supports-color@7.1.0 (MIT) - https://github.com/chalk/supports-color
+[supports-color@6.1.0](https://github.com/chalk/supports-color
+) (**MIT**)
 
-svg-parser@2.0.4 (MIT) - https://github.com/Rich-Harris/svg-parser
+[supports-color@7.1.0](https://github.com/chalk/supports-color
+) (**MIT**)
 
-svgo@1.3.2 (MIT) - https://github.com/svg/svgo
+[svg-parser@2.0.4](https://github.com/Rich-Harris/svg-parser
+) (**MIT**)
 
-symbol-observable@1.2.0 (MIT) - https://github.com/blesh/symbol-observable
+[svgo@1.3.2](https://github.com/svg/svgo
+) (**MIT**)
 
-symbol-tree@3.2.4 (MIT) - https://github.com/jsdom/js-symbol-tree
+[symbol-observable@1.2.0](https://github.com/blesh/symbol-observable
+) (**MIT**)
 
-table@5.4.6 (BSD-3-Clause) - https://github.com/gajus/table
+[symbol-tree@3.2.4](https://github.com/jsdom/js-symbol-tree
+) (**MIT**)
 
-tapable@1.1.3 (MIT) - https://github.com/webpack/tapable
+[table@5.4.6](https://github.com/gajus/table
+) (**BSD-3-Clause**)
 
-tar@2.2.2 (ISC) - https://github.com/isaacs/node-tar
+[tapable@1.1.3](https://github.com/webpack/tapable
+) (**MIT**)
 
-tar@4.4.13 (ISC) - https://github.com/npm/node-tar
+[tar@2.2.2](https://github.com/isaacs/node-tar
+) (**ISC**)
 
-terser-webpack-plugin@1.4.3 (MIT) - https://github.com/webpack-contrib/terser-webpack-plugin
+[tar@4.4.13](https://github.com/npm/node-tar
+) (**ISC**)
 
-terser-webpack-plugin@2.3.4 (MIT) - https://github.com/webpack-contrib/terser-webpack-plugin
+[terser-webpack-plugin@1.4.3](https://github.com/webpack-contrib/terser-webpack-plugin
+) (**MIT**)
 
-terser@4.6.6 (BSD-2-Clause) - https://github.com/terser/terser
+[terser-webpack-plugin@2.3.4](https://github.com/webpack-contrib/terser-webpack-plugin
+) (**MIT**)
 
-test-exclude@5.2.3 (ISC) - https://github.com/istanbuljs/istanbuljs
+[terser@4.6.6](https://github.com/terser/terser
+) (**BSD-2-Clause**)
 
-text-table@0.2.0 (MIT) - https://github.com/substack/text-table
+[test-exclude@5.2.3](https://github.com/istanbuljs/istanbuljs
+) (**ISC**)
 
-throat@4.1.0 (MIT) - https://github.com/ForbesLindesay/throat
+[text-table@0.2.0](https://github.com/substack/text-table
+) (**MIT**)
 
-through2@2.0.5 (MIT) - https://github.com/rvagg/through2
+[throat@4.1.0](https://github.com/ForbesLindesay/throat
+) (**MIT**)
 
-through@2.3.8 (MIT) - https://github.com/dominictarr/through
+[through2@2.0.5](https://github.com/rvagg/through2
+) (**MIT**)
 
-thunky@1.1.0 (MIT) - https://github.com/mafintosh/thunky
+[through@2.3.8](https://github.com/dominictarr/through
+) (**MIT**)
 
-timers-browserify@2.0.11 (MIT) - https://github.com/jryans/timers-browserify
+[thunky@1.1.0](https://github.com/mafintosh/thunky
+) (**MIT**)
 
-timsort@0.3.0 (MIT) - https://github.com/mziccard/node-timsort
+[timers-browserify@2.0.11](https://github.com/jryans/timers-browserify
+) (**MIT**)
 
-tiny-invariant@1.1.0 (MIT) - https://github.com/alexreardon/tiny-invariant
+[timsort@0.3.0](https://github.com/mziccard/node-timsort
+) (**MIT**)
 
-tiny-warning@1.0.3 (MIT) - https://github.com/alexreardon/tiny-warning
+[tiny-invariant@1.1.0](https://github.com/alexreardon/tiny-invariant
+) (**MIT**)
 
-tinyqueue@2.0.3 (ISC) - https://github.com/mourner/tinyqueue
+[tiny-warning@1.0.3](https://github.com/alexreardon/tiny-warning
+) (**MIT**)
 
-tmp@0.0.33 (MIT) - https://github.com/raszi/node-tmp
+[tinyqueue@2.0.3](https://github.com/mourner/tinyqueue
+) (**ISC**)
 
-tmpl@1.0.4 (BSD-3-Clause) - https://github.com/daaku/nodejs-tmpl
+[tmp@0.0.33](https://github.com/raszi/node-tmp
+) (**MIT**)
 
-to-arraybuffer@1.0.1 (MIT) - https://github.com/jhiesey/to-arraybuffer
+[tmpl@1.0.4](https://github.com/daaku/nodejs-tmpl
+) (**BSD-3-Clause**)
 
-to-fast-properties@2.0.0 (MIT) - https://github.com/sindresorhus/to-fast-properties
+[to-arraybuffer@1.0.1](https://github.com/jhiesey/to-arraybuffer
+) (**MIT**)
 
-to-object-path@0.3.0 (MIT) - https://github.com/jonschlinkert/to-object-path
+[to-fast-properties@2.0.0](https://github.com/sindresorhus/to-fast-properties
+) (**MIT**)
 
-to-regex-range@2.1.1 (MIT) - https://github.com/micromatch/to-regex-range
+[to-object-path@0.3.0](https://github.com/jonschlinkert/to-object-path
+) (**MIT**)
 
-to-regex-range@5.0.1 (MIT) - https://github.com/micromatch/to-regex-range
+[to-regex-range@2.1.1](https://github.com/micromatch/to-regex-range
+) (**MIT**)
 
-to-regex@3.0.2 (MIT) - https://github.com/jonschlinkert/to-regex
+[to-regex-range@5.0.1](https://github.com/micromatch/to-regex-range
+) (**MIT**)
 
-toidentifier@1.0.0 (MIT) - https://github.com/component/toidentifier
+[to-regex@3.0.2](https://github.com/jonschlinkert/to-regex
+) (**MIT**)
 
-tough-cookie@2.5.0 (BSD-3-Clause) - https://github.com/salesforce/tough-cookie
+[toidentifier@1.0.0](https://github.com/component/toidentifier
+) (**MIT**)
 
-tr46@1.0.1 (MIT) - https://github.com/Sebmaster/tr46.js
+[tough-cookie@2.5.0](https://github.com/salesforce/tough-cookie
+) (**BSD-3-Clause**)
 
-trim-newlines@1.0.0 (MIT) - https://github.com/sindresorhus/trim-newlines
+[tr46@1.0.1](https://github.com/Sebmaster/tr46.js
+) (**MIT**)
 
-true-case-path@1.0.3 (Apache-2.0) - https://github.com/barsh/true-case-path
+[trim-newlines@1.0.0](https://github.com/sindresorhus/trim-newlines
+) (**MIT**)
 
-ts-pnp@1.1.5 (MIT) - https://github.com/arcanis/ts-pnp
+[true-case-path@1.0.3](https://github.com/barsh/true-case-path
+) (**Apache-2.0**)
 
-ts-react-google-login-component@1.1.2 (MIT) - 
+[ts-pnp@1.1.5](https://github.com/arcanis/ts-pnp
+) (**MIT**)
 
-tslib@1.11.1 (Apache-2.0) - https://github.com/Microsoft/tslib
+[ts-react-google-login-component@1.1.2](
+) (**MIT**)
 
-tsutils@3.17.1 (MIT) - https://github.com/ajafff/tsutils
+[tslib@1.11.1](https://github.com/Microsoft/tslib
+) (**Apache-2.0**)
 
-tty-browserify@0.0.0 (MIT) - https://github.com/substack/tty-browserify
+[tsutils@3.17.1](https://github.com/ajafff/tsutils
+) (**MIT**)
 
-tunnel-agent@0.6.0 (Apache-2.0) - https://github.com/mikeal/tunnel-agent
+[tty-browserify@0.0.0](https://github.com/substack/tty-browserify
+) (**MIT**)
 
-tweetnacl@0.14.5 (Unlicense) - https://github.com/dchest/tweetnacl-js
+[tunnel-agent@0.6.0](https://github.com/mikeal/tunnel-agent
+) (**Apache-2.0**)
 
-type-check@0.3.2 (MIT) - https://github.com/gkz/type-check
+[tweetnacl@0.14.5](https://github.com/dchest/tweetnacl-js
+) (**Unlicense**)
 
-type-fest@0.11.0 ((MIT OR CC0-1.0)) - https://github.com/sindresorhus/type-fest
+[type-check@0.3.2](https://github.com/gkz/type-check
+) (**MIT**)
 
-type-fest@0.8.1 ((MIT OR CC0-1.0)) - https://github.com/sindresorhus/type-fest
+[type-fest@0.11.0](https://github.com/sindresorhus/type-fest
+) (**(MIT OR CC0-1.0)**)
 
-type-is@1.6.18 (MIT) - https://github.com/jshttp/type-is
+[type-fest@0.8.1](https://github.com/sindresorhus/type-fest
+) (**(MIT OR CC0-1.0)**)
 
-type@1.2.0 (ISC) - https://github.com/medikoo/type
+[type-is@1.6.18](https://github.com/jshttp/type-is
+) (**MIT**)
 
-type@2.0.0 (ISC) - https://github.com/medikoo/type
+[type@1.2.0](https://github.com/medikoo/type
+) (**ISC**)
 
-typedarray@0.0.6 (MIT) - https://github.com/substack/typedarray
+[type@2.0.0](https://github.com/medikoo/type
+) (**ISC**)
 
-typescript@3.7.5 (Apache-2.0) - https://github.com/Microsoft/TypeScript
+[typedarray@0.0.6](https://github.com/substack/typedarray
+) (**MIT**)
 
-ua-parser-js@0.7.21 (MIT) - https://github.com/faisalman/ua-parser-js
+[typescript@3.7.5](https://github.com/Microsoft/TypeScript
+) (**Apache-2.0**)
 
-unicode-canonical-property-names-ecmascript@1.0.4 (MIT) - https://github.com/mathiasbynens/unicode-canonical-property-names-ecmascript
+[ua-parser-js@0.7.21](https://github.com/faisalman/ua-parser-js
+) (**MIT**)
 
-unicode-match-property-ecmascript@1.0.4 (MIT) - https://github.com/mathiasbynens/unicode-match-property-ecmascript
+[unicode-canonical-property-names-ecmascript@1.0.4](https://github.com/mathiasbynens/unicode-canonical-property-names-ecmascript
+) (**MIT**)
 
-unicode-match-property-value-ecmascript@1.1.0 (MIT) - https://github.com/mathiasbynens/unicode-match-property-value-ecmascript
+[unicode-match-property-ecmascript@1.0.4](https://github.com/mathiasbynens/unicode-match-property-ecmascript
+) (**MIT**)
 
-unicode-property-aliases-ecmascript@1.0.5 (MIT) - https://github.com/mathiasbynens/unicode-property-aliases-ecmascript
+[unicode-match-property-value-ecmascript@1.1.0](https://github.com/mathiasbynens/unicode-match-property-value-ecmascript
+) (**MIT**)
 
-union-value@1.0.1 (MIT) - https://github.com/jonschlinkert/union-value
+[unicode-property-aliases-ecmascript@1.0.5](https://github.com/mathiasbynens/unicode-property-aliases-ecmascript
+) (**MIT**)
 
-uniq@1.0.1 (MIT) - https://github.com/mikolalysenko/uniq
+[union-value@1.0.1](https://github.com/jonschlinkert/union-value
+) (**MIT**)
 
-uniqs@2.0.0 (MIT) - https://github.com/fgnass/uniqs
+[uniq@1.0.1](https://github.com/mikolalysenko/uniq
+) (**MIT**)
 
-unique-filename@1.1.1 (ISC) - https://github.com/iarna/unique-filename
+[uniqs@2.0.0](https://github.com/fgnass/uniqs
+) (**MIT**)
 
-unique-slug@2.0.2 (ISC) - https://github.com/iarna/unique-slug
+[unique-filename@1.1.1](https://github.com/iarna/unique-filename
+) (**ISC**)
 
-universalify@0.1.2 (MIT) - https://github.com/RyanZim/universalify
+[unique-slug@2.0.2](https://github.com/iarna/unique-slug
+) (**ISC**)
 
-unpipe@1.0.0 (MIT) - https://github.com/stream-utils/unpipe
+[universalify@0.1.2](https://github.com/RyanZim/universalify
+) (**MIT**)
 
-unquote@1.1.1 (MIT) - https://github.com/lakenen/node-unquote
+[unpipe@1.0.0](https://github.com/stream-utils/unpipe
+) (**MIT**)
 
-unset-value@1.0.0 (MIT) - https://github.com/jonschlinkert/unset-value
+[unquote@1.1.1](https://github.com/lakenen/node-unquote
+) (**MIT**)
 
-upath@1.2.0 (MIT) - https://github.com/anodynos/upath
+[unset-value@1.0.0](https://github.com/jonschlinkert/unset-value
+) (**MIT**)
 
-uri-js@4.2.2 (BSD-2-Clause) - https://github.com/garycourt/uri-js
+[upath@1.2.0](https://github.com/anodynos/upath
+) (**MIT**)
 
-urix@0.1.0 (MIT) - https://github.com/lydell/urix
+[uri-js@4.2.2](https://github.com/garycourt/uri-js
+) (**BSD-2-Clause**)
 
-url-loader@2.3.0 (MIT) - https://github.com/webpack-contrib/url-loader
+[urix@0.1.0](https://github.com/lydell/urix
+) (**MIT**)
 
-url-parse@1.4.7 (MIT) - https://github.com/unshiftio/url-parse
+[url-loader@2.3.0](https://github.com/webpack-contrib/url-loader
+) (**MIT**)
 
-url@0.11.0 (MIT) - https://github.com/defunctzombie/node-url
+[url-parse@1.4.7](https://github.com/unshiftio/url-parse
+) (**MIT**)
 
-use@3.1.1 (MIT) - https://github.com/jonschlinkert/use
+[url@0.11.0](https://github.com/defunctzombie/node-url
+) (**MIT**)
 
-util-deprecate@1.0.2 (MIT) - https://github.com/TooTallNate/util-deprecate
+[use@3.1.1](https://github.com/jonschlinkert/use
+) (**MIT**)
 
-util.promisify@1.0.0 (MIT) - https://github.com/ljharb/util.promisify
+[util-deprecate@1.0.2](https://github.com/TooTallNate/util-deprecate
+) (**MIT**)
 
-util.promisify@1.0.1 (MIT) - https://github.com/ljharb/util.promisify
+[util.promisify@1.0.0](https://github.com/ljharb/util.promisify
+) (**MIT**)
 
-util@0.10.3 (MIT) - https://github.com/defunctzombie/node-util
+[util.promisify@1.0.1](https://github.com/ljharb/util.promisify
+) (**MIT**)
 
-util@0.11.1 (MIT) - https://github.com/defunctzombie/node-util
+[util@0.10.3](https://github.com/defunctzombie/node-util
+) (**MIT**)
 
-utila@0.4.0 (MIT) - https://github.com/AriaMinaei/utila
+[util@0.11.1](https://github.com/defunctzombie/node-util
+) (**MIT**)
 
-utils-merge@1.0.1 (MIT) - https://github.com/jaredhanson/utils-merge
+[utila@0.4.0](https://github.com/AriaMinaei/utila
+) (**MIT**)
 
-uuid@3.4.0 (MIT) - https://github.com/uuidjs/uuid
+[utils-merge@1.0.1](https://github.com/jaredhanson/utils-merge
+) (**MIT**)
 
-uuid@7.0.2 (MIT) - https://github.com/uuidjs/uuid
+[uuid@3.4.0](https://github.com/uuidjs/uuid
+) (**MIT**)
 
-uuidv4@6.0.6 (MIT) - https://github.com/thenativeweb/uuidv4
+[uuid@7.0.2](https://github.com/uuidjs/uuid
+) (**MIT**)
 
-v8-compile-cache@2.1.0 (MIT) - https://github.com/zertosh/v8-compile-cache
+[uuidv4@6.0.6](https://github.com/thenativeweb/uuidv4
+) (**MIT**)
 
-validate-npm-package-license@3.0.4 (Apache-2.0) - https://github.com/kemitchell/validate-npm-package-license.js
+[v8-compile-cache@2.1.0](https://github.com/zertosh/v8-compile-cache
+) (**MIT**)
 
-value-equal@1.0.1 (MIT) - https://github.com/mjackson/value-equal
+[validate-npm-package-license@3.0.4](https://github.com/kemitchell/validate-npm-package-license.js
+) (**Apache-2.0**)
 
-vary@1.1.2 (MIT) - https://github.com/jshttp/vary
+[value-equal@1.0.1](https://github.com/mjackson/value-equal
+) (**MIT**)
 
-vendors@1.0.4 (MIT) - https://github.com/wooorm/vendors
+[vary@1.1.2](https://github.com/jshttp/vary
+) (**MIT**)
 
-verror@1.10.0 (MIT) - https://github.com/davepacheco/node-verror
+[vendors@1.0.4](https://github.com/wooorm/vendors
+) (**MIT**)
 
-viewport-mercator-project@7.0.1 (MIT) - https://github.com/uber-web/math.gl
+[verror@1.10.0](https://github.com/davepacheco/node-verror
+) (**MIT**)
 
-vm-browserify@1.1.2 (MIT) - https://github.com/substack/vm-browserify
+[viewport-mercator-project@7.0.1](https://github.com/uber-web/math.gl
+) (**MIT**)
 
-vt-pbf@3.1.1 (MIT) - https://github.com/mapbox/vt-pbf
+[vm-browserify@1.1.2](https://github.com/substack/vm-browserify
+) (**MIT**)
 
-w3c-hr-time@1.0.2 (MIT) - https://github.com/jsdom/w3c-hr-time
+[vt-pbf@3.1.1](https://github.com/mapbox/vt-pbf
+) (**MIT**)
 
-w3c-xmlserializer@1.1.2 (MIT) - https://github.com/jsdom/w3c-xmlserializer
+[w3c-hr-time@1.0.2](https://github.com/jsdom/w3c-hr-time
+) (**MIT**)
 
-wait-for-expect@3.0.2 (MIT) - https://github.com/TheBrainFamily/wait-for-expect
+[w3c-xmlserializer@1.1.2](https://github.com/jsdom/w3c-xmlserializer
+) (**MIT**)
 
-walker@1.0.7 (Apache-2.0) - https://github.com/daaku/nodejs-walker
+[wait-for-expect@3.0.2](https://github.com/TheBrainFamily/wait-for-expect
+) (**MIT**)
 
-watchpack@1.6.0 (MIT) - https://github.com/webpack/watchpack
+[walker@1.0.7](https://github.com/daaku/nodejs-walker
+) (**Apache-2.0**)
 
-wbuf@1.7.3 (MIT) - https://github.com/indutny/wbuf
+[watchpack@1.6.0](https://github.com/webpack/watchpack
+) (**MIT**)
 
-webidl-conversions@4.0.2 (BSD-2-Clause) - https://github.com/jsdom/webidl-conversions
+[wbuf@1.7.3](https://github.com/indutny/wbuf
+) (**MIT**)
 
-webpack-dev-middleware@3.7.2 (MIT) - https://github.com/webpack/webpack-dev-middleware
+[webidl-conversions@4.0.2](https://github.com/jsdom/webidl-conversions
+) (**BSD-2-Clause**)
 
-webpack-dev-server@3.10.2 (MIT) - https://github.com/webpack/webpack-dev-server
+[webpack-dev-middleware@3.7.2](https://github.com/webpack/webpack-dev-middleware
+) (**MIT**)
 
-webpack-log@2.0.0 (MIT) - https://github.com/webpack-contrib/webpack-log
+[webpack-dev-server@3.10.2](https://github.com/webpack/webpack-dev-server
+) (**MIT**)
 
-webpack-manifest-plugin@2.2.0 (MIT) - https://github.com/danethurber/webpack-manifest-plugin
+[webpack-log@2.0.0](https://github.com/webpack-contrib/webpack-log
+) (**MIT**)
 
-webpack-sources@1.4.3 (MIT) - https://github.com/webpack/webpack-sources
+[webpack-manifest-plugin@2.2.0](https://github.com/danethurber/webpack-manifest-plugin
+) (**MIT**)
 
-webpack@4.41.5 (MIT) - https://github.com/webpack/webpack
+[webpack-sources@1.4.3](https://github.com/webpack/webpack-sources
+) (**MIT**)
 
-websocket-driver@0.7.3 (Apache-2.0) - https://github.com/faye/websocket-driver-node
+[webpack@4.41.5](https://github.com/webpack/webpack
+) (**MIT**)
 
-websocket-extensions@0.1.3 (MIT) - https://github.com/faye/websocket-extensions-node
+[websocket-driver@0.7.3](https://github.com/faye/websocket-driver-node
+) (**Apache-2.0**)
 
-wgs84@0.0.0 (BSD-2-Clause) - https://github.com/mapbox/wgs84
+[websocket-extensions@0.1.3](https://github.com/faye/websocket-extensions-node
+) (**MIT**)
 
-whatwg-encoding@1.0.5 (MIT) - https://github.com/jsdom/whatwg-encoding
+[wgs84@0.0.0](https://github.com/mapbox/wgs84
+) (**BSD-2-Clause**)
 
-whatwg-fetch@3.0.0 (MIT) - https://github.com/github/fetch
+[whatwg-encoding@1.0.5](https://github.com/jsdom/whatwg-encoding
+) (**MIT**)
 
-whatwg-mimetype@2.3.0 (MIT) - https://github.com/jsdom/whatwg-mimetype
+[whatwg-fetch@3.0.0](https://github.com/github/fetch
+) (**MIT**)
 
-whatwg-url@6.5.0 (MIT) - https://github.com/jsdom/whatwg-url
+[whatwg-mimetype@2.3.0](https://github.com/jsdom/whatwg-mimetype
+) (**MIT**)
 
-whatwg-url@7.1.0 (MIT) - https://github.com/jsdom/whatwg-url
+[whatwg-url@6.5.0](https://github.com/jsdom/whatwg-url
+) (**MIT**)
 
-which-module@1.0.0 (ISC) - https://github.com/nexdrew/which-module
+[whatwg-url@7.1.0](https://github.com/jsdom/whatwg-url
+) (**MIT**)
 
-which-module@2.0.0 (ISC) - https://github.com/nexdrew/which-module
+[which-module@1.0.0](https://github.com/nexdrew/which-module
+) (**ISC**)
 
-which@1.3.1 (ISC) - https://github.com/isaacs/node-which
+[which-module@2.0.0](https://github.com/nexdrew/which-module
+) (**ISC**)
 
-which@2.0.2 (ISC) - https://github.com/isaacs/node-which
+[which@1.3.1](https://github.com/isaacs/node-which
+) (**ISC**)
 
-wide-align@1.1.3 (ISC) - https://github.com/iarna/wide-align
+[which@2.0.2](https://github.com/isaacs/node-which
+) (**ISC**)
 
-word-wrap@1.2.3 (MIT) - https://github.com/jonschlinkert/word-wrap
+[wide-align@1.1.3](https://github.com/iarna/wide-align
+) (**ISC**)
 
-workbox-background-sync@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[word-wrap@1.2.3](https://github.com/jonschlinkert/word-wrap
+) (**MIT**)
 
-workbox-broadcast-update@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-background-sync@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-build@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-broadcast-update@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-cacheable-response@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-build@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-core@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-cacheable-response@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-expiration@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-core@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-google-analytics@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-expiration@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-navigation-preload@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-google-analytics@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-precaching@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-navigation-preload@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-range-requests@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-precaching@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-routing@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-range-requests@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-strategies@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-routing@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-streams@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-strategies@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-sw@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-streams@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-webpack-plugin@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-sw@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-workbox-window@4.3.1 (MIT) - https://github.com/googlechrome/workbox
+[workbox-webpack-plugin@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-worker-farm@1.7.0 (MIT) - https://github.com/rvagg/node-worker-farm
+[workbox-window@4.3.1](https://github.com/googlechrome/workbox
+) (**MIT**)
 
-worker-rpc@0.1.1 (MIT) - https://github.com/DirtyHairy/worker-rpc
+[worker-farm@1.7.0](https://github.com/rvagg/node-worker-farm
+) (**MIT**)
 
-wrap-ansi@2.1.0 (MIT) - https://github.com/chalk/wrap-ansi
+[worker-rpc@0.1.1](https://github.com/DirtyHairy/worker-rpc
+) (**MIT**)
 
-wrap-ansi@5.1.0 (MIT) - https://github.com/chalk/wrap-ansi
+[wrap-ansi@2.1.0](https://github.com/chalk/wrap-ansi
+) (**MIT**)
 
-wrappy@1.0.2 (ISC) - https://github.com/npm/wrappy
+[wrap-ansi@5.1.0](https://github.com/chalk/wrap-ansi
+) (**MIT**)
 
-write-file-atomic@2.4.1 (ISC) - https://github.com/iarna/write-file-atomic
+[wrappy@1.0.2](https://github.com/npm/wrappy
+) (**ISC**)
 
-write@1.0.3 (MIT) - https://github.com/jonschlinkert/write
+[write-file-atomic@2.4.1](https://github.com/iarna/write-file-atomic
+) (**ISC**)
 
-ws@5.2.2 (MIT) - https://github.com/websockets/ws
+[write@1.0.3](https://github.com/jonschlinkert/write
+) (**MIT**)
 
-ws@6.2.1 (MIT) - https://github.com/websockets/ws
+[ws@5.2.2](https://github.com/websockets/ws
+) (**MIT**)
 
-xml-name-validator@3.0.0 (Apache-2.0) - https://github.com/jsdom/xml-name-validator
+[ws@6.2.1](https://github.com/websockets/ws
+) (**MIT**)
 
-xmlchars@2.2.0 (MIT) - https://github.com/lddubeau/xmlchars
+[xml-name-validator@3.0.0](https://github.com/jsdom/xml-name-validator
+) (**Apache-2.0**)
 
-xregexp@4.3.0 (MIT) - https://github.com/slevithan/xregexp
+[xmlchars@2.2.0](https://github.com/lddubeau/xmlchars
+) (**MIT**)
 
-xtend@4.0.2 (MIT) - https://github.com/Raynos/xtend
+[xregexp@4.3.0](https://github.com/slevithan/xregexp
+) (**MIT**)
 
-y18n@3.2.1 (ISC) - https://github.com/yargs/y18n
+[xtend@4.0.2](https://github.com/Raynos/xtend
+) (**MIT**)
 
-y18n@4.0.0 (ISC) - https://github.com/yargs/y18n
+[y18n@3.2.1](https://github.com/yargs/y18n
+) (**ISC**)
 
-yallist@2.1.2 (ISC) - https://github.com/isaacs/yallist
+[y18n@4.0.0](https://github.com/yargs/y18n
+) (**ISC**)
 
-yallist@3.1.1 (ISC) - https://github.com/isaacs/yallist
+[yallist@2.1.2](https://github.com/isaacs/yallist
+) (**ISC**)
 
-yallist@4.0.0 (ISC) - https://github.com/isaacs/yallist
+[yallist@3.1.1](https://github.com/isaacs/yallist
+) (**ISC**)
 
-yaml@1.8.2 (ISC) - https://github.com/eemeli/yaml
+[yallist@4.0.0](https://github.com/isaacs/yallist
+) (**ISC**)
 
-yargs-parser@11.1.1 (ISC) - https://github.com/yargs/yargs-parser
+[yaml@1.8.2](https://github.com/eemeli/yaml
+) (**ISC**)
 
-yargs-parser@13.1.1 (ISC) - https://github.com/yargs/yargs-parser
+[yargs-parser@11.1.1](https://github.com/yargs/yargs-parser
+) (**ISC**)
 
-yargs-parser@5.0.0 (ISC) - https://github.com/yargs/yargs-parser
+[yargs-parser@13.1.1](https://github.com/yargs/yargs-parser
+) (**ISC**)
 
-yargs@12.0.5 (MIT) - https://github.com/yargs/yargs
+[yargs-parser@5.0.0](https://github.com/yargs/yargs-parser
+) (**ISC**)
 
-yargs@13.3.0 (MIT) - https://github.com/yargs/yargs
+[yargs@12.0.5](https://github.com/yargs/yargs
+) (**MIT**)
 
-yargs@7.1.0 (MIT) - https://github.com/yargs/yargs
+[yargs@13.3.0](https://github.com/yargs/yargs
+) (**MIT**)
+
+[yargs@7.1.0](https://github.com/yargs/yargs) (**MIT**)
+
+
 
 ### Contact Us
