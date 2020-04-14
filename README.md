@@ -46,6 +46,10 @@ The Explore page is a way for users to view stories built by others using the St
 
 ### Licensing
 
+#### Terms of Service
+
+#### Privacy Policy
+
 #### Open Source Licensing
 
 [@babel/code-frame@7.8.3](https://github.com/babel/babel/tree/master/packages/babel-code-frame
