@@ -16,6 +16,8 @@
 
 #### 5.0 VizBuilder Page
 
+##### 5.1 Graphs
+
 #### 6.0 StoryBuilder Page
 
 ### Licensing
