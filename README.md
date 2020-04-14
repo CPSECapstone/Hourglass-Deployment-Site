@@ -39,8 +39,39 @@ The Explore page is a way for users to view stories built by others using the St
 
 
 #### 4.0 VizBuilder Page
+The VisBuilder Page is a tool that allows users to dig deeper into Central Coast public data. From this page, the user can select to see the data as interactive graphs or as interactive maps or both. Users can specifiy custom filters and then view the resulting data as a series of visualizations based on their selections.
 
 ##### 4.1 Graphs
+Once a user access the web application, a screen will appear with predifined graphs. A user can work with this graph or click  on the upward arrow at the botton of the page to select new graphs from the Five different initiatives we have. 
+The user will be able to see different types of graphs including: 
+
+. a Line graph.
+
+Line graphs are used to track changes over short and long periods of time. When smaller changes exist, line graphs are better to use than bar graphs. Line graphs can also be used to compare changes over the same period of time for more than one group.
+
+. a Pie Chart.
+
+Pie charts are best to use when you are trying to compare parts of a whole. They do not show changes over time.
+
+. a Bar Graph.
+
+Bar graphs are used to compare things between different groups or to track changes over time. However, when trying to measure change over time, bar graphs are best when the changes are larger.
+
+. an Area Graph.
+
+Area graphs are very similar to line graphs. They can be used to track changes over time for one or more groups. Area graphs are good to use when you are tracking the changes in two or more related groups that make up one whole category (for example public and private groups).
+
+.  an X-Y Plot.
+
+X-Y plots are used to determine relationships between the two different things. The x-axis is used to measure one event (or variable) and the y-axis is used to measure the other. If both variables increase at the same time, they have a positive relationship. If one variable decreases while the other increases, they have a negative relationship. Sometimes the variables don't follow any pattern and have no relationship.
+
+A user will be able to delete, save, duplicate, or share a graph on Facebook, Twitter or LinkedIn by clicking on the specific buttons from the menu above the graph.
+
+A user will also be able to print or download a graph as 'PDF', 'PNG', or 'JPEG' files. To do so, the user can click on the 3 lines Icons from top right corner of the graph. 
+
+A user can zooming in a graph for better readability; with a mouse pointer, the zooming is performed by dragging out a rectangle in the chart. the user can press the shift key and drag the mouse in order to move inside the zoomed in chart.
+
+##### 4.2 Maps
 
 #### 5.0 StoryBuilder Page
 
