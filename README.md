@@ -4,8 +4,8 @@
 
 ### Install
 
-### Licencing
-
 ### User Guide
+
+### Licensing
 
 ### Contact Us
