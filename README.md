@@ -2,6 +2,8 @@
 
 ### Demo
 
+[![Alternate Text]({images/reach.png})]({images/demoReach.mp4} "Graph Demo")
+
 ### Install
 
 ### User Guide
