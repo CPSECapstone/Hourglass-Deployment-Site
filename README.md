@@ -24,6 +24,7 @@ WARNING: Please do not use passwords that you would use on other sites.  We are 
 1. To create an account, click the ‘Login’ button in the upper right hand corner and then navigate to 'Create Account' in the upper right hand corner.  
 2. There are three options to create an account: through Facebook, Google, or by creating a Reach account by entering your name, email, and password.  
 3. Once your account is created, you will be automatically logged in, which is indicated by the user icon appearing in the upper right hand corner.
+
 ##### 2.2 Logging in
 1. If you already have an account and would like to log in, click the 'Login' button in the upper right hand corner, which will navigate you to our Login page.
 2. Log in using whichever method you chose when creating your account.
@@ -45,7 +46,9 @@ The Explore page is a way for users to view stories built by others using the St
 
 
 #### 4.0 VizBuilder Page
-The VisBuilder Page is a tool that allows users to dig deeper into Central Coast public data. From this page, the user can select to see the data as interactive graphs or as interactive maps or both. Users can specifiy custom filters and then view the resulting data as a series of visualizations based on their selections.
+The VizBuilder Page is a tool that allows users to dig deeper into Central Coast public data. From this page, the user can select to see the data as interactive graphs or as interactive maps or both. Users can specifiy custom filters and then view the resulting data as a series of visualizations based on their selections.
+
+![](images/VizBuilderPage.png)
 
 ##### 4.1 Graphs
 Once a user accesses the web application, a screen will appear with predefined graphs. A user can work with this graph or click on the upward arrow at the botton of the page to select new graphs from the five different initiatives available. 
@@ -80,6 +83,17 @@ A user can zoom in a graph for better readability; with a mouse pointer, the zoo
 ##### 4.2 Maps
 
 #### 5.0 StoryBuilder Page
+The StoryBuilder page is a tool to build a compelling and meaningful story using maps, graphs, images, and text.  This allows you to create a story with the data shown. These stories can then be saved and shared.
+
+![](images/StoryBuilderPage.png)
+
+1. Click on ‘StoryBuilder’ in the navigation bar.
+2. Fill in the title and description of the story you are trying to tell.
+3. From here, you can add maps, graphs, images, or text to your story, using the toolbar on the left. (maps not yet implemented)
+4. All of these components can be reordered by using the drag handles on the left side of each component.
+5. To preview what the document will look like, click the ‘Preview’ button on the toolbar.
+6. To save the document when it is finished, click the ‘Save’ button on the toolbar. (not yet fully implemented)
+
 
 ### Licensing
 
