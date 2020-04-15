@@ -80,7 +80,15 @@ A user will also be able to print or download a graph as 'PDF', 'PNG', or 'JPEG'
 
 A user can zoom in a graph for better readability; with a mouse pointer, the zooming is performed by dragging out a rectangle in the chart. The user can press the shift key and drag the mouse in order to move inside the zoomed in chart.
 
-##### 4.2 Maps
+##### 4.2 Maps Overview
+###### 4.2.0 Adding Layer to Map 
+1. Click 'Layers' 
+2. Select up to two data topics that you would like to view geographically. Depending on the type of data selected, the map will display pins or a choropleth map. 
+3. For a choropleth map, hover the cursor over the map to find the values of a particular area.
+4. For a pin, click on a pin to find the values at that point. 
+
+###### 4.2.1 Adjusting Map Bounds (not yet implemented)
+Click on 'Region', 'Communities', or 'Zip Code' to adjust the boundaries and data displayed on the map. 
 
 #### 5.0 StoryBuilder Page
 The StoryBuilder page is a tool to build a compelling and meaningful story using maps, graphs, images, and text.  This allows you to create a story with the visualizations created using the VizBuilder (section 4.0). These stories can then be saved and shared.
