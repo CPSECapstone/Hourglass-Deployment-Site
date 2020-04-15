@@ -80,6 +80,7 @@ A user can zooming in a graph for better readability; with a mouse pointer, the 
 #### Terms of Service
 
 #### Privacy Policy
+[Click here to view the Privacy Policy](./PrivacyPolicy.pdf)
 
 #### Open Source Licensing
 
