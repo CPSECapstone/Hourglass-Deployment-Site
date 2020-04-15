@@ -4,6 +4,8 @@
 
 [![Graph Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1586927119/video_to_markdown/images/youtube--1CZzfJO3TyM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/1CZzfJO3TyM "Graph Demo")
 
+[![Map Demp]](https://drive.google.com/open?id=1NB3A6OzHKMdBoiD92v7p0F8YRIbBWV17 "Map Demo")
+
 ### Install
 
 ### User Guide
@@ -44,7 +46,7 @@ The Explore page is a way for users to view stories built by others using the St
 The VisBuilder Page is a tool that allows users to dig deeper into Central Coast public data. From this page, the user can select to see the data as interactive graphs or as interactive maps or both. Users can specifiy custom filters and then view the resulting data as a series of visualizations based on their selections.
 
 ##### 4.1 Graphs
-Once a user access the web application, a screen will appear with predifined graphs. A user can work with this graph or click  on the upward arrow at the botton of the page to select new graphs from the Five different initiatives we have. 
+Once a user accesses the web application, a screen will appear with predefined graphs. A user can work with this graph or click on the upward arrow at the botton of the page to select new graphs from the five different initiatives available. 
 The user will be able to see different types of graphs including: 
 
 . a Line graph.
@@ -69,9 +71,9 @@ X-Y plots are used to determine relationships between the two different things. 
 
 A user will be able to delete, save, duplicate, or share a graph on Facebook, Twitter or LinkedIn by clicking on the specific buttons from the menu above the graph.
 
-A user will also be able to print or download a graph as 'PDF', 'PNG', or 'JPEG' files. To do so, the user can click on the 3 lines Icons from top right corner of the graph. 
+A user will also be able to print or download a graph as 'PDF', 'PNG', or 'JPEG' files. To do so, the user can click on the 3 lines icon in top right corner of the graph. 
 
-A user can zooming in a graph for better readability; with a mouse pointer, the zooming is performed by dragging out a rectangle in the chart. the user can press the shift key and drag the mouse in order to move inside the zoomed in chart.
+A user can zoom in a graph for better readability; with a mouse pointer, the zooming is performed by dragging out a rectangle in the chart. The user can press the shift key and drag the mouse in order to move inside the zoomed in chart.
 
 ##### 4.2 Maps
 
