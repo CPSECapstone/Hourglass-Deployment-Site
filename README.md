@@ -98,21 +98,15 @@ The StoryBuilder page is a tool to build a compelling and meaningful story using
 ##### 5.1 StoryBuilder Overview
 1. Click on 'StoryBuilder' in the navigation bar.
 2. Fill in the title and description of the story you are trying to tell.
-3. From here, you can add maps, graphs, images, or text to your story, using the toolbar on the left. (maps and images not yet implemented)
+3. From here, you can add maps, graphs, images, or text to your story, using the toolbar on the left. (Only text blocks are implemented so far. Graph blocks are currently under development, and maps and images are coming soon.)
 4. All of these components can be reordered by using the drag handles on the left side of each component.
-5. To preview what the document will look like, click the ‘Preview’ button on the toolbar.
+5. To preview what the document will look like, click the 'Preview' button on the toolbar.
 6. To save the document when it is finished, click the ‘Save’ button on the toolbar. (not yet fully implemented)
 
-##### 5.2 Adding Graph to Story
-1. Click 'Graph' on left-hand side toolbar
-2. Saved graphs will populate your screen.
-3. Click on the graph wanted for that story
-
-##### 5.3 Adding text to Story
+##### 5.2 Adding text to Story
 1. Click 'Text' on left-hand side toolbar.
 2. Click inside the box to type.
 3. To use any of the stylings at the top of the text box, highlight the portion of the text and click on the styling wanted.
-
 
 ### Licensing
 
