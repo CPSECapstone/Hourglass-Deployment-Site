@@ -13,6 +13,11 @@
 [![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1586927119/video_to_markdown/images/youtube--1CZzfJO3TyM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1JzaLhkd2OK4xsbIb5OmDDkNC47wo_G1-/view?usp=sharing "REACH Demo")
 
 ### Install
+  The application is avaliable by two seperate links. 
+  
+  The alpha build which will be utilized by aplha testers in order to determine stable features to be deployed into production is available here: https://master.d1t7lxoixksik3.amplifyapp.com/
+  
+  The production build which will be avaliable to the general public is available here: https://production.d1t7lxoixksik3.amplifyapp.com/
 
 ### User Guide
 
