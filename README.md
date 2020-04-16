@@ -3237,6 +3237,9 @@ The StoryBuilder page is a tool to build a compelling and meaningful story using
 [neo-async@2.6.1](https://github.com/suguru03/neo-async
 ) (**MIT**)
 
+[Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
+) (**MIT**)
+
 [next-tick@1.0.0](https://github.com/medikoo/next-tick
 ) (**MIT**)
 
@@ -3299,6 +3302,9 @@ The StoryBuilder page is a tool to build a compelling and meaningful story using
 
 [normalize-url@3.3.0](https://github.com/sindresorhus/normalize-url
 ) (**MIT**)
+
+[npgsql](https://github.com/npgsql/npgsql/blob/master/LICENSE
+) (**PostgreSQL**)
 
 [npm-bundled@1.1.1](https://github.com/npm/npm-bundled
 ) (**ISC**)
@@ -3837,8 +3843,10 @@ The StoryBuilder page is a tool to build a compelling and meaningful story using
 [postcss@7.0.21](https://github.com/postcss/postcss
 ) (**MIT**)
 
-[postcss@7.0.27](https://github.com/postcss/postcss
-) (**MIT**)
+[postcss@7.0.27](https://www.postgresql.org/about/licence/) (**MIT**)
+
+[PostgreSQL](https://github.com/postcss/postcss
+) (**PostgreSQL**)
 
 [potpack@1.0.1](https://github.com/mapbox/potpack
 ) (**ISC**)
