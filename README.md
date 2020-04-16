@@ -10,11 +10,7 @@
   
 ### Demo
 
-#### Graph Demo 
-[![Graph Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1586927119/video_to_markdown/images/youtube--1CZzfJO3TyM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1DH9lRSFlR9V_1qiJB7tPiPt2OUpENE4y/view "Graph Demo")
-
-#### Map Demo
-[![](images/MapDemo.png)](https://drive.google.com/open?id=1NB3A6OzHKMdBoiD92v7p0F8YRIbBWV17 "Map Demo")
+[![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1586927119/video_to_markdown/images/youtube--1CZzfJO3TyM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1JzaLhkd2OK4xsbIb5OmDDkNC47wo_G1-/view?usp=sharing "REACH Demo")
 
 ### Install
 
