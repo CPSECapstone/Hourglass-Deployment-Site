@@ -15,9 +15,9 @@
 ### Install
   The application is avaliable by two seperate links. 
   
-  The alpha build which will be utilized by aplha testers in order to determine stable features to be deployed into production is available here: [Alpha](https://master.d1t7lxoixksik3.amplifyapp.com/)
+  The development build will be utilized by developers and internal testers in order to determine stable features to be deployed into alpha. This is an unstable and experimental build, and is available here: [Development](https://master.d1t7lxoixksik3.amplifyapp.com/)
   
-  The production build which will be avaliable to the general public is available here: [Production](https://production.d1t7lxoixksik3.amplifyapp.com/)
+  The alpha build which will be avaliable to external testers and the general public is available here: [Alpha](https://production.d1t7lxoixksik3.amplifyapp.com/)
 
 ### User Guide
 
