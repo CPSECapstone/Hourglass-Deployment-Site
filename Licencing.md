@@ -7,9 +7,13 @@ nav_order: 4
 
 #### Terms of Service
 [Click here to view the Terms of Service](./TermsOfService.pdf)
+  
+  
 
 #### Privacy Policy
 [Click here to view the Privacy Policy](./PrivacyPolicy.pdf)
+  
+  
 
 #### Open Source Licensing
 
