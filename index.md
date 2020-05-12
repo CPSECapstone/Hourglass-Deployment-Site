@@ -13,9 +13,6 @@ nav_order: 1
   4. Create an account to save Stories for later viewing
   5. Discover Stories that other users have put together through the Explore page
   
-### Demo
-
-[![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1586927119/video_to_markdown/images/youtube--1CZzfJO3TyM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1JzaLhkd2OK4xsbIb5OmDDkNC47wo_G1-/view?usp=sharing "REACH Demo")
 
 ### Install
   The application is avaliable by two seperate links. 
