@@ -1,3 +1,8 @@
+---
+title: Reach
+nav_order: 1
+---
+
 ### About Reach
   Reach is a web based application that allows users to visualize economic data in both graphical and geographical form. The goal of Reach is to empower residents, business owners and politicians from the Central Coast of California to make data-driven decisions by giving them the proper tools to accurately measure the health of their community. 
 
