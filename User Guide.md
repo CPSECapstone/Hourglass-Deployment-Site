@@ -1,3 +1,8 @@
+---
+title: User Guide
+nav_order: 3
+---
+
 ### User Guide
 
 #### 1.0 Introduction
