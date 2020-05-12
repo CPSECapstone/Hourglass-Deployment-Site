@@ -12,7 +12,7 @@ nav_order: 2
 ##### Alpha Build
   The alpha build which will be avaliable to external testers and the general public is available here: [Alpha](https://production.d1t7lxoixksik3.amplifyapp.com/)
 
-#### Alpha Status
+### Alpha Status
   These are the current known issues in the Alpha Branch:
   1. Issue 1
   2. Issue 2
