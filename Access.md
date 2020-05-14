@@ -14,6 +14,4 @@ nav_order: 2
 
 ### Alpha Status
   These are the current known issues in the Alpha Branch:
-  1. Issue 1
-  2. Issue 2
-  3. Issue 3
+  1. The Explore page is not implemented
