@@ -215,4 +215,47 @@ Block public and cross-account access to buckets and objects through any public 
 ```
 - Add the bucket name you created to appsettings.json under Buckets. For example, if you are adding Profile image support, add "ProfilePicture": "hourglass-profile-pictures" where “hourglass-profile-pictures” is the name of the bucket you created
 
+### Elasticsearch Index and Syncing Lambda Setup
+- Set up a domain for your Elasticsearch Service on AWS. Grant the following access policy:
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "*"
+      },
+      "Action": "es:*",
+      "Resource": "your-aws-resource-here/*"
+    }
+  ]
+}
+```
 
+There is also a script that syncs the Elasticsearch Indices with the database.
+- Set up an execution role with the following policy:
+```json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "logs:CreateLogGroup",
+            "Resource": "your-resource:*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogStream",
+                "logs:PutLogEvents"
+            ],
+            "Resource": [
+                "your-resource:your-role-name:*"
+            ]
+        }
+    ]
+}
+```
+- Deploy the Lambda code via the AWS Console.
+- Lastly, set up an AWS CloudWatch Events Trigger to schedule the rate at which the search index updates (for example, every day).
