@@ -12,6 +12,4 @@ nav_order: 2
 ##### Alpha Build
   The alpha build which will be avaliable to external testers and the general public is available here: [Alpha](https://www.joinreach.org/)
 
-### Alpha Status
-  These are the current known issues in the Alpha Branch:
-  1. The Explore page is not implemented
+
