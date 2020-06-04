@@ -105,3 +105,4 @@ The StoryBuilder page is a tool to build a compelling and meaningful story using
 
 ##### 6.1 My Stuff Page Overview
 The My Stuff page is a page for users with a REACH account can access their saved and bookmarked stories, maps, and charts. The page contains an overview, along with filters for maps, charts, and graphs so that users can view their saved collections. As of now, stories and charts have been implemented to save in the My Stuff page. Saving or bookmarking maps is under construction. 
+![](images/MyStuffPage.png)
