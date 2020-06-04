@@ -172,6 +172,20 @@ mkdir ServerLogs
 - Make sure to edit the server config files scripts/server_production.conf with the location of the SSL certificate file.
 
 
+### Simple Email Service
+The backend uses AWS Simple Email Service (SES) to send mail. 
+- To create credentials, visit SES and go to Email Sending->SMTP Settings->Create My SMTP Credentials and follow the steps given on the creation page. Insert those credentials and the Server Name on the SMTP Settings website into the appsettings.json as follows.
+```json
+"Smtp": {
+    "Host": "email-smtp.us-west-2.amazonaws.com",
+    "Username": "enter-username-here",
+    "Password": "enter-password-here"
+  },
+```
+- To be able to send email *to* any address, visit Email Sending->Sending Statistics and follow the AWS guide to leaving the SES Sandbox.
+- To be able to send *from* an address, visit Identity Management->Email Addresses, click Verify a New Email Address and follow the steps for your desired sending address.
+  - Alternatively, visit Identity Management->Domains and Verify a New Domain to allow any address on that to send mail.
+
 ---
 ## Frontend Setup
 Our frontend is hosted on AWS Amplify, where we have a development environment, running off of the code in our Master branch and is used for internal testing. We also have a production environment, running off the code in our Production branch, used for external release.
