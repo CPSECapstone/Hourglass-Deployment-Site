@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-nav_order: 6
+nav_order: 7
 ---
 
 ### Contact Us
