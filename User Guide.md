@@ -29,12 +29,15 @@ WARNING: Please do not use passwords that you would use on other sites.  We are 
 3. Once you are logged out, this will be indicated by the ‘Login’ button reappearing in the upper right hand corner.
 
 #### 3.0 Explore Page
-The Explore page is a way for users to view stories built by others using the StoryBuilder (see section 5.0).  These stories can be shared to social media or saved to your personal device.  The search bar at the top of the page will be used to search for relevant stories.  This page is still under construction and is not yet fully functional.
+The Explore page is a way for users to view stories built by others using the StoryBuilder (see section 5.0).  These stories can be shared to social media or saved to your personal device. 
+
+The Explore page also includes search functionality, displaying the various stories and graphs currently available on the website. The search bar allows for quick search functionality through website database contents and matches the query against titles, decription and content of stories and graphs.
 
 ![](images/ExplorePage.png)
 
+Viewing Explore Page
 1. Click on 'Explore' on the navigation bar.
-2. To view any stories on this page, click on the story card, which will navigate you to a new page with the full story. (not yet fully functional)
+2. To view any stories on this page, click on the story card, which will navigate you to a page displaying the full story.
 3. To share this story, click the 'Share' button, which will provide options to share to Facebook, Twitter, or LinkedIn.
 
 
