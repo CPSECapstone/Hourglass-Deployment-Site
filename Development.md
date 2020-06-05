@@ -234,7 +234,15 @@ frontend:
 
 ---
 ## Database Setup
-
+- Create a PostgreSQL database within the AWS RDS console.
+- Add a new schema to the database, called "datasets".
+- Update the appsettings.json with the database connection string:
+```json 
+{
+  "ConnectionStrings": 
+    {"HourglassDatabase": "Server=AWS_ENDPOINT;port=PORT;Database=postgres;User Id=USER_ID;Password=PASSWORD;"}
+}
+```
 ---
 ## Other Setup
 
