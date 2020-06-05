@@ -322,5 +322,12 @@ There is also a script that syncs the Elasticsearch Indices with the database.
     ]
 }
 ```
-- Deploy the Lambda code via the AWS Console.
+- Deploy the Lambda code (located in the backend repository in /Lambdas) via the AWS Console. You will then need to replace the example db_config.json file with your database information as well as the Elasticsearch URL on line 94.
 - Lastly, set up an AWS CloudWatch Events Trigger to schedule the rate at which the search index updates (for example, every day).
+- Note: If you are having trouble packaging dependencies for use in AWS Lambda, you can use the repository https://github.com/keithrozario/Klayers to instead utilize AWS Layers for Python instead of packaging the dependencies yourself
+
+### Housing Data Retrieval
+- Deploy the Lambda code (located in the backend repository in /Lambdas) via the AWS Console. You will then need to replace the example db_config.json file with your database information.
+- If necessary, you can update the zips.json file and add or remove zip codes that are relevant to the project.
+- Lastly, set up an AWS CloudWatch Events Trigger to schedule the rate at which the data updates (Zillow data updates every month).
+- See note above for utilizing AWS Layers instead of self-packaging dependencies.
